@@ -10,7 +10,7 @@ $journalist = new ContentGrabber();
 <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <title>School of Universal Consciousness (UniCon) ADMIN</title>
-    <script src="http://code.jquery.com/jquery-1.11.0.js"></script>
+    <script src="https://code.jquery.com/jquery-1.11.0.js"></script>
     <script src="/css/5grid/init.js?use=mobile,desktop,1000px&amp;mobileUI=1&amp;mobileUI_theme=none&amp;mobileUI_navInnerPad=20"></script>
     <script src="/js/jquery.dropotron-1.1.js"></script>
     <script src="/js/init.js"></script>
@@ -42,6 +42,7 @@ $journalist = new ContentGrabber();
                 <nav class="mobileUI-site-nav">
                     <ul>
                         <li class="current_page_item"><a href="/">Home</a></li>
+<!--
                         <li>
                             <a href="">A Dropdown</a>
                             <ul>
@@ -61,7 +62,8 @@ $journalist = new ContentGrabber();
                                 <li><a href="#">Veroeros feugiat</a></li>
                             </ul>
                         </li>
-                        <li><a href="twocolumn1.html">Join Us</a></li>
+-->
+                        <li><a href="https://www.facebook.com/p/School-of-Universal-Consciousness-100021250182646/?paipv=0&eav=Afbwme5Etkhar4vEuZLV6LapGYK7fFA1GIrFi-khWFCX8cLM3wKGjKia1ghoR2mb6us&_rdr">Join Us</a></li>
                     </ul>
                 </nav>
             </div>
@@ -142,6 +144,10 @@ $journalist = new ContentGrabber();
                                     <li>
                                         <strong>Constantly Reevaluate:</strong> Strive to not believe anything anyone says without due diligence in validating its truthfulness relative to your own personal mythology. But also strive to constantly reevaluate all of your beliefs, particularly your strongest held ones.
                                     </li>
+<li><strong>Work From Home is sacred:</strong> We strongly believe that working from home (telecommuting) is essential for the future of both humanity and Planet Earth.
+Whenever a reasonable accomodation can be made (e.g., our jobs can be done 100% remotely), we believe strongly that this is what we must do, for both the health of ourselves, our families, and Planet Earth. 
+<br/>Whenever there is not a strongly justifiable need for work to be done more than 2.2 miles (3.5 kilometers), we hold that we must find other remote employment and/or face termination by our employer in order to uphold this strongly held core principle of our faith. We believe strongly in telecommuting and walkable cities, and while we cannot all live in walkable cities yet, we all can and do make a vow to never be forced into a hybrid or full-time in-office job for the sakes of our planet and the future technological progression of humanity.
+</li>
                                 </ol>
                             <?php } ?>
                         </article>
@@ -166,17 +172,14 @@ $journalist = new ContentGrabber();
                                 </header>
                                 <img src="/images/pic3.jpg" alt="" class="image" />
                                 <p>
-                                    Phasellus dapibus sed convallis scelerisque. Donec et augue id tortor ultricies
-                                    eget pellentesque turpis ut nulla et sem, vel iaculis arcu. Nulla vel lorem nisl,
-                                    quis et ultricies tellus nunc imperdiet.
+                                    You can find our community on Facebook. 
                                 </p>
                                 <footer>
-                                    <a href="#" class="button-style2 icon24 icon24-bio">Full Biography</a>
+                                    <a href="https://www.facebook.com/profile.php?id=100021250182646" class="button-style2 icon24 icon24-bio">School of Universal Consciouness on Facebook</a>
                                 </footer>
                             <?php } ?>
                         </section>
-
-                        <!-- Recent Posts -->
+                        <!-- Recent Posts --/>
                         <section class="widget widget-recent-posts">
                             <header>
                                 <h2>Recent Posts</h2>
@@ -203,8 +206,7 @@ $journalist = new ContentGrabber();
                                 <a href="#" class="button-style2 icon24 icon24-folder">Archives</a>
                             </footer>
                         </section>
-
-                        <!-- Recent Tweets -->
+                        </!-- Recent Tweets --/>
                         <section class="widget widget-recent-tweets">
                             <header>
                                 <h2>Recent Tweets</h2>
@@ -228,9 +230,10 @@ $journalist = new ContentGrabber();
                             </footer>
                         </section>
 
+-->
                         <!-- Copyright -->
                         <div id="copyright">
-                            Copyright &copy; 2014 PHP Experts, Inc. All rights reserved.
+                            Copyright &copy; 2012-2024 Theodore R. Smith. All rights reserved.
                         </div>
                     </div>
                 </div>
