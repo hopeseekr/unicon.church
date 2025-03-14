@@ -79,5 +79,19 @@ without due diligence in validating its truthfulness relative to your own
 personal mythology. But also strive to constantly reevaluate all of your
 beliefs, particularly your strongest held ones.
 
-http://www.unicon.church/
+11. **Work From Home is sacred:** We strongly believe that working from home 
+(telecommuting) is essential for the future of both humanity and Planet Earth. 
+Whenever a reasonable accomodation can be made (e.g., our jobs can be done 100% 
+remotely), we believe strongly that this is what we must do, for both the 
+health of ourselves, our families, and Planet Earth.
+
+Whenever there is not a strongly justifiable need for work to be done more than 
+2.2 miles (3.5 kilometers), we hold that we must find other remote employment 
+and/or face termination by our employer in order to uphold this strongly held 
+core principle of our faith. We believe strongly in telecommuting and walkable 
+cities, and while we cannot all live in walkable cities yet, we all can and do 
+make a vow to never be forced into a hybrid or full-time in-office job for the 
+sakes of our planet and the future technological progression of humanity.
+
+https://www.unicon.church/
 
