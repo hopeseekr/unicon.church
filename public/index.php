@@ -1,10 +1,3 @@
-<?php
-
-define('PROJECT_ROOT', realpath(__DIR__ . '/../'));
-include PROJECT_ROOT . '/services/ContentGrabber.php';
-
-$journalist = new ContentGrabber();
-?>
 <!DOCTYPE HTML>
 <html>
 <head>
@@ -28,7 +21,6 @@ $journalist = new ContentGrabber();
         li { margin-bottom: 13px; }
 
     </style>
-    <?php if (isset($customHeader)) { echo $customHeader; } ?>
 </head>
 <body class="left-sidebar">
 <div id="wrapper">
@@ -83,11 +75,6 @@ $journalist = new ContentGrabber();
 
                         <!-- Post -->
                         <article class="post editable" data-content-id="post-mission_statement">
-                            <?php
-                            if (($snippet = $journalist->fetchStory('post-mission_statement')) != false) {
-                                echo $snippet;
-                            } else {
-                                ?>
                                 <header>
                                     <h2><a href="#">Mission Statement</a></h2>
                                     <div class="byline">Our goals</div>
@@ -95,14 +82,8 @@ $journalist = new ContentGrabber();
 
                                 <span class="image align-left"><img src="/images/pic1.jpg" alt="" /></span>
                                 <p>To create a community for those who want an areligious organization which purposefully abstains from proselytizing dogmas. A collaborative focused thought forum for the unchurched, comprised of individuals who strive for evolving a better society, and a better Earth, through fostering open minded discussion, and targeted civic action.</p>
-                            <?php } ?>
                         </article>
                         <article class="post editable" data-content-id="post-core_principles">
-                            <?php
-                            if (($snippet = $journalist->fetchStory('post-core_principles')) != false) {
-                                echo $snippet;
-                            } else {
-                                ?>
                                 <header>
                                     <h2><a href="#">Core Principles</a></h2>
                                 </header>
@@ -149,7 +130,6 @@ Whenever a reasonable accomodation can be made (e.g., our jobs can be done 100% 
 <br/>Whenever there is not a strongly justifiable need for work to be done more than 2.2 miles (3.5 kilometers), we hold that we must find other remote employment and/or face termination by our employer in order to uphold this strongly held core principle of our faith. We believe strongly in telecommuting and walkable cities, and while we cannot all live in walkable cities yet, we all can and do make a vow to never be forced into a hybrid or full-time in-office job for the sakes of our planet and the future technological progression of humanity.
 </li>
                                 </ol>
-                            <?php } ?>
                         </article>
                     </div>
                 </div>
@@ -162,11 +142,6 @@ Whenever a reasonable accomodation can be made (e.g., our jobs can be done 100% 
 
                         <!-- About -->
                         <section class="widget widget-about editable" data-content-id="main-about_us">
-                            <?php
-                            if (($snippet = $journalist->fetchStory('main-about_us')) != false) {
-                                echo $snippet;
-                            } else {
-                                ?>
                                 <header>
                                     <h2>About Us</h2>
                                 </header>
@@ -177,7 +152,6 @@ Whenever a reasonable accomodation can be made (e.g., our jobs can be done 100% 
                                 <footer>
                                     <a href="https://www.facebook.com/profile.php?id=100021250182646" class="button-style2 icon24 icon24-bio">School of Universal Consciouness on Facebook</a>
                                 </footer>
-                            <?php } ?>
                         </section>
                         <!-- Recent Posts --/>
                         <section class="widget widget-recent-posts">
@@ -243,6 +217,5 @@ Whenever a reasonable accomodation can be made (e.g., our jobs can be done 100% 
 </div>
 
 </div>
-<?php if (isset($customFooter)) { echo $customFooter; } ?>
 </body>
 </html>
