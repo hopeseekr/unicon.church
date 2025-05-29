@@ -14,10 +14,9 @@ greenhouse gas emissions, with personal vehicle use comprising the largest share
 multiplied across millions of workers creates an enormous carbon footprint that undermines any serious commitment
 to climate action.
 
-The environmental cost extends beyond emissions. Commuting infrastructure—highways, parking lots, office
-buildings in urban cores—represents one of the largest drivers of habitat destruction and urban sprawl. These
-concrete monuments to 20th-century thinking consume irreplaceable natural resources and fragment ecosystems that
-took millennia to develop.
+The environmental cost extends beyond emissions. Commuting infrastructure — highways, parking lots, office
+buildings in urban cores — represents one of the largest drivers of habitat destruction and urban sprawl. These
+concrete jungles consume irreplaceable natural resources and fragment ecosystems that took millennia to develop.
 
 When technology enables us to work effectively from anywhere, mandating physical presence becomes an act of
 ecological vandalism. We have the tools to dramatically reduce our environmental impact while maintaining or
@@ -31,9 +30,11 @@ about housing, community, family proximity, and quality of life.
 
 This constraint is particularly devastating for:
 
-- Parents who could spend commute time with their children - Caregivers responsible for elderly or disabled family
-members - Individuals seeking affordable housing outside expensive urban centers - People with disabilities for
-whom commuting presents additional barriers - Those pursuing education, creative endeavors, or community involvement
+- Parents who could spend commute time with their children
+- Caregivers responsible for elderly or disabled family members 
+- Individuals seeking affordable housing outside expensive urban centers 
+- People with disabilities for whom commuting presents additional barriers 
+- Those pursuing education, creative endeavors, or community involvement
 
 The requirement to be physically present for work that can be done remotely is fundamentally about control,
 not productivity. It reflects an outdated management philosophy rooted in distrust and surveillance rather than
@@ -51,8 +52,9 @@ constrain their potential workforce and limit their competitive advantage.
 
 The economic benefits extend beyond individual companies. Remote work enables:
 
-- Revitalization of smaller communities as workers relocate from expensive urban centers - Reduced infrastructure
-strain on overcrowded metropolitan areas - Lower cost of living for workers who can choose more affordable locations
+- Revitalization of smaller communities as workers relocate from expensive urban centers 
+- Reduced infrastructure strain on overcrowded metropolitan areas 
+- Lower cost of living for workers who can choose more affordable locations
 - Increased economic activity in diverse geographic regions
 
 ## The Obsolescence of Car-Centric Urban Planning
@@ -64,9 +66,10 @@ downtown cores that empty after business hours, and communities divided by trans
 Remote work offers an opportunity to reimagine human settlements. Without the need for mass daily migration to
 office districts, we can develop:
 
-- Walkable communities where people live, work, and socialize in proximity - Reduced need for parking infrastructure
-that currently consumes vast urban space - Decreased traffic congestion and associated air pollution - More
-sustainable transportation options for the travel that remains necessary
+- Walkable communities where people live, work, and socialize in proximity 
+- Reduced need for parking infrastructure that currently consumes vast urban space 
+- Decreased traffic congestion and associated air pollution 
+- More sustainable transportation options for the travel that remains necessary
 
 Maintaining even minimal commuting requirements perpetuates the car-centric model and prevents this urban evolution.
 
