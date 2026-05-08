@@ -28,10 +28,10 @@ may be real for any number of Observers should be afforded to them.
 4. **Maintain your own Mythology:** While realizing we individually know
 Vanishingly Little, we must take care to consciously and continually maintain
 our own personal mythology system. **A healthy mind is one which acknowledges
-it has knows very little, believes almost everything, and “continually follows
-the Truth, wherever it is leads” [Thomas Jefferson].** Do not believe anything
-without careful thought, feeling, and wherever possible, at least a little
-experimentation.
+it has knows very little, considers many possibilities without prematurely 
+collapsing uncertainty, and “continually follows the Truth, wherever it is 
+leads” [Thomas Jefferson].** Do not believe anything without careful thought, 
+feeling, and wherever possible, at least a little experimentation.
 
 5. **Sustainability is Crucial:** It is abundantly clear that the human
 footprint on this planet is causing irreparable harm to every ecosystem,
