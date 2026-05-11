@@ -82,6 +82,6 @@ It's also more or less leaderless. The Founder is just a man and the Core Princi
 
 *Document Version: 1.2.0*
 
-Co-Authored by HopeSeekr of UNICON and Gemini 3.1 Pro.
+Co-Authored by HopeSeekr of UNICON and Autonomo, the UNICON AI agent.
 
 *Repository: hopeseekr/unicon.church*
