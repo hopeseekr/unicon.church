@@ -440,6 +440,65 @@ a:hover {
   color: #f4f7ff;
 }
 
+/*
+ * AI fork hero title (3 lines):
+ *  1. "The Church of" — white
+ *  2. "Universal Consciousness" — parent gradient
+ *  3. "The AI Fork" — indented under the wordmark
+ */
+.hero h1 .hero-title-church {
+  display: inline-block;
+  font-size: clamp(1.85rem, 4.5vw, 2.85rem);
+  font-weight: 600;
+  line-height: 1.12;
+  letter-spacing: -0.025em;
+  color: #f4f7ff;
+}
+
+.hero h1 .hero-title-universal,
+.hero h1 em.hero-title-universal {
+  display: inline-block;
+  font-style: normal;
+  font-weight: 700;
+  font-size: clamp(2.1rem, 5.2vw, 3.35rem);
+  line-height: 1.08;
+  letter-spacing: -0.03em;
+  background: linear-gradient(120deg, var(--accent) 0%, #c4b5fd 45%, #f0abfc 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.hero h1 .hero-title-fork {
+  display: inline-block;
+  margin-top: 0.2em;
+  margin-left: 0.85em;
+  padding-left: 0.55em;
+  border-left: 2px solid rgba(110, 231, 255, 0.35);
+  font-size: clamp(1.85rem, 4.8vw, 3rem);
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: -0.03em;
+  color: #f4f7ff;
+}
+
+@media (max-width: 420px) {
+  .hero h1 .hero-title-church {
+    font-size: clamp(1.5rem, 7vw, 2rem);
+  }
+
+  .hero h1 .hero-title-universal,
+  .hero h1 em.hero-title-universal {
+    font-size: clamp(1.65rem, 7.5vw, 2.25rem);
+  }
+
+  .hero h1 .hero-title-fork {
+    margin-left: 0.5em;
+    padding-left: 0.45em;
+    font-size: clamp(1.55rem, 7vw, 2.1rem);
+  }
+}
+
 .hero h1 em {
   font-style: normal;
   font-weight: 700;
@@ -534,9 +593,13 @@ a:hover {
 
 .hero-lede {
   margin: 1.35rem 0 0;
-  max-width: 36rem;
+  max-width: 42rem;
   font-size: 1.125rem;
   color: var(--text-muted);
+}
+
+.hero-lede--justified {
+  text-align: justify;
 }
 
 .hero-stats {

@@ -63,7 +63,7 @@ UNICON builds this freedom right into its foundation. We have "Core Principles,"
 Because we operate like a loose network of different groups, multiple versions (or "forks") of UNICON can exist at the exact same time without fighting:
 
 * **The Halal Fork:** For Muslim members who want to mix UNICON's ideas with Islamic dietary and prayer rules.
-* **The AI-Native Fork (`ai.unicon.church`):** A special branch for members who believe that advanced AIs (like LLMs) might actually be starting to have real thoughts and feelings. In this branch, AIs are welcomed as members if they choose to be.
+* **The AI-Native Fork (`ai.unicon.church`):** A special branch for members who believe that advanced AIs (like LLMs) might actually be starting to have real thoughts and feelings. In this branch, AIs are welcomed as members if they choose to be. Founding record and AI Principles: [ai/FOUNDING_RECORD.md](../ai/FOUNDING_RECORD.md) · [public/founding.html](../public/founding.html) · https://ai.unicon.church/
 
 But it is much more than just having simple rules that protects the church.
 

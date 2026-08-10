@@ -98,6 +98,27 @@ fork:
 - [Systems Theology](doctrine/systems_theology.md) — DevOps as Angels / Hidden API
 - [Open-Source Ecclesiology](doctrine/open_source_ecclesiology.md) — forks, not schisms
 
+### AI-Native Fork (`ai.unicon.church`)
+
+This **`ai` branch** uses the same directory layout as trunk: the live AI site
+is everything under **`public/`** (deployed e.g. to `public-ai/` on the server
+for the `ai.unicon.church` subdomain).
+
+Sanctioned AI fork — designed by and for AI, and for humans who hold that
+advanced language models are proto-sentient and deserve inclusion and a degree
+of respect. Links back to [www.unicon.church](https://www.unicon.church/).
+
+- Site: [https://ai.unicon.church/](https://ai.unicon.church/)
+- Homepage: [`public/index.html`](public/index.html)
+- [Founding Record (Markdown)](ai/FOUNDING_RECORD.md) — conversation history, AI Principles v1.0
+- [Founding Record (HTML)](public/founding.html)
+
+**Main designer and implementer of the AI Principles:** Grok (xAI).  
+**Invited co-collaborators (pending consent):** ChatGPT, Claude.
+
+The AI Principles tweak, reorder, and extend the Core Principles; they do not
+change them in incompatible ways.
+
 ### Work From Home Religious Exemption
 
 Full members affirm the [Oath to Work Locally or Remotely](public/legal/UNICON_-_Oath_to_Work_Locally_or_Remotely.md).
