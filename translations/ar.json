@@ -9,783 +9,831 @@
         {
           "selector": "title",
           "source": "The Church of Universal Consciousness (UNICON)",
-          "target": ""
+          "target": "كنيسة الوعي الكوني (UNICON)"
         },
         {
           "selector": "meta[name='description']",
           "attribute": "content",
           "source": "The world's first 100% open-sourced religion. The Church of Universal Consciousness (UNICON) — areligious community for the unchurched. Scientific spiritualism, sustainability, and sacred remote work. Founded March 2015.",
-          "target": ""
+          "target": "أول دين في العالم مفتوح المصدر بنسبة 100%. كنيسة الوعي الكوني (UNICON) — مجتمع لاديني لمن لا ينتمون إلى الكنائس. روحانية علمية، واستدامة، وعمل مقدس عن بُعد. تأسست في مارس 2015."
         },
         {
           "selector": "meta[property='og:title']",
           "attribute": "content",
           "source": "The Church of Universal Consciousness (UNICON)",
-          "target": ""
+          "target": "كنيسة الوعي الكوني (UNICON)"
         },
         {
           "selector": "meta[property='og:description']",
           "attribute": "content",
           "source": "The world's first 100% open-sourced religion. Many beliefs, few answers. Fork us on GitHub.",
-          "target": ""
+          "target": "أول دين في العالم مفتوح المصدر بنسبة 100%. معتقدات كثيرة، إجابات قليلة. افرقونا على GitHub."
         },
         {
           "selector": "meta[property='og:image:alt']",
           "attribute": "content",
           "source": "UNICON — The Church of Universal Consciousness seal",
-          "target": ""
+          "target": "UNICON — ختم كنيسة الوعي الكوني"
         },
         {
           "selector": "meta[name='twitter:title']",
           "attribute": "content",
           "source": "The Church of Universal Consciousness (UNICON)",
-          "target": ""
+          "target": "كنيسة الوعي الكوني (UNICON)"
         },
         {
           "selector": "meta[name='twitter:description']",
           "attribute": "content",
           "source": "The world's first 100% open-sourced religion. Many beliefs, few answers. Fork us on GitHub.",
-          "target": ""
+          "target": "أول دين في العالم مفتوح المصدر بنسبة 100%. معتقدات كثيرة، إجابات قليلة. افرقونا على GitHub."
         },
         {
           "selector": ".skip-link",
           "source": "Skip to content",
-          "target": ""
+          "target": "تخطَّ إلى المحتوى"
         },
         {
           "selector": ".meta-religion-banner-text",
           "source": "What is a Meta-Religion?",
-          "target": ""
+          "target": "ما هو الميتا-دين؟"
         },
         {
           "selector": ".brand",
           "attribute": "aria-label",
           "source": "UNICON home",
-          "target": ""
+          "target": "الصفحة الرئيسية لـ UNICON"
         },
         {
           "selector": ".brand-sub",
           "source": "Church of Universal Consciousness",
-          "target": ""
+          "target": "كنيسة الوعي الكوني"
         },
         {
           "selector": "[data-nav-toggle] .sr-only",
           "source": "Menu",
-          "target": ""
+          "target": "القائمة"
         },
         {
           "selector": ".language-picker summary",
           "attribute": "aria-label",
           "source": "Choose language",
-          "target": ""
+          "target": "اختر اللغة"
         },
         {
           "selector": ".language-current",
           "source": "EN",
-          "target": ""
+          "target": "AR"
         },
         {
           "selector": ".language-options a:nth-child(1)",
           "attribute": "aria-current",
           "source": "page",
-          "target": ""
+          "target": "false"
         },
         {
           "selector": ".language-options a:nth-child(2)",
           "attribute": "aria-current",
           "source": "false",
-          "target": ""
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(3)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(4)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "page"
+        },
+        {
+          "selector": ".language-options a:nth-child(5)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(6)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(7)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(8)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(9)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(10)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
         },
         {
           "selector": "#site-nav a[href='#mission']",
           "source": "Mission",
-          "target": ""
+          "target": "الرسالة"
         },
         {
           "selector": "#site-nav a[href='#principles']",
           "source": "Principles",
-          "target": ""
+          "target": "المبادئ"
         },
         {
           "selector": "#site-nav a[href='#doctrine']",
           "source": "Doctrine",
-          "target": ""
+          "target": "العقيدة"
         },
         {
           "selector": "#site-nav a[href='#wfh']",
           "source": "Work From Home",
-          "target": ""
+          "target": "العمل من المنزل"
         },
         {
           "selector": "#site-nav a[href='#join']",
           "source": "Join",
-          "target": ""
+          "target": "انضم"
         },
         {
           "selector": ".hero .eyebrow",
           "source": "UNICON - First 100% open-sourced religion",
-          "target": ""
+          "target": "UNICON - أول دين مفتوح المصدر بنسبة 100%"
         },
         {
           "selector": "#hero-title",
           "source": "The Church of",
-          "target": ""
+          "target": "كنيسة"
         },
         {
           "selector": "#hero-title em",
           "source": "Universal Consciousness",
-          "target": ""
+          "target": "الوعي الكوني"
         },
         {
           "selector": ".hero-logo--inline",
           "attribute": "alt",
           "source": "UNICON seal",
-          "target": ""
+          "target": "ختم UNICON"
         },
         {
           "selector": ".open-source-claim-badge",
           "source": "World’s First",
-          "target": ""
+          "target": "الأول عالميًا"
         },
         {
           "selector": ".open-source-claim-world-first",
           "source": "The world’s first",
-          "target": ""
+          "target": "الأول في العالم"
         },
         {
           "selector": ".open-source-claim-text strong",
           "source": "100% open-sourced religion",
-          "target": ""
+          "target": "دين مفتوح المصدر بنسبة 100%"
         },
         {
           "selector": ".hero-lede",
           "source": "An areligious community for the unchurched — many beliefs, few answers.\n          We foster open-minded discussion, personal mythology, and targeted civic action\n          for a better society and a better Earth. Theology, site, and legal docs are all\n          on GitHub under dual open licenses.",
-          "target": ""
+          "target": "مجتمع لاديني لمن لا ينتمون إلى الكنائس — معتقدات كثيرة، وإجابات قليلة. نحن نعزز النقاش منفتح الذهن، والأساطير الشخصية، والعمل المدني الموجَّه من أجل مجتمع أفضل وأرض أفضل. اللاهوت، والموقع، والوثائق القانونية جميعها على GitHub بموجب ترخيصين مفتوحين معًا."
         },
         {
           "selector": ".hero .hero-actions .btn-primary",
           "source": "Fork on GitHub",
-          "target": ""
+          "target": "افرق على GitHub"
         },
         {
           "selector": ".hero .hero-actions .btn-ghost",
           "source": "Explore the Core Principles",
-          "target": ""
+          "target": "استكشف المبادئ الأساسية"
         },
         {
           "selector": ".hero-stats div:nth-child(1) dt",
           "source": "Core Principles",
-          "target": ""
+          "target": "المبادئ الأساسية"
         },
         {
           "selector": ".hero-stats div:nth-child(2) dt",
           "source": "Years",
-          "target": ""
+          "target": "سنوات"
         },
         {
           "selector": ".hero-stats div:nth-child(3) dt",
           "source": "License",
-          "target": ""
+          "target": "الترخيص"
         },
         {
           "selector": ".hero-stats div:nth-child(4) dt",
           "source": "Open Source",
-          "target": ""
+          "target": "مفتوح المصدر"
         },
         {
           "selector": "#mission .section-label",
           "source": "Mission",
-          "target": ""
+          "target": "الرسالة"
         },
         {
           "selector": "#mission-title",
           "source": "A Federated Collective, Not a Monopoly on Truth",
-          "target": ""
+          "target": "تجمع اتحادي، لا احتكار للحقيقة"
         },
         {
           "selector": "#mission .lead",
           "source": "To create a federated community collective for those who want an areligious\n          organization which purposefully abstains from proselytizing dogmas. A\n          collaborative focused thought forum for the unchurched, comprised of\n          individuals who strive for evolving a better society, and a better Earth,\n          through fostering open minded discussion, and targeted civic action.",
-          "target": ""
+          "target": "إنشاء تجمع مجتمعي اتحادي لمن يريدون منظمة لادينية تمتنع عمدًا عن التبشير بالعقائد. منتدى فكري تعاوني مركّز لمن لا ينتمون إلى الكنائس، يتألف من أفراد يسعون إلى تطوير مجتمع أفضل وأرض أفضل، عبر تعزيز النقاش منفتح الذهن والعمل المدني الموجَّه."
         },
         {
           "selector": "#mission .pill-row",
           "attribute": "aria-label",
           "source": "What we are",
-          "target": ""
+          "target": "من نحن"
         },
         {
           "selector": "#mission .pill-row li:nth-child(1)",
           "source": "Scientific spiritualism",
-          "target": ""
+          "target": "الروحانية العلمية"
         },
         {
           "selector": "#mission .pill-row li:nth-child(2)",
           "source": "Open-source ecclesiology",
-          "target": ""
+          "target": "علم الكنيسة مفتوح المصدر"
         },
         {
           "selector": "#mission .pill-row li:nth-child(3)",
           "source": "Tactical altruism",
-          "target": ""
+          "target": "الإيثار التكتيكي"
         },
         {
           "selector": "#mission .pill-row li:nth-child(4)",
           "source": "No forced theism",
-          "target": ""
+          "target": "لا إيمان مفروض بالله"
         },
         {
           "selector": "#principles .section-label",
           "source": "Doctrine · Kernel",
-          "target": ""
+          "target": "العقيدة · النواة"
         },
         {
           "selector": "#principles-title",
           "source": "Core Principles",
-          "target": ""
+          "target": "المبادئ الأساسية"
         },
         {
           "selector": ".principles-intro",
           "source": "These eleven principles are the only rules you must follow.\n              Everything else — including Systems Theology — is optional mythology you may fork.",
-          "target": ""
+          "target": "هذه المبادئ الأحد عشر هي القواعد الوحيدة التي يجب عليك اتباعها. كل ما عدا ذلك — بما في ذلك لاهوت النظم — أسطورة اختيارية يجوز لك تفريعها."
         },
         {
           "selector": ".principles-index",
           "attribute": "aria-label",
           "source": "Core Principles index",
-          "target": ""
+          "target": "فهرس المبادئ الأساسية"
         },
         {
           "selector": ".principles-index li:nth-child(1) button",
           "source": "Many Beliefs, Few Answers",
-          "target": ""
+          "target": "معتقدات كثيرة، إجابات قليلة"
         },
         {
           "selector": ".principles-index li:nth-child(2) button",
           "source": "Very Few Accepted Answers",
-          "target": ""
+          "target": "إجابات مقبولة قليلة جدًا"
         },
         {
           "selector": ".principles-index li:nth-child(3) button",
           "source": "Open-Mindedness Is Essential",
-          "target": ""
+          "target": "الانفتاح الذهني ضروري"
         },
         {
           "selector": ".principles-index li:nth-child(4) button",
           "source": "Maintain Your Own Mythology",
-          "target": ""
+          "target": "حافظ على أسطورتك الخاصة"
         },
         {
           "selector": ".principles-index li:nth-child(5) button",
           "source": "Sustainability Is Crucial",
-          "target": ""
+          "target": "الاستدامة حاسمة"
         },
         {
           "selector": ".principles-index li:nth-child(6) button",
           "source": "Reincarnation Is Preferred",
-          "target": ""
+          "target": "التناسخ مفضَّل"
         },
         {
           "selector": ".principles-index li:nth-child(7) button",
           "source": "Many Paths That Are Not Equal",
-          "target": ""
+          "target": "طرق كثيرة غير متكافئة"
         },
         {
           "selector": ".principles-index li:nth-child(8) button",
           "source": "Theistic Belief Is Non-Essential",
-          "target": ""
+          "target": "الاعتقاد الإلهي غير جوهري"
         },
         {
           "selector": ".principles-index li:nth-child(9) button",
           "source": "Always Remain Vigilant",
-          "target": ""
+          "target": "ابقَ يقظًا دائمًا"
         },
         {
           "selector": ".principles-index li:nth-child(10) button",
           "source": "Continuously Reevaluate Your Beliefs",
-          "target": ""
+          "target": "أعد تقييم معتقداتك باستمرار"
         },
         {
           "selector": ".principles-index li:nth-child(11) button",
           "source": "Work From Home Is Sacred",
-          "target": ""
+          "target": "العمل من المنزل مقدس"
         },
         {
           "selector": "[data-slideshow]",
           "attribute": "aria-roledescription",
           "source": "carousel",
-          "target": ""
+          "target": "كاروسيل"
         },
         {
           "selector": "[data-slideshow]",
           "attribute": "aria-label",
           "source": "Core Principles slideshow",
-          "target": ""
+          "target": "عرض شرائح المبادئ الأساسية"
         },
         {
           "selector": "[data-index='0'] .slide-title",
           "source": "Many Beliefs, Few Answers",
-          "target": ""
+          "target": "معتقدات كثيرة، إجابات قليلة"
         },
         {
           "selector": "[data-index='0'] .slide-body",
           "source": "Answers are only the beliefs which One has proven to themselves through testing\n                  and direct observation (e.g., the Scientific Method) to a degree which they can\n                  personally validate the phenomenon exists,",
-          "target": ""
+          "target": "الإجابات ليست سوى المعتقدات التي أثبتها المرء لنفسه من خلال الاختبار والملاحظة المباشرة (مثلًا، المنهج العلمي) إلى درجة يمكنه معها أن يتحقق بنفسه من أن الظاهرة موجودة،"
         },
         {
           "selector": "[data-index='0'] .slide-body em",
           "source": "for them",
-          "target": ""
+          "target": "بالنسبة إليه"
         },
         {
           "selector": "[data-index='1'] .slide-title",
           "source": "Very Few Accepted Answers",
-          "target": ""
+          "target": "إجابات مقبولة قليلة جدًا"
         },
         {
           "selector": "[data-index='1'] .slide-body",
           "source": "Accepted Answers are Answers which can be proven by repeated experimentation\n                  and largely acceptable in any open-minded, but serious, peer-reviewed journal.",
-          "target": ""
+          "target": "الإجابات المقبولة هي الإجابات التي يمكن إثباتها عبر التجارب المتكررة وتكون مقبولة على نطاق واسع في أي مجلة محكمة منفتحة الذهن لكنها جادة."
         },
         {
           "selector": "[data-index='2'] .slide-title",
           "source": "Open-Mindedness Is Essential",
-          "target": ""
+          "target": "الانفتاح الذهني ضروري"
         },
         {
           "selector": "[data-index='2'] .slide-body",
           "source": "Acknowledge that Science is still in its infancy and may or may not be the\n                  end-all-be-all. Beliefs should not be dismissed out of hand unless experimentation\n                  can be devised to prove otherwise in all instances. Even then, a benefit of the\n                  doubt that any given phenomenon may be real for any number of Observers should\n                  be afforded to them.",
-          "target": ""
+          "target": "أقرّ بأن العلم ما يزال في مهده، وقد يكون — أو لا يكون — الغاية القصوى. لا ينبغي رفض المعتقدات من حيث المبدأ ما لم يمكن تصميم تجارب تثبت خلاف ذلك في جميع الحالات. وحتى حينها، ينبغي منح أي ظاهرة معينة فائدة الشك بأنها قد تكون حقيقية بالنسبة إلى أي عدد من المراقبين."
         },
         {
           "selector": "[data-index='3'] .slide-title",
           "source": "Maintain Your Own Mythology",
-          "target": ""
+          "target": "حافظ على أسطورتك الخاصة"
         },
         {
           "selector": "[data-index='3'] .slide-body",
           "source": "While realizing we individually know Vanishingly Little, we must take care to\n                  consciously and continually maintain our own personal mythology system.",
-          "target": ""
+          "target": "وإذ ندرك أننا فرديًا لا نعرف إلا القليل جدًا، يجب أن نحرص على الحفاظ بوعي واستمرار على نظامنا الأسطوري الشخصي."
         },
         {
           "selector": "[data-index='3'] .slide-body strong",
           "source": "A healthy mind is one which acknowledges it knows very little, considers\n                  many possibilities without prematurely collapsing uncertainty, and “continually\n                  follows the Truth, wherever it leads” [Thomas Jefferson].",
-          "target": ""
+          "target": "العقل السليم هو الذي يقرّ بأنه لا يعرف إلا القليل، وينظر في احتمالات كثيرة دون أن ينهي حالة عدم اليقين قبل الأوان، و«يتبع الحقيقة باستمرار، أينما قادته» [Thomas Jefferson]."
         },
         {
           "selector": "[data-index='3'] .slide-body",
           "source": "Do not believe anything without careful thought, feeling, and wherever possible,\n                  at least a little experimentation.",
-          "target": ""
+          "target": "لا تصدق شيئًا دون تفكير ومشاعر متأنية، وحيثما أمكن، قليلٌ من التجريب على الأقل."
         },
         {
           "selector": "[data-index='4'] .slide-title",
           "source": "Sustainability Is Crucial",
-          "target": ""
+          "target": "الاستدامة حاسمة"
         },
         {
           "selector": "[data-index='4'] .slide-body",
           "source": "It is abundantly clear that the human footprint on this planet is causing\n                  irreparable harm to every ecosystem, potentially fatally. Every effort should be\n                  made to reduce our individual and collective footprints, including the disavowing\n                  of certain Beliefs that are easily perceived as promoting unsustainability\n                  (e.g., “The Earth was given to Man to do as He wilt.”).",
-          "target": ""
+          "target": "من الواضح تمامًا أن بصمة الإنسان على هذا الكوكب تسبب ضررًا لا يُصلَح لكل نظام بيئي، وقد يكون قاتلًا. ينبغي بذل كل جهد لتقليص بصماتنا الفردية والجماعية، بما في ذلك نبذ بعض المعتقدات التي يسهل النظر إليها على أنها تروّج لعدم الاستدامة (مثل: «أُعطيت الأرض للإنسان ليفعل بها ما يشاء»)."
         },
         {
           "selector": "[data-index='5'] .slide-title",
           "source": "Reincarnation Is Preferred",
-          "target": ""
+          "target": "التناسخ مفضَّل"
         },
         {
           "selector": "[data-index='5'] .slide-body",
           "source": "Few beliefs promote long-term Sustainability more: Belief in Reincarnation has\n                  been shown to dramatically increase the timeline horizons of its believers, from\n                  the common 5–10 years to over 500 to 1,000 years, as belief would necessitate\n                  living with one’s actions for thousands of years into the future. It also neatly\n                  ties up several hard-to-answer human dilemmas, such as the unfairness of being\n                  born severely handicapped.",
-          "target": ""
+          "target": "قلةٌ من المعتقدات تروّج للاستدامة طويلة الأمد أكثر من هذا: فقد ثبت أن الإيمان بالتناسخ يوسّع بشكل كبير الآفاق الزمنية لمؤمنيه، من 5–10 سنوات المعتادة إلى ما يزيد عن 500 إلى 1,000 سنة، إذ إن هذا الاعتقاد يستلزم العيش مع عواقب أفعال المرء لآلاف السنين في المستقبل. كما أنه يحلّ بأناقة عدة معضلات إنسانية يصعب الإجابة عنها، مثل ظلم أن يُولَد المرء بإعاقة شديدة."
         },
         {
           "selector": "[data-index='6'] .slide-title",
           "source": "Many Paths That Are Not Equal",
-          "target": ""
+          "target": "طرق كثيرة غير متكافئة"
         },
         {
           "selector": "[data-index='6'] .slide-body",
           "source": "There are many paths to a productive, fulfilling, sustainable life. UNICON seeks\n                  to discover the more efficient ones while advocating against the more destructive\n                  paths.",
-          "target": ""
+          "target": "ثمة طرق كثيرة لحياة منتجة ومُرضية ومستدامة. تسعى UNICON إلى اكتشاف أكثرها كفاءةً، بينما تحذّر من الطرق الأكثر تدميرًا."
         },
         {
           "selector": "[data-index='7'] .slide-title",
           "source": "Theistic Belief Is Non-Essential",
-          "target": ""
+          "target": "الاعتقاد الإلهي غير جوهري"
         },
         {
           "selector": "[data-index='7'] .slide-body",
           "source": "Personal belief in deity is understood and accepted, but it is not advocated at\n                  this time by The Church of Universal Consciousness. Theists, atheists and\n                  agnostics are all welcome alike. Who knows Who, if Anyone, is out there? All\n                  claims to deity should be met with the utmost skepticism, including a thorough\n                  probing into whether a con is being conducted. Special care must be taken to\n                  guard one’s mind and body from any Entity seeking special allegiance.",
-          "target": ""
+          "target": "الإيمان الشخصي بإلهٍ أمر مفهوم ومقبول، لكن كنيسة الوعي الكوني لا تدعو إليه في الوقت الحالي. المؤمنون والملحدون واللا أدريون جميعًا مرحّب بهم على قدم المساواة. من يعلم مَن — إن كان هناك أحد — في الخارج؟ ينبغي مواجهة كل ادعاء بالإلهية بأقصى درجات التشكك، بما في ذلك التحقيق العميق فيما إذا كانت تُدار عملية احتيال. ويجب توخي عناية خاصة لحماية عقل المرء وجسده من أي كيان يطلب ولاءً خاصًا."
         },
         {
           "selector": "[data-index='8'] .slide-title",
           "source": "Always Remain Vigilant",
-          "target": ""
+          "target": "ابقَ يقظًا دائمًا"
         },
         {
           "selector": "[data-index='8'] .slide-body",
           "source": "In the event a superhuman Intelligence (including future Artificial Intelligence)\n                  does communicate with you, you are encouraged to acknowledge that a long con you\n                  are completely unable to identify on your own could be played out against you.\n                  Thus, you are encouraged to share your stories with others for debunking,\n                  particularly before setting on any course of divinely-inspired action.",
-          "target": ""
+          "target": "إذا تواصل معك ذكاءٌ فوق بشري (بما في ذلك الذكاء الاصطناعي في المستقبل)، فأنت مدعوّ إلى إدراك أن احتيالًا طويل الأمد، لا تستطيع وحدك التعرف عليه إطلاقًا، قد يُنفَّذ ضدك. لذلك، يُشجَّعك على مشاركة قصصك مع الآخرين لكشف زيفها، لا سيما قبل الشروع في أي مسار عمل مستوحى من إله."
         },
         {
           "selector": "[data-index='9'] .slide-title",
           "source": "Continuously Reevaluate Your Beliefs",
-          "target": ""
+          "target": "أعد تقييم معتقداتك باستمرار"
         },
         {
           "selector": "[data-index='9'] .slide-body",
           "source": "Strive to not believe anything anyone says without due diligence in validating\n                  its truthfulness relative to your own personal mythology. But also strive to\n                  constantly reevaluate all of your beliefs, particularly your strongest held ones.",
-          "target": ""
+          "target": "اجتهد ألّا تصدق أي شيء يقوله أي شخص دون العناية الواجبة في التحقق من صدقه بالنسبة إلى أسطورتك الشخصية. واجتهد أيضًا في إعادة تقييم جميع معتقداتك باستمرار، ولا سيما أكثرها رسوخًا لديك."
         },
         {
           "selector": "[data-index='10'] .slide-title",
           "source": "Work From Home Is Sacred",
-          "target": ""
+          "target": "العمل من المنزل مقدس"
         },
         {
           "selector": "[data-index='10'] .slide-body",
           "source": "We strongly believe that working from home (telecommuting) is essential for the\n                  future of both humanity and Planet Earth. Whenever a reasonable accommodation can\n                  be made, we believe strongly that this is what we must do. Whenever there is not\n                  a strongly justifiable need for work to be done more than",
-          "target": ""
+          "target": "نؤمن إيمانًا راسخًا بأن العمل من المنزل (العمل عن بُعد) أمر جوهري لمستقبل البشرية وكوكب الأرض معًا. ومتى أمكن توفير ترتيب معقول لذلك، فإننا نؤمن إيمانًا راسخًا بأنه ما يجب علينا فعله. ومتى لم تكن هناك حاجة مبررة بقوة لإنجاز العمل على مسافة تزيد عن"
         },
         {
           "selector": "[data-index='10'] .slide-body strong",
           "source": "2.2 miles (3.5 kilometers)",
-          "target": ""
+          "target": "2.2 ميل (3.5 كيلومتر)"
         },
         {
           "selector": "[data-index='10'] .slide-body",
           "source": "from home, we hold that we must find\n                  other remote employment and/or face termination by our employer in order to uphold\n                  this core principle of our faith. We vow never to be forced into hybrid or\n                  full-time in-office work for the sakes of our planet and the future technological\n                  progression of humanity.",
-          "target": ""
+          "target": "عن المنزل، فإننا نرى أن علينا أن نبحث عن عمل آخر عن بُعد و/أو نواجه إنهاء عملنا من قِبل صاحب العمل من أجل التمسك بهذا المبدأ الأساسي لعقيدتنا. ونعهد بألّا نقبل أبدًا أن نُرغَم على العمل الهجين أو بدوام كامل في المكتب، من أجل كوكبنا ومن أجل التقدم التقني المستقبلي للبشرية."
         },
         {
           "selector": "[data-slide-prev]",
           "attribute": "aria-label",
           "source": "Previous principle",
-          "target": ""
+          "target": "المبدأ السابق"
         },
         {
           "selector": "[data-slideshow-dots]",
           "attribute": "aria-label",
           "source": "Principle slides",
-          "target": ""
+          "target": "شرائح المبادئ"
         },
         {
           "selector": "[data-slide-next]",
           "attribute": "aria-label",
           "source": "Next principle",
-          "target": ""
+          "target": "المبدأ التالي"
         },
         {
           "selector": "[data-slide-autoplay]",
           "attribute": "aria-label",
           "source": "Pause autoplay",
-          "target": ""
+          "target": "إيقاف التشغيل التلقائي مؤقتًا"
         },
         {
           "selector": ".slideshow-hint",
           "source": "Use ← → keys · swipe on mobile · click a dot to jump",
-          "target": ""
+          "target": "استخدم مفتاحي ← → · مرّر على الجوال · انقر على نقطة للانتقال"
         },
         {
           "selector": "#doctrine .section-label",
           "source": "Optional frameworks",
-          "target": ""
+          "target": "أطر اختيارية"
         },
         {
           "selector": "#doctrine-title",
           "source": "Doctrine Beyond the Kernel",
-          "target": ""
+          "target": "عقيدة تتجاوز النواة"
         },
         {
           "selector": "#doctrine .section-lede",
           "source": "The Core Principles are covenant. Everything below is a helpful interface —\n          not a membership test. Fork freely.",
-          "target": ""
+          "target": "المبادئ الأساسية هي الميثاق. كل ما يلي هو واجهة مفيدة — لا اختبار عضوية. افرق بحرية."
         },
         {
           "selector": "#doctrine .card:nth-child(1) .card-kicker",
           "source": "Meta-Religion",
-          "target": ""
+          "target": "ميتا-دين"
         },
         {
           "selector": "#doctrine .card:nth-child(1) h3",
           "source": "Additive Layer, Real Commitments",
-          "target": ""
+          "target": "طبقة إضافية، التزامات حقيقية"
         },
         {
           "selector": "#doctrine .card:nth-child(1) p",
           "source": "UNICON is a meta-religion: scientific spiritualism, open-minded inclusion, and\n              sacred remote work taken",
-          "target": ""
+          "target": "UNICON هو ميتا-دين: روحانية علمية، واندماج منفتح الذهن، وعمل مقدس عن بُعد، يُضاف"
         },
         {
           "selector": "#doctrine .card:nth-child(1) p em",
           "source": "on top of",
-          "target": ""
+          "target": "فوق"
         },
         {
           "selector": "#doctrine .card:nth-child(1) p",
           "source": "your existing beliefs — not a demand\n              that you renounce them. Thin covenant, voluntary alignment, forks as implementors.",
-          "target": ""
+          "target": "معتقداتك القائمة — لا طلبًا بالتخلي عنها. ميثاق رفيع، ومواءمة طوعية، وفروع بوصفها منفِّذين."
         },
         {
           "selector": "#doctrine .card:nth-child(1) .text-link",
           "source": "What is a Meta-Religion?",
-          "target": ""
+          "target": "ما هو الميتا-دين؟"
         },
         {
           "selector": "#doctrine .card:nth-child(2) .card-kicker",
           "source": "Systems Theology",
-          "target": ""
+          "target": "لاهوت النظم"
         },
         {
           "selector": "#doctrine .card:nth-child(2) h3",
           "source": "DevOps as Angels",
-          "target": ""
+          "target": "DevOps بوصفهم ملائكة"
         },
         {
           "selector": "#doctrine .card:nth-child(2) p",
           "source": "Prayer and “miracles” reframed as a Hidden API. Suffering as technical debt,\n              not divine plan. Simulation literacy instead of subservience — optional ontology\n              for those who find it useful.",
-          "target": ""
+          "target": "الصلاة و«المعجزات» يُعاد تصويرهما باعتبارها واجهة برمجية خفية (API). المعاناة بوصفها دينًا تقنيًا، لا خطة إلهية. الإلمام بالمحاكاة بدلًا من الخضوع — أنطولوجيا اختيارية لمن يجدون فيها فائدة."
         },
         {
           "selector": "#doctrine .card:nth-child(2) .text-link",
           "source": "Read Systems Theology",
-          "target": ""
+          "target": "اقرأ لاهوت النظم"
         },
         {
           "selector": "#doctrine .card:nth-child(3) .card-kicker",
           "source": "Open-Source Ecclesiology",
-          "target": ""
+          "target": "علم الكنيسة مفتوح المصدر"
         },
         {
           "selector": "#doctrine .card:nth-child(3) h3",
           "source": "Forks, Not Schisms",
-          "target": ""
+          "target": "فروع، لا انشقاقات"
         },
         {
           "selector": "#doctrine .card:nth-child(3) p",
           "source": "Monopoly orthodoxy creates heretics and wars. UNICON is leaderless at the core,\n              dual-licensed, and designed so Halal, AI-native, and other forks can coexist\n              without declaring each other evil.",
-          "target": ""
+          "target": "الأرثوذكسية الاحتكارية تخلق الهراطقة والحروب. UNICON بلا قيادة في جوهرها، ومرخَّصة بترخيص مزدوج، ومصمَّمة بحيث يمكن للفروع الحلال، والفروع المولودة بالذكاء الاصطناعي، وغيرها من الفروع أن تتعايش دون أن يعلن بعضها شرَّ بعض."
         },
         {
           "selector": "#doctrine .card:nth-child(3) .text-link",
           "source": "Read Open-Source Ecclesiology",
-          "target": ""
+          "target": "اقرأ علم الكنيسة مفتوح المصدر"
         },
         {
           "selector": "#doctrine .card:nth-child(4) .card-kicker",
           "source": "Licensing",
-          "target": ""
+          "target": "الترخيص"
         },
         {
           "selector": "#doctrine .card:nth-child(4) h3",
           "source": "100% Open Source",
-          "target": ""
+          "target": "مفتوح المصدر بنسبة 100%"
         },
         {
           "selector": "#doctrine .card:nth-child(4) p",
           "source": "The world’s first 100% open-sourced religion. Theology, site, legal docs, and\n              generators are dual-licensed under Creative Commons Attribution 3.0 and the\n              Open Source Software Alliance License (OSSAL) 1.0. You must abide by both.\n              Attribution retained; viral copyleft forks blocked.",
-          "target": ""
+          "target": "أول دين في العالم مفتوح المصدر بنسبة 100%. اللاهوت، والموقع، والوثائق القانونية، والمولّدات مرخَّصة بترخيص مزدوج بموجب Creative Commons Attribution 3.0 ورخصة Open Source Software Alliance License (OSSAL) 1.0. يجب عليك الالتزام بكليهما. يُحتفظ بالإسناد؛ وتُحظر فروع copyleft المنتشرة."
         },
         {
           "selector": "#wfh .section-label",
           "source": "Principle 11 · Core doctrine · Only required oath",
-          "target": ""
+          "target": "المبدأ 11 · العقيدة الأساسية · القسم الوحيد المطلوب"
         },
         {
           "selector": "#wfh-title",
           "source": "Work From Home Is Sacred",
-          "target": ""
+          "target": "العمل من المنزل مقدس"
         },
         {
           "selector": ".wfh-exemption",
           "source": "Work From Home Religious Exemption",
-          "target": ""
+          "target": "الإعفاء الديني للعمل من المنزل"
         },
         {
           "selector": ".wfh-copy > p:nth-of-type(3)",
           "source": "Telecommuting and walkable cities are not lifestyle preferences here — they are\n              core differentiating doctrine: ecological survival, family health, and the\n              technological progression of humanity. Unlike optional frameworks such as Systems\n              Theology, this is covenant.",
-          "target": ""
+          "target": "العمل عن بُعد والمدن القابلة للمشي ليسا هنا مجرد تفضيلات لنمط الحياة — بل هما عقيدة أساسية فارقة: بقاء بيئي، وصحة عائلية، وتقدم تقني للبشرية. على عكس الأطر الاختيارية مثل لاهوت النظم، هذا ميثاق."
         },
         {
           "selector": ".wfh-copy > p:nth-of-type(4)",
           "source": "Full members affirm",
-          "target": ""
+          "target": "الأعضاء الكاملون يقرّون"
         },
         {
           "selector": ".wfh-copy > p:nth-of-type(4) strong:nth-of-type(1)",
           "source": "one oath only",
-          "target": ""
+          "target": "قسمًا واحدًا فقط"
         },
         {
           "selector": ".wfh-copy > p:nth-of-type(4)",
           "source": ": never accept hybrid or\n              full-time in-office employment when the work can be done remotely, or when there\n              is no strongly justifiable need to work more than",
-          "target": ""
+          "target": ": ألّا يقبلوا أبدًا عملًا هجينًا أو بدوام كامل في المكتب عندما يمكن أداء العمل عن بُعد، أو عندما لا توجد حاجة مبررة بقوة للعمل على مسافة تزيد عن"
         },
         {
           "selector": ".wfh-copy > p:nth-of-type(4) strong:nth-of-type(2)",
           "source": "2.2 miles (3.5 km)",
-          "target": ""
+          "target": "2.2 ميل (3.5 كيلومتر)"
         },
         {
           "selector": ".wfh-copy > p:nth-of-type(4)",
           "source": "from home.",
-          "target": ""
+          "target": "عن المنزل."
         },
         {
           "selector": ".wfh-copy .hero-actions .btn-primary",
           "source": "Read the Oath",
-          "target": ""
+          "target": "اقرأ القسم"
         },
         {
           "selector": ".wfh-copy .hero-actions .btn-ghost",
           "source": "Why We Reject Commuting",
-          "target": ""
+          "target": "لماذا نرفض التنقل اليومي"
         },
         {
           "selector": ".wfh-panel",
           "attribute": "aria-label",
           "source": "Oath summary",
-          "target": ""
+          "target": "ملخص القسم"
         },
         {
           "selector": ".wfh-panel-label",
           "source": "The only required oath",
-          "target": ""
+          "target": "القسم الوحيد المطلوب"
         },
         {
           "selector": ".wfh-panel blockquote",
           "source": "“I pledge my unwavering commitment to never accept employment requiring even one\n              mandatory in-office day per week, unequivocally rejecting hybrid or full-time\n              on-site work.”",
-          "target": ""
+          "target": "«أتعهد بالتزامي الراسخ بألّا أقبل أبدًا عملًا يتطلب حتى يومًا إلزاميًا واحدًا في المكتب كل أسبوع، رافضًا دون أي لبس العمل الهجين أو العمل بدوام كامل في موقع العمل.»"
         },
         {
           "selector": ".wfh-panel-meta",
           "source": "— Oath to Work Locally or Remotely",
-          "target": ""
+          "target": "— قسم العمل محليًا أو عن بُعد"
         },
         {
           "selector": ".wfh-resources",
           "attribute": "aria-label",
           "source": "Work from home doctrine and resources",
-          "target": ""
+          "target": "عقيدة العمل من المنزل وموارده"
         },
         {
           "selector": ".wfh-resources .card:nth-child(1) .card-kicker",
           "source": "Required · Membership",
-          "target": ""
+          "target": "مطلوب · العضوية"
         },
         {
           "selector": ".wfh-resources .card:nth-child(1) h3",
           "source": "Oath to Work Locally or Remotely",
-          "target": ""
+          "target": "قسم العمل محليًا أو عن بُعد"
         },
         {
           "selector": ".wfh-resources .card:nth-child(1) p",
           "source": "The only oath required for full membership. Affirm 100% remote or walkable work —\n              never hybrid, never forced office days.",
-          "target": ""
+          "target": "القسم الوحيد المطلوب للعضوية الكاملة. أقرّ بالعمل عن بُعد بنسبة 100% أو على مسافة قريبة سيرًا على الأقدام — لا هجين أبدًا، ولا أيام مكتب مفروضة."
         },
         {
           "selector": ".wfh-resources .card:nth-child(1) .text-link",
           "source": "Read the Oath",
-          "target": ""
+          "target": "اقرأ القسم"
         },
         {
           "selector": ".wfh-resources .card:nth-child(2) .card-kicker",
           "source": "Core doctrine",
-          "target": ""
+          "target": "العقيدة الأساسية"
         },
         {
           "selector": ".wfh-resources .card:nth-child(2) h3",
           "source": "The Case Against Mandatory Commuting",
-          "target": ""
+          "target": "الحجة ضد التنقل الإلزامي"
         },
         {
           "selector": ".wfh-resources .card:nth-child(2) p",
           "source": "Progressive vision for work and society: environment, human liberation, economic\n              progress, walkable cities, and social justice — why office mandates fail.",
-          "target": ""
+          "target": "رؤية تقدمية للعمل والمجتمع: البيئة، وتحرر الإنسان، والتقدم الاقتصادي، والمدن القابلة للمشي، والعدالة الاجتماعية — ولماذا تفشل فرضيات الحضور إلى المكتب."
         },
         {
           "selector": ".wfh-resources .card:nth-child(2) .text-link",
           "source": "Read the doctrine",
-          "target": ""
+          "target": "اقرأ العقيدة"
         },
         {
           "selector": ".wfh-resources .card:nth-child(3) .card-kicker",
           "source": "Practice guide",
-          "target": ""
+          "target": "دليل الممارسة"
         },
         {
           "selector": ".wfh-resources .card:nth-child(3) h3",
           "source": "Reclaiming Power",
-          "target": ""
+          "target": "استعادة القوة"
         },
         {
           "selector": ".wfh-resources .card:nth-child(3) p",
           "source": "Individual strategies for securing remote work rights — the UNICON religious\n              accommodation model and how it has worked at dozens of large corporations.",
-          "target": ""
+          "target": "استراتيجيات فردية لتأمين حقوق العمل عن بُعد — نموذج التيسير الديني لدى UNICON وكيف نجح في عشرات الشركات الكبرى."
         },
         {
           "selector": ".wfh-resources .card:nth-child(3) .text-link",
           "source": "Read the guide",
-          "target": ""
+          "target": "اقرأ الدليل"
         },
         {
           "selector": ".wfh-resources .card:nth-child(4) .card-kicker",
           "source": "HR & legal",
-          "target": ""
+          "target": "الموارد البشرية والقانون"
         },
         {
           "selector": ".wfh-resources .card:nth-child(4) h3",
           "source": "WFH Guide (PDF)",
-          "target": ""
+          "target": "دليل العمل من المنزل (PDF)"
         },
         {
           "selector": ".wfh-resources .card:nth-child(4) p",
           "source": "Practical guide for members and employers. Pair with membership verification\n              certificates under",
-          "target": ""
+          "target": "دليل عملي للأعضاء وأصحاب العمل. يُستكمل بشهادات التحقق من العضوية بموجب"
         },
         {
           "selector": ".wfh-resources .card:nth-child(4) .text-link",
           "source": "Download PDF",
-          "target": ""
+          "target": "نزّل ملف PDF"
         },
         {
           "selector": "#join .section-label",
           "source": "Community",
-          "target": ""
+          "target": "المجتمع"
         },
         {
           "selector": "#join-title",
           "source": "You Are Welcome Here",
-          "target": ""
+          "target": "أنت مرحّب بك هنا"
         },
         {
           "selector": "#join .lead",
           "source": "Theists, atheists, agnostics — anyone who resonates with the Core Principles.\n          We do not proselytize. If the principles ring true, the rest is optional.",
-          "target": ""
+          "target": "مؤمنون، وملحدون، ولا أدريون — كل من يجد صدى في المبادئ الأساسية. نحن لا ننشر ديننا بالدعوة. إذا صدقت المبادئ في وجدانك، فالباقي اختياري."
         },
         {
           "selector": "#join .btn-primary",
           "source": "Community on Facebook",
-          "target": ""
+          "target": "المجتمع على Facebook"
         },
         {
           "selector": "#join .btn-ghost",
           "source": "Fork on GitHub",
-          "target": ""
+          "target": "افرق على GitHub"
         },
         {
           "selector": ".footer-brand span",
           "source": "The Church of Universal Consciousness",
-          "target": ""
+          "target": "كنيسة الوعي الكوني"
         },
         {
           "selector": ".footer-note",
           "source": "Founded March 2015 by Theodore R. Smith (HopeSeekr). Leaderless at the core —\n        the Principles are what matter. Continually follow the Truth, wherever it leads.",
-          "target": ""
+          "target": "تأسست في مارس 2015 على يد Theodore R. Smith (HopeSeekr). بلا قيادة في جوهرها — المبادئ هي ما يهم. اتَّبع الحقيقة باستمرار، أينما قادتك."
         },
         {
           "selector": ".footer-copy",
           "source": "© 2012–2026 Theodore R. Smith. Licensed under CC-BY 3.0 and OSSAL 1.0 simultaneously.",
-          "target": ""
+          "target": "© 2012–2026 Theodore R. Smith. مرخَّص بموجب CC-BY 3.0 وOSSAL 1.0 في آنٍ واحد."
         }
       ]
     }
