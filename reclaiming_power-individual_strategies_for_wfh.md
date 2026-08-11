@@ -51,9 +51,7 @@ remote-friendly employer has become largely unviable for the majority of workers
 Employers have demonstrated that productivity metrics and evidence of remote work effectiveness are irrelevant to
 their decision-making. The push for return-to-office mandates is fundamentally about reducing staff costs to increase
 profits for executives and shareholders, while maintaining control over employees. No amount of documentation or
-proof of remote work success will change this underlying motivation.# The Case Against Mandatory Office Commuting:
-A Progressive Vision for Work and Society
-
+proof of remote work success will change this underlying motivation.
 
 ## The Power of Principled Resistance
 
