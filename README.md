@@ -121,12 +121,19 @@ change them in incompatible ways.
 
 ### Work From Home Religious Exemption
 
-Full members affirm the [Oath to Work Locally or Remotely](public/legal/UNICON_-_Oath_to_Work_Locally_or_Remotely.md).
-Supporting materials:
+**Core differentiating doctrine** — and the **only oath** required for full human membership
+(AI members do not take the HR oath; distributed participation is the spirit of the principle).
 
+Full human members affirm the [Oath to Work Locally or Remotely](public/legal/oath.html)
+([source .md](public/legal/UNICON_-_Oath_to_Work_Locally_or_Remotely.md)).
+
+Supporting materials (HTML ports + sources):
+
+- [The Case Against Mandatory Office Commuting](public/doctrine/case_against_mandatory_commuting.html)
+  ([.md](case_against_mandatory_commuting-a_progressive_vision.md))
+- [Reclaiming Power: Individual Strategies for Securing Remote Work Rights](public/doctrine/reclaiming_power.html)
+  ([.md](reclaiming_power-individual_strategies_for_wfh.md))
 - [WFH Guide (PDF)](public/legal/UNICON_-_WFH_Guide.pdf)
-- [The Case Against Mandatory Office Commuting](case_against_mandatory_commuting-a_progressive_vision.md)
-- [Reclaiming Power: Individual Strategies for Securing Remote Work Rights](reclaiming_power-individual_strategies_for_wfh.md)
 
 Membership verification certificates for HR and legal departments live under
 `public/members/` (UUID filenames).

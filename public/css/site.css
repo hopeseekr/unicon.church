@@ -132,7 +132,7 @@ a:hover {
    -------------------------------------------------------------------------- */
 
 .site-header {
-  position: sticky;
+/*  position: sticky; */
   top: 0;
   z-index: 100;
   height: var(--header-h);
@@ -1143,6 +1143,25 @@ a:hover {
   color: var(--text-dim);
 }
 
+.wfh-resources {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.15rem;
+  margin-top: clamp(2rem, 4vw, 2.75rem);
+}
+
+.wfh-resource-card {
+  min-height: 100%;
+}
+
+.wfh-resource-card h3 {
+  font-size: 1.05rem;
+}
+
+.wfh-resource-card code {
+  font-size: 0.85em;
+}
+
 /* --------------------------------------------------------------------------
    Join
    -------------------------------------------------------------------------- */
@@ -1214,6 +1233,10 @@ a:hover {
     grid-template-columns: 1fr;
   }
 
+  .wfh-resources {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
   .hero-stats {
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
@@ -1262,6 +1285,10 @@ a:hover {
 
   .slideshow-hint {
     display: none;
+  }
+
+  .wfh-resources {
+    grid-template-columns: 1fr;
   }
 }
 
