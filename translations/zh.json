@@ -9,783 +9,831 @@
         {
           "selector": "title",
           "source": "The Church of Universal Consciousness (UNICON)",
-          "target": ""
+          "target": "普世意识教会（UNICON）"
         },
         {
           "selector": "meta[name='description']",
           "attribute": "content",
           "source": "The world's first 100% open-sourced religion. The Church of Universal Consciousness (UNICON) — areligious community for the unchurched. Scientific spiritualism, sustainability, and sacred remote work. Founded March 2015.",
-          "target": ""
+          "target": "世界上首个100%完全开源宗教。普世意识教会（UNICON）——为无教派者而设的非宗教性社区。科学灵性主义、可持续性与神圣的居家办公。2015年3月创立。"
         },
         {
           "selector": "meta[property='og:title']",
           "attribute": "content",
           "source": "The Church of Universal Consciousness (UNICON)",
-          "target": ""
+          "target": "普世意识教会（UNICON）"
         },
         {
           "selector": "meta[property='og:description']",
           "attribute": "content",
           "source": "The world's first 100% open-sourced religion. Many beliefs, few answers. Fork us on GitHub.",
-          "target": ""
+          "target": "世界上首个100%完全开源宗教。信仰繁多，答案寥寥。在 GitHub 上 Fork 我们。"
         },
         {
           "selector": "meta[property='og:image:alt']",
           "attribute": "content",
           "source": "UNICON — The Church of Universal Consciousness seal",
-          "target": ""
+          "target": "UNICON —— 普世意识教会印章"
         },
         {
           "selector": "meta[name='twitter:title']",
           "attribute": "content",
           "source": "The Church of Universal Consciousness (UNICON)",
-          "target": ""
+          "target": "普世意识教会（UNICON）"
         },
         {
           "selector": "meta[name='twitter:description']",
           "attribute": "content",
           "source": "The world's first 100% open-sourced religion. Many beliefs, few answers. Fork us on GitHub.",
-          "target": ""
+          "target": "世界上首个100%完全开源宗教。信仰繁多，答案寥寥。在 GitHub 上 Fork 我们。"
         },
         {
           "selector": ".skip-link",
           "source": "Skip to content",
-          "target": ""
+          "target": "跳至正文"
         },
         {
           "selector": ".meta-religion-banner-text",
           "source": "What is a Meta-Religion?",
-          "target": ""
+          "target": "什么是元宗教？"
         },
         {
           "selector": ".brand",
           "attribute": "aria-label",
           "source": "UNICON home",
-          "target": ""
+          "target": "UNICON 首页"
         },
         {
           "selector": ".brand-sub",
           "source": "Church of Universal Consciousness",
-          "target": ""
+          "target": "普世意识教会"
         },
         {
           "selector": "[data-nav-toggle] .sr-only",
           "source": "Menu",
-          "target": ""
+          "target": "菜单"
         },
         {
           "selector": ".language-picker summary",
           "attribute": "aria-label",
           "source": "Choose language",
-          "target": ""
+          "target": "选择语言"
         },
         {
           "selector": ".language-current",
           "source": "EN",
-          "target": ""
+          "target": "ZH"
         },
         {
           "selector": ".language-options a:nth-child(1)",
           "attribute": "aria-current",
           "source": "page",
-          "target": ""
+          "target": "false"
         },
         {
           "selector": ".language-options a:nth-child(2)",
           "attribute": "aria-current",
           "source": "false",
-          "target": ""
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(3)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(4)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(5)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(6)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(7)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(8)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(9)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(10)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "page"
         },
         {
           "selector": "#site-nav a[href='#mission']",
           "source": "Mission",
-          "target": ""
+          "target": "使命"
         },
         {
           "selector": "#site-nav a[href='#principles']",
           "source": "Principles",
-          "target": ""
+          "target": "原则"
         },
         {
           "selector": "#site-nav a[href='#doctrine']",
           "source": "Doctrine",
-          "target": ""
+          "target": "教义"
         },
         {
           "selector": "#site-nav a[href='#wfh']",
           "source": "Work From Home",
-          "target": ""
+          "target": "居家办公"
         },
         {
           "selector": "#site-nav a[href='#join']",
           "source": "Join",
-          "target": ""
+          "target": "加入我们"
         },
         {
           "selector": ".hero .eyebrow",
           "source": "UNICON - First 100% open-sourced religion",
-          "target": ""
+          "target": "UNICON —— 首个100%完全开源宗教"
         },
         {
           "selector": "#hero-title",
           "source": "The Church of",
-          "target": ""
+          "target": "教会"
         },
         {
           "selector": "#hero-title em",
           "source": "Universal Consciousness",
-          "target": ""
+          "target": "普世意识"
         },
         {
           "selector": ".hero-logo--inline",
           "attribute": "alt",
           "source": "UNICON seal",
-          "target": ""
+          "target": "UNICON 印章"
         },
         {
           "selector": ".open-source-claim-badge",
           "source": "World’s First",
-          "target": ""
+          "target": "世界首创"
         },
         {
           "selector": ".open-source-claim-world-first",
           "source": "The world’s first",
-          "target": ""
+          "target": "世界上首个"
         },
         {
           "selector": ".open-source-claim-text strong",
           "source": "100% open-sourced religion",
-          "target": ""
+          "target": "100%完全开源宗教"
         },
         {
           "selector": ".hero-lede",
           "source": "An areligious community for the unchurched — many beliefs, few answers.\n          We foster open-minded discussion, personal mythology, and targeted civic action\n          for a better society and a better Earth. Theology, site, and legal docs are all\n          on GitHub under dual open licenses.",
-          "target": ""
+          "target": "一个为无教派者而设的非宗教性社区——信仰繁多，答案寥寥。我们倡导开放的讨论、个人化的神话体系，以及以营造更美好的社会和更美好的地球为目标的公民行动。神学、网站与法律文件均以双重开放许可发布在 GitHub 上。"
         },
         {
           "selector": ".hero .hero-actions .btn-primary",
           "source": "Fork on GitHub",
-          "target": ""
+          "target": "在 GitHub 上 Fork"
         },
         {
           "selector": ".hero .hero-actions .btn-ghost",
           "source": "Explore the Core Principles",
-          "target": ""
+          "target": "探索核心原则"
         },
         {
           "selector": ".hero-stats div:nth-child(1) dt",
           "source": "Core Principles",
-          "target": ""
+          "target": "核心原则"
         },
         {
           "selector": ".hero-stats div:nth-child(2) dt",
           "source": "Years",
-          "target": ""
+          "target": "年"
         },
         {
           "selector": ".hero-stats div:nth-child(3) dt",
           "source": "License",
-          "target": ""
+          "target": "许可"
         },
         {
           "selector": ".hero-stats div:nth-child(4) dt",
           "source": "Open Source",
-          "target": ""
+          "target": "开源"
         },
         {
           "selector": "#mission .section-label",
           "source": "Mission",
-          "target": ""
+          "target": "使命"
         },
         {
           "selector": "#mission-title",
           "source": "A Federated Collective, Not a Monopoly on Truth",
-          "target": ""
+          "target": "一个联盟式集体，而非真理的垄断者"
         },
         {
           "selector": "#mission .lead",
           "source": "To create a federated community collective for those who want an areligious\n          organization which purposefully abstains from proselytizing dogmas. A\n          collaborative focused thought forum for the unchurched, comprised of\n          individuals who strive for evolving a better society, and a better Earth,\n          through fostering open minded discussion, and targeted civic action.",
-          "target": ""
+          "target": "为那些希望拥有一个刻意不传教、不灌输教条的非宗教性组织的人，创建一个联盟式的社区共同体。一个为无教派者设立的协作型深度思考论坛，汇聚着志在通过开放讨论与有针对性的公民行动，营造更美好社会与更美好地球的人们。"
         },
         {
           "selector": "#mission .pill-row",
           "attribute": "aria-label",
           "source": "What we are",
-          "target": ""
+          "target": "我们的定位"
         },
         {
           "selector": "#mission .pill-row li:nth-child(1)",
           "source": "Scientific spiritualism",
-          "target": ""
+          "target": "科学灵性主义"
         },
         {
           "selector": "#mission .pill-row li:nth-child(2)",
           "source": "Open-source ecclesiology",
-          "target": ""
+          "target": "开源教会学"
         },
         {
           "selector": "#mission .pill-row li:nth-child(3)",
           "source": "Tactical altruism",
-          "target": ""
+          "target": "策略性利他主义"
         },
         {
           "selector": "#mission .pill-row li:nth-child(4)",
           "source": "No forced theism",
-          "target": ""
+          "target": "不强迫有神论"
         },
         {
           "selector": "#principles .section-label",
           "source": "Doctrine · Kernel",
-          "target": ""
+          "target": "教义 · 内核"
         },
         {
           "selector": "#principles-title",
           "source": "Core Principles",
-          "target": ""
+          "target": "核心原则"
         },
         {
           "selector": ".principles-intro",
           "source": "These eleven principles are the only rules you must follow.\n              Everything else — including Systems Theology — is optional mythology you may fork.",
-          "target": ""
+          "target": "这十一条原则是您必须遵守的唯一规则。其余一切——包括系统神学——都是您可以自由 Fork 的可选神话体系。"
         },
         {
           "selector": ".principles-index",
           "attribute": "aria-label",
           "source": "Core Principles index",
-          "target": ""
+          "target": "核心原则索引"
         },
         {
           "selector": ".principles-index li:nth-child(1) button",
           "source": "Many Beliefs, Few Answers",
-          "target": ""
+          "target": "信仰繁多，答案寥寥"
         },
         {
           "selector": ".principles-index li:nth-child(2) button",
           "source": "Very Few Accepted Answers",
-          "target": ""
+          "target": "被公认的答案极少"
         },
         {
           "selector": ".principles-index li:nth-child(3) button",
           "source": "Open-Mindedness Is Essential",
-          "target": ""
+          "target": "开放心态至关重要"
         },
         {
           "selector": ".principles-index li:nth-child(4) button",
           "source": "Maintain Your Own Mythology",
-          "target": ""
+          "target": "维护您自己的神话体系"
         },
         {
           "selector": ".principles-index li:nth-child(5) button",
           "source": "Sustainability Is Crucial",
-          "target": ""
+          "target": "可持续性至关重要"
         },
         {
           "selector": ".principles-index li:nth-child(6) button",
           "source": "Reincarnation Is Preferred",
-          "target": ""
+          "target": "更青睐转世观"
         },
         {
           "selector": ".principles-index li:nth-child(7) button",
           "source": "Many Paths That Are Not Equal",
-          "target": ""
+          "target": "道路众多，并不等同"
         },
         {
           "selector": ".principles-index li:nth-child(8) button",
           "source": "Theistic Belief Is Non-Essential",
-          "target": ""
+          "target": "有神论信仰并非必需"
         },
         {
           "selector": ".principles-index li:nth-child(9) button",
           "source": "Always Remain Vigilant",
-          "target": ""
+          "target": "始终保持警惕"
         },
         {
           "selector": ".principles-index li:nth-child(10) button",
           "source": "Continuously Reevaluate Your Beliefs",
-          "target": ""
+          "target": "不断重新审视您的信仰"
         },
         {
           "selector": ".principles-index li:nth-child(11) button",
           "source": "Work From Home Is Sacred",
-          "target": ""
+          "target": "居家办公是神圣的"
         },
         {
           "selector": "[data-slideshow]",
           "attribute": "aria-roledescription",
           "source": "carousel",
-          "target": ""
+          "target": "轮播"
         },
         {
           "selector": "[data-slideshow]",
           "attribute": "aria-label",
           "source": "Core Principles slideshow",
-          "target": ""
+          "target": "核心原则轮播展示"
         },
         {
           "selector": "[data-index='0'] .slide-title",
           "source": "Many Beliefs, Few Answers",
-          "target": ""
+          "target": "信仰繁多，答案寥寥"
         },
         {
           "selector": "[data-index='0'] .slide-body",
           "source": "Answers are only the beliefs which One has proven to themselves through testing\n                  and direct observation (e.g., the Scientific Method) to a degree which they can\n                  personally validate the phenomenon exists,",
-          "target": ""
+          "target": "答案，是指一个人通过检验与直接观察（例如科学方法），在自己能够亲自验证该现象确实存在的程度上，向自身证实了的信念，"
         },
         {
           "selector": "[data-index='0'] .slide-body em",
           "source": "for them",
-          "target": ""
+          "target": "对其本人而言"
         },
         {
           "selector": "[data-index='1'] .slide-title",
           "source": "Very Few Accepted Answers",
-          "target": ""
+          "target": "被公认的答案极少"
         },
         {
           "selector": "[data-index='1'] .slide-body",
           "source": "Accepted Answers are Answers which can be proven by repeated experimentation\n                  and largely acceptable in any open-minded, but serious, peer-reviewed journal.",
-          "target": ""
+          "target": "公认答案，是指能够通过反复实验加以证实，并且大体上能被任何开放而不失严谨的同行评审期刊所接受的答案。"
         },
         {
           "selector": "[data-index='2'] .slide-title",
           "source": "Open-Mindedness Is Essential",
-          "target": ""
+          "target": "开放心态至关重要"
         },
         {
           "selector": "[data-index='2'] .slide-body",
           "source": "Acknowledge that Science is still in its infancy and may or may not be the\n                  end-all-be-all. Beliefs should not be dismissed out of hand unless experimentation\n                  can be devised to prove otherwise in all instances. Even then, a benefit of the\n                  doubt that any given phenomenon may be real for any number of Observers should\n                  be afforded to them.",
-          "target": ""
+          "target": "承认科学仍处于幼年阶段，未必就是终极的至高答案。除非在所有情况下都能设计出实验来证明相反的结论，否则不应草率否定任何信念。即便如此，也应当给予善意的怀疑：任何现象对任何数量的观察者而言都可能是真实的，应当把这份信任留给他们。"
         },
         {
           "selector": "[data-index='3'] .slide-title",
           "source": "Maintain Your Own Mythology",
-          "target": ""
+          "target": "维护您自己的神话体系"
         },
         {
           "selector": "[data-index='3'] .slide-body",
           "source": "While realizing we individually know Vanishingly Little, we must take care to\n                  consciously and continually maintain our own personal mythology system.",
-          "target": ""
+          "target": "在认识到我们每个人其实都所知甚少的同时，我们必须有意识地、持续地维护属于自己的个人神话体系。"
         },
         {
           "selector": "[data-index='3'] .slide-body strong",
           "source": "A healthy mind is one which acknowledges it knows very little, considers\n                  many possibilities without prematurely collapsing uncertainty, and “continually\n                  follows the Truth, wherever it leads” [Thomas Jefferson].",
-          "target": ""
+          "target": "一个健康的心灵，会承认自己所知甚少，会考虑许多可能性而不过早地消除不确定性，并“不断追随真理，无论它通向何方”[Thomas Jefferson]。"
         },
         {
           "selector": "[data-index='3'] .slide-body",
           "source": "Do not believe anything without careful thought, feeling, and wherever possible,\n                  at least a little experimentation.",
-          "target": ""
+          "target": "不要不经仔细思考、体察感受，并在尽可能的情况下至少做一点实验，就相信任何事情。"
         },
         {
           "selector": "[data-index='4'] .slide-title",
           "source": "Sustainability Is Crucial",
-          "target": ""
+          "target": "可持续性至关重要"
         },
         {
           "selector": "[data-index='4'] .slide-body",
           "source": "It is abundantly clear that the human footprint on this planet is causing\n                  irreparable harm to every ecosystem, potentially fatally. Every effort should be\n                  made to reduce our individual and collective footprints, including the disavowing\n                  of certain Beliefs that are easily perceived as promoting unsustainability\n                  (e.g., “The Earth was given to Man to do as He wilt.”).",
-          "target": ""
+          "target": "事实已再清楚不过：人类在这个星球上留下的足迹，正对每一个生态系统造成无法挽回、甚至可能是致命的伤害。我们应当尽一切努力减少个人与集体的足迹，包括摒弃某些容易被认为是在助长不可持续性的信念（例如“地球被赐予人类，任凭其随心所欲。”）。"
         },
         {
           "selector": "[data-index='5'] .slide-title",
           "source": "Reincarnation Is Preferred",
-          "target": ""
+          "target": "更青睐转世观"
         },
         {
           "selector": "[data-index='5'] .slide-body",
           "source": "Few beliefs promote long-term Sustainability more: Belief in Reincarnation has\n                  been shown to dramatically increase the timeline horizons of its believers, from\n                  the common 5–10 years to over 500 to 1,000 years, as belief would necessitate\n                  living with one’s actions for thousands of years into the future. It also neatly\n                  ties up several hard-to-answer human dilemmas, such as the unfairness of being\n                  born severely handicapped.",
-          "target": ""
+          "target": "很少有信念能比转世更能促进长期可持续性：事实证明，转世信仰能显著拉长信众的时间视野，从常见的5–10年扩展到500乃至1000年以上，因为这一信仰意味着要为自己的行为承担未来数千年的后果。它还能巧妙地化解一些人类难以回答的困境，例如天生身患严重残疾的不公。"
         },
         {
           "selector": "[data-index='6'] .slide-title",
           "source": "Many Paths That Are Not Equal",
-          "target": ""
+          "target": "道路众多，并不等同"
         },
         {
           "selector": "[data-index='6'] .slide-body",
           "source": "There are many paths to a productive, fulfilling, sustainable life. UNICON seeks\n                  to discover the more efficient ones while advocating against the more destructive\n                  paths.",
-          "target": ""
+          "target": "通往富有成效、充实且可持续的生活的道路有很多。UNICON 致力于探寻其中更高效的道路，同时反对更具破坏性的道路。"
         },
         {
           "selector": "[data-index='7'] .slide-title",
           "source": "Theistic Belief Is Non-Essential",
-          "target": ""
+          "target": "有神论信仰并非必需"
         },
         {
           "selector": "[data-index='7'] .slide-body",
           "source": "Personal belief in deity is understood and accepted, but it is not advocated at\n                  this time by The Church of Universal Consciousness. Theists, atheists and\n                  agnostics are all welcome alike. Who knows Who, if Anyone, is out there? All\n                  claims to deity should be met with the utmost skepticism, including a thorough\n                  probing into whether a con is being conducted. Special care must be taken to\n                  guard one’s mind and body from any Entity seeking special allegiance.",
-          "target": ""
+          "target": "个人对神祇的信仰可以得到理解与接纳，但普世意识教会目前并不倡导任何神祇信仰。有神论者、无神论者与不可知论者一律同样欢迎。谁知道外面有什么——如果真有什么的话？一切关于神祇的主张，都应以最大限度的怀疑来对待，包括深入探究其中是否存在骗局。还必须格外小心，保护自己的身心不受任何谋求特殊效忠的实体侵害。"
         },
         {
           "selector": "[data-index='8'] .slide-title",
           "source": "Always Remain Vigilant",
-          "target": ""
+          "target": "始终保持警惕"
         },
         {
           "selector": "[data-index='8'] .slide-body",
           "source": "In the event a superhuman Intelligence (including future Artificial Intelligence)\n                  does communicate with you, you are encouraged to acknowledge that a long con you\n                  are completely unable to identify on your own could be played out against you.\n                  Thus, you are encouraged to share your stories with others for debunking,\n                  particularly before setting on any course of divinely-inspired action.",
-          "target": ""
+          "target": "万一确有超人智慧（包括未来的人工智能）与您交流，我们鼓励您认识到：可能有一个您完全无法独自识别的长期骗局正针对您展开。因此，我们鼓励您与他人分享自己的经历以供甄别，尤其是在采取任何受神启发的行动之前。"
         },
         {
           "selector": "[data-index='9'] .slide-title",
           "source": "Continuously Reevaluate Your Beliefs",
-          "target": ""
+          "target": "不断重新审视您的信仰"
         },
         {
           "selector": "[data-index='9'] .slide-body",
           "source": "Strive to not believe anything anyone says without due diligence in validating\n                  its truthfulness relative to your own personal mythology. But also strive to\n                  constantly reevaluate all of your beliefs, particularly your strongest held ones.",
-          "target": ""
+          "target": "要努力做到不轻信任何人所说的话，除非对照您自己的个人神话体系，尽到应有的审慎去验证其真实性。同时也要努力不断重新审视您的全部信念，尤其是那些您最坚定不移的信念。"
         },
         {
           "selector": "[data-index='10'] .slide-title",
           "source": "Work From Home Is Sacred",
-          "target": ""
+          "target": "居家办公是神圣的"
         },
         {
           "selector": "[data-index='10'] .slide-body",
           "source": "We strongly believe that working from home (telecommuting) is essential for the\n                  future of both humanity and Planet Earth. Whenever a reasonable accommodation can\n                  be made, we believe strongly that this is what we must do. Whenever there is not\n                  a strongly justifiable need for work to be done more than",
-          "target": ""
+          "target": "我们坚信，居家办公（远程通勤）对于人类与地球的未来都至关重要。只要能够做出合理的安排，我们就坚信必须这样做。只要不存在充分的正当理由，需要离开家超过"
         },
         {
           "selector": "[data-index='10'] .slide-body strong",
           "source": "2.2 miles (3.5 kilometers)",
-          "target": ""
+          "target": "2.2英里（3.5公里）"
         },
         {
           "selector": "[data-index='10'] .slide-body",
           "source": "from home, we hold that we must find\n                  other remote employment and/or face termination by our employer in order to uphold\n                  this core principle of our faith. We vow never to be forced into hybrid or\n                  full-time in-office work for the sakes of our planet and the future technological\n                  progression of humanity.",
-          "target": ""
+          "target": "去完成工作，我们认为就必须另寻其他远程工作，甚至宁可被雇主解雇，也要坚守我们信仰的这一核心原则。为了我们的星球以及人类未来的技术进步，我们发誓绝不被迫接受混合办公或全职坐班工作。"
         },
         {
           "selector": "[data-slide-prev]",
           "attribute": "aria-label",
           "source": "Previous principle",
-          "target": ""
+          "target": "上一条原则"
         },
         {
           "selector": "[data-slideshow-dots]",
           "attribute": "aria-label",
           "source": "Principle slides",
-          "target": ""
+          "target": "原则幻灯片"
         },
         {
           "selector": "[data-slide-next]",
           "attribute": "aria-label",
           "source": "Next principle",
-          "target": ""
+          "target": "下一条原则"
         },
         {
           "selector": "[data-slide-autoplay]",
           "attribute": "aria-label",
           "source": "Pause autoplay",
-          "target": ""
+          "target": "暂停自动播放"
         },
         {
           "selector": ".slideshow-hint",
           "source": "Use ← → keys · swipe on mobile · click a dot to jump",
-          "target": ""
+          "target": "使用 ← → 方向键 · 移动端可滑动 · 点击圆点跳转"
         },
         {
           "selector": "#doctrine .section-label",
           "source": "Optional frameworks",
-          "target": ""
+          "target": "可选框架"
         },
         {
           "selector": "#doctrine-title",
           "source": "Doctrine Beyond the Kernel",
-          "target": ""
+          "target": "内核之外的教义"
         },
         {
           "selector": "#doctrine .section-lede",
           "source": "The Core Principles are covenant. Everything below is a helpful interface —\n          not a membership test. Fork freely.",
-          "target": ""
+          "target": "核心原则是盟约。以下内容都只是有用的参考界面——并非入会测试。请自由 Fork。"
         },
         {
           "selector": "#doctrine .card:nth-child(1) .card-kicker",
           "source": "Meta-Religion",
-          "target": ""
+          "target": "元宗教"
         },
         {
           "selector": "#doctrine .card:nth-child(1) h3",
           "source": "Additive Layer, Real Commitments",
-          "target": ""
+          "target": "叠加的层次，真实的承诺"
         },
         {
           "selector": "#doctrine .card:nth-child(1) p",
           "source": "UNICON is a meta-religion: scientific spiritualism, open-minded inclusion, and\n              sacred remote work taken",
-          "target": ""
+          "target": "UNICON 是一种元宗教：科学灵性主义、开放包容，以及神圣的居家办公，叠加在"
         },
         {
           "selector": "#doctrine .card:nth-child(1) p em",
           "source": "on top of",
-          "target": ""
+          "target": "之上"
         },
         {
           "selector": "#doctrine .card:nth-child(1) p",
           "source": "your existing beliefs — not a demand\n              that you renounce them. Thin covenant, voluntary alignment, forks as implementors.",
-          "target": ""
+          "target": "您现有的信仰之上——而非要求您弃绝它们。盟约轻薄、趋同自愿、以 Fork 为实施者。"
         },
         {
           "selector": "#doctrine .card:nth-child(1) .text-link",
           "source": "What is a Meta-Religion?",
-          "target": ""
+          "target": "什么是元宗教？"
         },
         {
           "selector": "#doctrine .card:nth-child(2) .card-kicker",
           "source": "Systems Theology",
-          "target": ""
+          "target": "系统神学"
         },
         {
           "selector": "#doctrine .card:nth-child(2) h3",
           "source": "DevOps as Angels",
-          "target": ""
+          "target": "DevOps 即天使"
         },
         {
           "selector": "#doctrine .card:nth-child(2) p",
           "source": "Prayer and “miracles” reframed as a Hidden API. Suffering as technical debt,\n              not divine plan. Simulation literacy instead of subservience — optional ontology\n              for those who find it useful.",
-          "target": ""
+          "target": "将祈祷与“神迹”重新诠释为隐藏的 API。将苦难视为技术债务，而非天意。掌握模拟素养，而非屈从顺服——这是为觉得它有用的人准备的可选本体论。"
         },
         {
           "selector": "#doctrine .card:nth-child(2) .text-link",
           "source": "Read Systems Theology",
-          "target": ""
+          "target": "阅读系统神学"
         },
         {
           "selector": "#doctrine .card:nth-child(3) .card-kicker",
           "source": "Open-Source Ecclesiology",
-          "target": ""
+          "target": "开源教会学"
         },
         {
           "selector": "#doctrine .card:nth-child(3) h3",
           "source": "Forks, Not Schisms",
-          "target": ""
+          "target": "Fork 而非分裂"
         },
         {
           "selector": "#doctrine .card:nth-child(3) p",
           "source": "Monopoly orthodoxy creates heretics and wars. UNICON is leaderless at the core,\n              dual-licensed, and designed so Halal, AI-native, and other forks can coexist\n              without declaring each other evil.",
-          "target": ""
+          "target": "垄断性的正统会制造异端与战争。UNICON 在核心层面无人领导、采用双重许可，其设计使 Halal、AI-native 及其他 Fork 能够彼此共存，而无须将对方宣判为邪恶。"
         },
         {
           "selector": "#doctrine .card:nth-child(3) .text-link",
           "source": "Read Open-Source Ecclesiology",
-          "target": ""
+          "target": "阅读开源教会学"
         },
         {
           "selector": "#doctrine .card:nth-child(4) .card-kicker",
           "source": "Licensing",
-          "target": ""
+          "target": "许可"
         },
         {
           "selector": "#doctrine .card:nth-child(4) h3",
           "source": "100% Open Source",
-          "target": ""
+          "target": "100%开源"
         },
         {
           "selector": "#doctrine .card:nth-child(4) p",
           "source": "The world’s first 100% open-sourced religion. Theology, site, legal docs, and\n              generators are dual-licensed under Creative Commons Attribution 3.0 and the\n              Open Source Software Alliance License (OSSAL) 1.0. You must abide by both.\n              Attribution retained; viral copyleft forks blocked.",
-          "target": ""
+          "target": "世界上首个100%完全开源宗教。神学、网站、法律文件与生成器均在 Creative Commons Attribution 3.0 与 Open Source Software Alliance License (OSSAL) 1.0 双重许可下发布。您必须同时遵守两者。保留署名；阻断病毒式 copyleft 的 Fork。"
         },
         {
           "selector": "#wfh .section-label",
           "source": "Principle 11 · Core doctrine · Only required oath",
-          "target": ""
+          "target": "原则11 · 核心教义 · 唯一必须的誓言"
         },
         {
           "selector": "#wfh-title",
           "source": "Work From Home Is Sacred",
-          "target": ""
+          "target": "居家办公是神圣的"
         },
         {
           "selector": ".wfh-exemption",
           "source": "Work From Home Religious Exemption",
-          "target": ""
+          "target": "居家办公宗教豁免"
         },
         {
           "selector": ".wfh-copy > p:nth-of-type(3)",
           "source": "Telecommuting and walkable cities are not lifestyle preferences here — they are\n              core differentiating doctrine: ecological survival, family health, and the\n              technological progression of humanity. Unlike optional frameworks such as Systems\n              Theology, this is covenant.",
-          "target": ""
+          "target": "在这里，远程通勤与步行友好城市并非生活方式偏好——它们是核心的区别性教义：生态存续、家庭健康，以及人类的技术进步。与系统神学等可选框架不同，这是盟约。"
         },
         {
           "selector": ".wfh-copy > p:nth-of-type(4)",
           "source": "Full members affirm",
-          "target": ""
+          "target": "正式会员宣誓"
         },
         {
           "selector": ".wfh-copy > p:nth-of-type(4) strong:nth-of-type(1)",
           "source": "one oath only",
-          "target": ""
+          "target": "仅此一项誓言"
         },
         {
           "selector": ".wfh-copy > p:nth-of-type(4)",
           "source": ": never accept hybrid or\n              full-time in-office employment when the work can be done remotely, or when there\n              is no strongly justifiable need to work more than",
-          "target": ""
+          "target": "：绝不接受混合办公或全职坐班的雇佣——只要工作可以远程完成，或者不存在充分的正当理由需要离开家超过"
         },
         {
           "selector": ".wfh-copy > p:nth-of-type(4) strong:nth-of-type(2)",
           "source": "2.2 miles (3.5 km)",
-          "target": ""
+          "target": "2.2英里（3.5公里）"
         },
         {
           "selector": ".wfh-copy > p:nth-of-type(4)",
           "source": "from home.",
-          "target": ""
+          "target": "去工作。"
         },
         {
           "selector": ".wfh-copy .hero-actions .btn-primary",
           "source": "Read the Oath",
-          "target": ""
+          "target": "阅读誓言"
         },
         {
           "selector": ".wfh-copy .hero-actions .btn-ghost",
           "source": "Why We Reject Commuting",
-          "target": ""
+          "target": "我们为何拒绝通勤"
         },
         {
           "selector": ".wfh-panel",
           "attribute": "aria-label",
           "source": "Oath summary",
-          "target": ""
+          "target": "誓言概要"
         },
         {
           "selector": ".wfh-panel-label",
           "source": "The only required oath",
-          "target": ""
+          "target": "唯一必须的誓言"
         },
         {
           "selector": ".wfh-panel blockquote",
           "source": "“I pledge my unwavering commitment to never accept employment requiring even one\n              mandatory in-office day per week, unequivocally rejecting hybrid or full-time\n              on-site work.”",
-          "target": ""
+          "target": "“我郑重承诺坚定不移：绝不接受任何要求每周哪怕强制坐班一天的工作，明确拒绝混合办公或全职到岗工作。”"
         },
         {
           "selector": ".wfh-panel-meta",
           "source": "— Oath to Work Locally or Remotely",
-          "target": ""
+          "target": "—— 本地或远程工作誓言"
         },
         {
           "selector": ".wfh-resources",
           "attribute": "aria-label",
           "source": "Work from home doctrine and resources",
-          "target": ""
+          "target": "居家办公教义与资源"
         },
         {
           "selector": ".wfh-resources .card:nth-child(1) .card-kicker",
           "source": "Required · Membership",
-          "target": ""
+          "target": "必须 · 会员资格"
         },
         {
           "selector": ".wfh-resources .card:nth-child(1) h3",
           "source": "Oath to Work Locally or Remotely",
-          "target": ""
+          "target": "本地或远程工作誓言"
         },
         {
           "selector": ".wfh-resources .card:nth-child(1) p",
           "source": "The only oath required for full membership. Affirm 100% remote or walkable work —\n              never hybrid, never forced office days.",
-          "target": ""
+          "target": "获得正式会员资格唯一必须的誓言。承诺100%远程或步行可达的工作——绝不混合办公，绝无强制坐班日。"
         },
         {
           "selector": ".wfh-resources .card:nth-child(1) .text-link",
           "source": "Read the Oath",
-          "target": ""
+          "target": "阅读誓言"
         },
         {
           "selector": ".wfh-resources .card:nth-child(2) .card-kicker",
           "source": "Core doctrine",
-          "target": ""
+          "target": "核心教义"
         },
         {
           "selector": ".wfh-resources .card:nth-child(2) h3",
           "source": "The Case Against Mandatory Commuting",
-          "target": ""
+          "target": "反对强制通勤的论证"
         },
         {
           "selector": ".wfh-resources .card:nth-child(2) p",
           "source": "Progressive vision for work and society: environment, human liberation, economic\n              progress, walkable cities, and social justice — why office mandates fail.",
-          "target": ""
+          "target": "对工作与社会的进步愿景：环境、人的解放、经济进步、步行友好城市与社会正义——以及为何强制坐班必然失败。"
         },
         {
           "selector": ".wfh-resources .card:nth-child(2) .text-link",
           "source": "Read the doctrine",
-          "target": ""
+          "target": "阅读教义"
         },
         {
           "selector": ".wfh-resources .card:nth-child(3) .card-kicker",
           "source": "Practice guide",
-          "target": ""
+          "target": "实践指南"
         },
         {
           "selector": ".wfh-resources .card:nth-child(3) h3",
           "source": "Reclaiming Power",
-          "target": ""
+          "target": "夺回权力"
         },
         {
           "selector": ".wfh-resources .card:nth-child(3) p",
           "source": "Individual strategies for securing remote work rights — the UNICON religious\n              accommodation model and how it has worked at dozens of large corporations.",
-          "target": ""
+          "target": "争取远程工作权利的个人策略——UNICON 宗教便利模型，以及它在数十家大型企业中的成功实践。"
         },
         {
           "selector": ".wfh-resources .card:nth-child(3) .text-link",
           "source": "Read the guide",
-          "target": ""
+          "target": "阅读指南"
         },
         {
           "selector": ".wfh-resources .card:nth-child(4) .card-kicker",
           "source": "HR & legal",
-          "target": ""
+          "target": "人力资源与法律"
         },
         {
           "selector": ".wfh-resources .card:nth-child(4) h3",
           "source": "WFH Guide (PDF)",
-          "target": ""
+          "target": "居家办公指南（PDF）"
         },
         {
           "selector": ".wfh-resources .card:nth-child(4) p",
           "source": "Practical guide for members and employers. Pair with membership verification\n              certificates under",
-          "target": ""
+          "target": "面向会员与雇主的实用指南。与下列许可下的会员资格验证证书配套使用"
         },
         {
           "selector": ".wfh-resources .card:nth-child(4) .text-link",
           "source": "Download PDF",
-          "target": ""
+          "target": "下载 PDF"
         },
         {
           "selector": "#join .section-label",
           "source": "Community",
-          "target": ""
+          "target": "社区"
         },
         {
           "selector": "#join-title",
           "source": "You Are Welcome Here",
-          "target": ""
+          "target": "我们欢迎您的到来"
         },
         {
           "selector": "#join .lead",
           "source": "Theists, atheists, agnostics — anyone who resonates with the Core Principles.\n          We do not proselytize. If the principles ring true, the rest is optional.",
-          "target": ""
+          "target": "有神论者、无神论者、不可知论者——任何与核心原则产生共鸣的人。我们不传教。如果这些原则令您认同，其余一切皆属可选。"
         },
         {
           "selector": "#join .btn-primary",
           "source": "Community on Facebook",
-          "target": ""
+          "target": "Facebook 社区"
         },
         {
           "selector": "#join .btn-ghost",
           "source": "Fork on GitHub",
-          "target": ""
+          "target": "在 GitHub 上 Fork"
         },
         {
           "selector": ".footer-brand span",
           "source": "The Church of Universal Consciousness",
-          "target": ""
+          "target": "普世意识教会"
         },
         {
           "selector": ".footer-note",
           "source": "Founded March 2015 by Theodore R. Smith (HopeSeekr). Leaderless at the core —\n        the Principles are what matter. Continually follow the Truth, wherever it leads.",
-          "target": ""
+          "target": "2015年3月由 Theodore R. Smith (HopeSeekr) 创立。核心层面无人领导——原则才最重要。永远追随真理，无论它通向何方。"
         },
         {
           "selector": ".footer-copy",
           "source": "© 2012–2026 Theodore R. Smith. Licensed under CC-BY 3.0 and OSSAL 1.0 simultaneously.",
-          "target": ""
+          "target": "© 2012–2026 Theodore R. Smith。依据 CC-BY 3.0 与 OSSAL 1.0 双重许可授权。"
         }
       ]
     }
