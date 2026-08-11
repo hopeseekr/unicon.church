@@ -1,0 +1,83 @@
+{
+  "locale": "es",
+  "direction": "ltr",
+  "pages": [
+    {
+      "source": "public/index.html",
+      "output": "public/es/index.html",
+      "replacements": [
+        {
+          "selector": "title",
+          "source": "The Church of Universal Consciousness (UNICON)",
+          "target": "La Iglesia de la Conciencia Universal (UNICON)"
+        },
+        {
+          "selector": ".skip-link",
+          "source": "Skip to content",
+          "target": "Saltar al contenido"
+        },
+        {
+          "selector": ".meta-religion-banner-text",
+          "source": "What is a Meta-Religion?",
+          "target": "¿Qué es una metarreligión?"
+        },
+        {
+          "selector": ".brand",
+          "attribute": "aria-label",
+          "source": "UNICON home",
+          "target": "Inicio de UNICON"
+        },
+        {
+          "selector": ".brand-sub",
+          "source": "Church of Universal Consciousness",
+          "target": "Iglesia de la Conciencia Universal"
+        },
+        {
+          "selector": "[data-nav-toggle] .sr-only",
+          "source": "Menu",
+          "target": "Menú"
+        },
+        {
+          "selector": "#site-nav a[href='#mission']",
+          "source": "Mission",
+          "target": "Misión"
+        },
+        {
+          "selector": "#site-nav a[href='#principles']",
+          "source": "Principles",
+          "target": "Principios"
+        },
+        {
+          "selector": "#site-nav a[href='#doctrine']",
+          "source": "Doctrine",
+          "target": "Doctrina"
+        },
+        {
+          "selector": "#site-nav a[href='#wfh']",
+          "source": "Work From Home",
+          "target": "Trabajo desde casa"
+        },
+        {
+          "selector": "#site-nav a[href='#join']",
+          "source": "Join",
+          "target": "Únete"
+        },
+        {
+          "selector": ".hero .eyebrow",
+          "source": "UNICON - First 100% open-sourced religion",
+          "target": "UNICON - La primera religión 100% de código abierto"
+        },
+        {
+          "selector": "#hero-title",
+          "source": "The Church of",
+          "target": "La Iglesia de la"
+        },
+        {
+          "selector": "#hero-title em",
+          "source": "Universal Consciousness",
+          "target": "Conciencia Universal"
+        }
+      ]
+    }
+  ]
+}

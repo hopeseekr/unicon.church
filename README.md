@@ -126,6 +126,18 @@ simultaneously. You must abide by both. See [LICENSE.txt](LICENSE.txt).
 
 ### Local development
 
+Generate localized static pages from the JSON catalogs before serving the site:
+
+```bash
+./build.sh       # all locales
+./build.sh es    # one locale
+```
+
+The English HTML under `public/` is the canonical source. Translation catalogs
+live under `translations/`, and the generated pages are written to locale
+directories such as `public/es/`. Edit the catalog or English source rather
+than editing a generated localized page directly.
+
 Serve the static site from `public/`:
 
 ```bash
