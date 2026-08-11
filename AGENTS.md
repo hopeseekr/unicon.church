@@ -52,7 +52,7 @@ This repo serves **two websites** from two branches:
 
 - **Translations are trunk-only — ignore the `ai` branch.** The `ai` fork has no translation tooling (`tools/translate.php`, `build.sh`), no language picker, and its page copy is not covered by the catalogs. Do not port translation catalogs or generated pages to `ai`, and do not do translation work on `ai`.
 - Translation catalogs are JSON templates in `translations/`, one per language, named `<locale>.json` (e.g. `translations/de.json`, `translations/zh.json`).
-- To add a language, copy an existing template. `translations/es.json` is the completed reference (every `"target"` filled); the other files are blank templates with empty `"target"` strings.
+- To add a language, copy an existing completed catalog (e.g. `translations/es.json` or `translations/fr.json`), blank its `"target"` strings, and fill them with the new translation.
 - Open the template and edit it directly: fill each replacement's `"target"` with the translation, leave `"source"` (the English text) untouched, and set `"locale"` and `"direction"` (`"ltr"` or `"rtl"`) at the top.
 - Never edit the generated pages under `public/<locale>/` — they are rebuilt from the templates by `php tools/translate.php` via `./build.sh` (or `./build.sh <locale>` for one). Rebuild after editing to verify; the generator fails loudly on invalid JSON or selectors that no longer match.
 - A new language also needs a link in the language picker (`.language-options`) in `public/index.html`, plus matching `aria-current` picker replacements in the template so the new locale's own entry is marked `page`.
