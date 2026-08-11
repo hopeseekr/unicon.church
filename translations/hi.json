@@ -9,783 +9,831 @@
         {
           "selector": "title",
           "source": "The Church of Universal Consciousness (UNICON)",
-          "target": ""
+          "target": "सार्वभौमिक चेतना का चर्च (UNICON)"
         },
         {
           "selector": "meta[name='description']",
           "attribute": "content",
           "source": "The world's first 100% open-sourced religion. The Church of Universal Consciousness (UNICON) — areligious community for the unchurched. Scientific spiritualism, sustainability, and sacred remote work. Founded March 2015.",
-          "target": ""
+          "target": "दुनिया का पहला 100% ओपन-सोर्स धर्म। सार्वभौमिक चेतना का चर्च (UNICON) — बिना चर्च वाले लोगों के लिए एक गैर-धार्मिक समुदाय। वैज्ञानिक अध्यात्मवाद, स्थिरता और पवित्र दूरस्थ कार्य। मार्च 2015 में स्थापित।"
         },
         {
           "selector": "meta[property='og:title']",
           "attribute": "content",
           "source": "The Church of Universal Consciousness (UNICON)",
-          "target": ""
+          "target": "सार्वभौमिक चेतना का चर्च (UNICON)"
         },
         {
           "selector": "meta[property='og:description']",
           "attribute": "content",
           "source": "The world's first 100% open-sourced religion. Many beliefs, few answers. Fork us on GitHub.",
-          "target": ""
+          "target": "दुनिया का पहला 100% ओपन-सोर्स धर्म। अनेक आस्थाएँ, कुछ ही उत्तर। हमें GitHub पर फ़ोर्क करें।"
         },
         {
           "selector": "meta[property='og:image:alt']",
           "attribute": "content",
           "source": "UNICON — The Church of Universal Consciousness seal",
-          "target": ""
+          "target": "UNICON — सार्वभौमिक चेतना के चर्च की मुहर"
         },
         {
           "selector": "meta[name='twitter:title']",
           "attribute": "content",
           "source": "The Church of Universal Consciousness (UNICON)",
-          "target": ""
+          "target": "सार्वभौमिक चेतना का चर्च (UNICON)"
         },
         {
           "selector": "meta[name='twitter:description']",
           "attribute": "content",
           "source": "The world's first 100% open-sourced religion. Many beliefs, few answers. Fork us on GitHub.",
-          "target": ""
+          "target": "दुनिया का पहला 100% ओपन-सोर्स धर्म। अनेक आस्थाएँ, कुछ ही उत्तर। हमें GitHub पर फ़ोर्क करें।"
         },
         {
           "selector": ".skip-link",
           "source": "Skip to content",
-          "target": ""
+          "target": "मुख्य सामग्री पर जाएँ"
         },
         {
           "selector": ".meta-religion-banner-text",
           "source": "What is a Meta-Religion?",
-          "target": ""
+          "target": "मेटा-धर्म क्या है?"
         },
         {
           "selector": ".brand",
           "attribute": "aria-label",
           "source": "UNICON home",
-          "target": ""
+          "target": "UNICON मुख्य पृष्ठ"
         },
         {
           "selector": ".brand-sub",
           "source": "Church of Universal Consciousness",
-          "target": ""
+          "target": "सार्वभौमिक चेतना का चर्च"
         },
         {
           "selector": "[data-nav-toggle] .sr-only",
           "source": "Menu",
-          "target": ""
+          "target": "मेन्यू"
         },
         {
           "selector": ".language-picker summary",
           "attribute": "aria-label",
           "source": "Choose language",
-          "target": ""
+          "target": "भाषा चुनें"
         },
         {
           "selector": ".language-current",
           "source": "EN",
-          "target": ""
+          "target": "HI"
         },
         {
           "selector": ".language-options a:nth-child(1)",
           "attribute": "aria-current",
           "source": "page",
-          "target": ""
+          "target": "false"
         },
         {
           "selector": ".language-options a:nth-child(2)",
           "attribute": "aria-current",
           "source": "false",
-          "target": ""
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(3)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(4)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(5)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(6)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "page"
+        },
+        {
+          "selector": ".language-options a:nth-child(7)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(8)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(9)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
+        },
+        {
+          "selector": ".language-options a:nth-child(10)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": "false"
         },
         {
           "selector": "#site-nav a[href='#mission']",
           "source": "Mission",
-          "target": ""
+          "target": "मिशन"
         },
         {
           "selector": "#site-nav a[href='#principles']",
           "source": "Principles",
-          "target": ""
+          "target": "सिद्धांत"
         },
         {
           "selector": "#site-nav a[href='#doctrine']",
           "source": "Doctrine",
-          "target": ""
+          "target": "मत"
         },
         {
           "selector": "#site-nav a[href='#wfh']",
           "source": "Work From Home",
-          "target": ""
+          "target": "घर से काम करना"
         },
         {
           "selector": "#site-nav a[href='#join']",
           "source": "Join",
-          "target": ""
+          "target": "शामिल हों"
         },
         {
           "selector": ".hero .eyebrow",
           "source": "UNICON - First 100% open-sourced religion",
-          "target": ""
+          "target": "UNICON - पहला 100% ओपन-सोर्स धर्म"
         },
         {
           "selector": "#hero-title",
           "source": "The Church of",
-          "target": ""
+          "target": "सार्वभौमिक चेतना का"
         },
         {
           "selector": "#hero-title em",
           "source": "Universal Consciousness",
-          "target": ""
+          "target": "चर्च"
         },
         {
           "selector": ".hero-logo--inline",
           "attribute": "alt",
           "source": "UNICON seal",
-          "target": ""
+          "target": "UNICON की मुहर"
         },
         {
           "selector": ".open-source-claim-badge",
           "source": "World’s First",
-          "target": ""
+          "target": "दुनिया का पहला"
         },
         {
           "selector": ".open-source-claim-world-first",
           "source": "The world’s first",
-          "target": ""
+          "target": "दुनिया का पहला"
         },
         {
           "selector": ".open-source-claim-text strong",
           "source": "100% open-sourced religion",
-          "target": ""
+          "target": "100% ओपन-सोर्स धर्म"
         },
         {
           "selector": ".hero-lede",
           "source": "An areligious community for the unchurched — many beliefs, few answers.\n          We foster open-minded discussion, personal mythology, and targeted civic action\n          for a better society and a better Earth. Theology, site, and legal docs are all\n          on GitHub under dual open licenses.",
-          "target": ""
+          "target": "बिना चर्च वाले लोगों के लिए एक गैर-धार्मिक समुदाय — अनेक आस्थाएँ, कुछ ही उत्तर। हम खुली मानसिकता वाली चर्चा, व्यक्तिगत पौराणिकी और लक्षित नागरिक कार्रवाई को बढ़ावा देते हैं — एक बेहतर समाज और एक बेहतर पृथ्वी के लिए। धर्मशास्त्र, वेबसाइट और कानूनी दस्तावेज़ सभी GitHub पर दोहरे खुले लाइसेंस के अंतर्गत उपलब्ध हैं।"
         },
         {
           "selector": ".hero .hero-actions .btn-primary",
           "source": "Fork on GitHub",
-          "target": ""
+          "target": "GitHub पर फ़ोर्क करें"
         },
         {
           "selector": ".hero .hero-actions .btn-ghost",
           "source": "Explore the Core Principles",
-          "target": ""
+          "target": "मूल सिद्धांत देखें"
         },
         {
           "selector": ".hero-stats div:nth-child(1) dt",
           "source": "Core Principles",
-          "target": ""
+          "target": "मूल सिद्धांत"
         },
         {
           "selector": ".hero-stats div:nth-child(2) dt",
           "source": "Years",
-          "target": ""
+          "target": "वर्ष"
         },
         {
           "selector": ".hero-stats div:nth-child(3) dt",
           "source": "License",
-          "target": ""
+          "target": "लाइसेंस"
         },
         {
           "selector": ".hero-stats div:nth-child(4) dt",
           "source": "Open Source",
-          "target": ""
+          "target": "ओपन सोर्स"
         },
         {
           "selector": "#mission .section-label",
           "source": "Mission",
-          "target": ""
+          "target": "मिशन"
         },
         {
           "selector": "#mission-title",
           "source": "A Federated Collective, Not a Monopoly on Truth",
-          "target": ""
+          "target": "सत्य पर एकाधिकार नहीं, बल्कि एक संघीय सामूहिक समुदाय"
         },
         {
           "selector": "#mission .lead",
           "source": "To create a federated community collective for those who want an areligious\n          organization which purposefully abstains from proselytizing dogmas. A\n          collaborative focused thought forum for the unchurched, comprised of\n          individuals who strive for evolving a better society, and a better Earth,\n          through fostering open minded discussion, and targeted civic action.",
-          "target": ""
+          "target": "उन लोगों के लिए एक संघीय सामुदायिक संगठन बनाना, जो एक ऐसी गैर-धार्मिक संस्था चाहते हैं जो जानबूझकर धर्मांतरणकारी मान्यताओं का प्रचार करने से परहेज करती है। यह चर्च-विहीन लोगों के लिए एक सहयोगी, केन्द्रित विचार-मंच है, जिसमें ऐसे व्यक्ति शामिल हैं जो खुली मानसिकता वाली चर्चा और लक्षित नागरिक कार्रवाई को बढ़ावा देकर एक बेहतर समाज और एक बेहतर पृथ्वी के निर्माण के लिए प्रयासरत रहते हैं।"
         },
         {
           "selector": "#mission .pill-row",
           "attribute": "aria-label",
           "source": "What we are",
-          "target": ""
+          "target": "हम क्या हैं"
         },
         {
           "selector": "#mission .pill-row li:nth-child(1)",
           "source": "Scientific spiritualism",
-          "target": ""
+          "target": "वैज्ञानिक अध्यात्मवाद"
         },
         {
           "selector": "#mission .pill-row li:nth-child(2)",
           "source": "Open-source ecclesiology",
-          "target": ""
+          "target": "ओपन-सोर्स चर्चविज्ञान"
         },
         {
           "selector": "#mission .pill-row li:nth-child(3)",
           "source": "Tactical altruism",
-          "target": ""
+          "target": "रणनीतिक परोपकार"
         },
         {
           "selector": "#mission .pill-row li:nth-child(4)",
           "source": "No forced theism",
-          "target": ""
+          "target": "कोई थोपा हुआ ईश्वरवाद नहीं"
         },
         {
           "selector": "#principles .section-label",
           "source": "Doctrine · Kernel",
-          "target": ""
+          "target": "मत · केंद्रक"
         },
         {
           "selector": "#principles-title",
           "source": "Core Principles",
-          "target": ""
+          "target": "मूल सिद्धांत"
         },
         {
           "selector": ".principles-intro",
           "source": "These eleven principles are the only rules you must follow.\n              Everything else — including Systems Theology — is optional mythology you may fork.",
-          "target": ""
+          "target": "ये ग्यारह सिद्धांत ही एकमात्र नियम हैं जिनका आपको पालन करना है। बाकी सब कुछ — जिसमें प्रणाली धर्मशास्त्र भी शामिल है — वैकल्पिक पौराणिकी है, जिसे आप फ़ोर्क कर सकते हैं।"
         },
         {
           "selector": ".principles-index",
           "attribute": "aria-label",
           "source": "Core Principles index",
-          "target": ""
+          "target": "मूल सिद्धांतों की सूची"
         },
         {
           "selector": ".principles-index li:nth-child(1) button",
           "source": "Many Beliefs, Few Answers",
-          "target": ""
+          "target": "अनेक आस्थाएँ, कुछ ही उत्तर"
         },
         {
           "selector": ".principles-index li:nth-child(2) button",
           "source": "Very Few Accepted Answers",
-          "target": ""
+          "target": "बहुत कम स्वीकृत उत्तर"
         },
         {
           "selector": ".principles-index li:nth-child(3) button",
           "source": "Open-Mindedness Is Essential",
-          "target": ""
+          "target": "खुली मानसिकता आवश्यक है"
         },
         {
           "selector": ".principles-index li:nth-child(4) button",
           "source": "Maintain Your Own Mythology",
-          "target": ""
+          "target": "अपनी स्वयं की पौराणिकी बनाए रखें"
         },
         {
           "selector": ".principles-index li:nth-child(5) button",
           "source": "Sustainability Is Crucial",
-          "target": ""
+          "target": "स्थिरता अत्यंत महत्वपूर्ण है"
         },
         {
           "selector": ".principles-index li:nth-child(6) button",
           "source": "Reincarnation Is Preferred",
-          "target": ""
+          "target": "पुनर्जन्म को प्राथमिकता दी जाती है"
         },
         {
           "selector": ".principles-index li:nth-child(7) button",
           "source": "Many Paths That Are Not Equal",
-          "target": ""
+          "target": "अनेक मार्ग जो समान नहीं हैं"
         },
         {
           "selector": ".principles-index li:nth-child(8) button",
           "source": "Theistic Belief Is Non-Essential",
-          "target": ""
+          "target": "ईश्वरवादी आस्था अनिवार्य नहीं है"
         },
         {
           "selector": ".principles-index li:nth-child(9) button",
           "source": "Always Remain Vigilant",
-          "target": ""
+          "target": "सदैव सतर्क रहें"
         },
         {
           "selector": ".principles-index li:nth-child(10) button",
           "source": "Continuously Reevaluate Your Beliefs",
-          "target": ""
+          "target": "अपनी आस्थाओं का निरंतर पुनर्मूल्यांकन करें"
         },
         {
           "selector": ".principles-index li:nth-child(11) button",
           "source": "Work From Home Is Sacred",
-          "target": ""
+          "target": "घर से काम करना पवित्र है"
         },
         {
           "selector": "[data-slideshow]",
           "attribute": "aria-roledescription",
           "source": "carousel",
-          "target": ""
+          "target": "कैरोसेल"
         },
         {
           "selector": "[data-slideshow]",
           "attribute": "aria-label",
           "source": "Core Principles slideshow",
-          "target": ""
+          "target": "मूल सिद्धांतों का स्लाइडशो"
         },
         {
           "selector": "[data-index='0'] .slide-title",
           "source": "Many Beliefs, Few Answers",
-          "target": ""
+          "target": "अनेक आस्थाएँ, कुछ ही उत्तर"
         },
         {
           "selector": "[data-index='0'] .slide-body",
           "source": "Answers are only the beliefs which One has proven to themselves through testing\n                  and direct observation (e.g., the Scientific Method) to a degree which they can\n                  personally validate the phenomenon exists,",
-          "target": ""
+          "target": "उत्तर केवल वे आस्थाएँ हैं जिन्हें व्यक्ति ने परीक्षण और प्रत्यक्ष अवलोकन (जैसे, वैज्ञानिक विधि) के माध्यम से स्वयं के लिए इस हद तक सिद्ध किया है कि वह व्यक्तिगत रूप से पुष्टि कर सके कि वह घटना वास्तव में विद्यमान है,"
         },
         {
           "selector": "[data-index='0'] .slide-body em",
           "source": "for them",
-          "target": ""
+          "target": "उनके लिए"
         },
         {
           "selector": "[data-index='1'] .slide-title",
           "source": "Very Few Accepted Answers",
-          "target": ""
+          "target": "बहुत कम स्वीकृत उत्तर"
         },
         {
           "selector": "[data-index='1'] .slide-body",
           "source": "Accepted Answers are Answers which can be proven by repeated experimentation\n                  and largely acceptable in any open-minded, but serious, peer-reviewed journal.",
-          "target": ""
+          "target": "स्वीकृत उत्तर वे उत्तर हैं जिन्हें बार-बार किए गए प्रयोगों से सिद्ध किया जा सकता है और जो किसी भी खुले विचारों वाली, किंतु गंभीर, सहकर्मी-समीक्षित पत्रिका में व्यापक रूप से स्वीकार्य हों।"
         },
         {
           "selector": "[data-index='2'] .slide-title",
           "source": "Open-Mindedness Is Essential",
-          "target": ""
+          "target": "खुली मानसिकता आवश्यक है"
         },
         {
           "selector": "[data-index='2'] .slide-body",
           "source": "Acknowledge that Science is still in its infancy and may or may not be the\n                  end-all-be-all. Beliefs should not be dismissed out of hand unless experimentation\n                  can be devised to prove otherwise in all instances. Even then, a benefit of the\n                  doubt that any given phenomenon may be real for any number of Observers should\n                  be afforded to them.",
-          "target": ""
+          "target": "यह स्वीकार करें कि विज्ञान अभी अपनी प्रारंभिक अवस्था में है और हो सकता है कि वह सब कुछ हो या न हो। आस्थाओं को बिना सोचे-समझे खारिज नहीं किया जाना चाहिए, जब तक कि सभी परिस्थितियों में अन्यथा सिद्ध करने के लिए प्रयोग न बनाए जा सकें। फिर भी, किसी भी घटना के किसी भी संख्या में पर्यवेक्षकों के लिए वास्तविक होने की संभावना पर संदेह का लाभ उन्हें दिया जाना चाहिए।"
         },
         {
           "selector": "[data-index='3'] .slide-title",
           "source": "Maintain Your Own Mythology",
-          "target": ""
+          "target": "अपनी स्वयं की पौराणिकी बनाए रखें"
         },
         {
           "selector": "[data-index='3'] .slide-body",
           "source": "While realizing we individually know Vanishingly Little, we must take care to\n                  consciously and continually maintain our own personal mythology system.",
-          "target": ""
+          "target": "जबकि हम जानते हैं कि हम में से प्रत्येक व्यक्ति अत्यंत अल्प जानता है, हमें सचेत रूप से और निरंतर अपनी स्वयं की व्यक्तिगत पौराणिकी-प्रणाली को बनाए रखने का ध्यान रखना चाहिए।"
         },
         {
           "selector": "[data-index='3'] .slide-body strong",
           "source": "A healthy mind is one which acknowledges it knows very little, considers\n                  many possibilities without prematurely collapsing uncertainty, and “continually\n                  follows the Truth, wherever it leads” [Thomas Jefferson].",
-          "target": ""
+          "target": "स्वस्थ मन वह है जो स्वीकार करता है कि वह बहुत कम जानता है, अनिश्चितता को समय से पहले समाप्त किए बिना अनेक संभावनाओं पर विचार करता है, और “जहाँ भी ले जाए, निरंतर सत्य का अनुसरण करता है” [Thomas Jefferson]।"
         },
         {
           "selector": "[data-index='3'] .slide-body",
           "source": "Do not believe anything without careful thought, feeling, and wherever possible,\n                  at least a little experimentation.",
-          "target": ""
+          "target": "सावधानीपूर्वक विचार, अनुभूति और, जहाँ संभव हो, कम से कम थोड़े प्रयोग के बिना किसी भी बात पर विश्वास न करें।"
         },
         {
           "selector": "[data-index='4'] .slide-title",
           "source": "Sustainability Is Crucial",
-          "target": ""
+          "target": "स्थिरता अत्यंत महत्वपूर्ण है"
         },
         {
           "selector": "[data-index='4'] .slide-body",
           "source": "It is abundantly clear that the human footprint on this planet is causing\n                  irreparable harm to every ecosystem, potentially fatally. Every effort should be\n                  made to reduce our individual and collective footprints, including the disavowing\n                  of certain Beliefs that are easily perceived as promoting unsustainability\n                  (e.g., “The Earth was given to Man to do as He wilt.”).",
-          "target": ""
+          "target": "यह सर्वथा स्पष्ट है कि इस ग्रह पर मानव का पदचिह्न हर पारिस्थितिकी-तंत्र को अपूरणीय, संभवतः घातक क्षति पहुँचा रहा है। अपने व्यक्तिगत और सामूहिक पदचिह्नों को कम करने का हर संभव प्रयास किया जाना चाहिए, जिसमें उन आस्थाओं का त्याग भी शामिल है जिन्हें आसानी से अस्थिरता को बढ़ावा देने वाला माना जाता है (जैसे, “पृथ्वी मनुष्य को दी गई थी ताकि वह उसके साथ जो चाहे करे।”)।"
         },
         {
           "selector": "[data-index='5'] .slide-title",
           "source": "Reincarnation Is Preferred",
-          "target": ""
+          "target": "पुनर्जन्म को प्राथमिकता दी जाती है"
         },
         {
           "selector": "[data-index='5'] .slide-body",
           "source": "Few beliefs promote long-term Sustainability more: Belief in Reincarnation has\n                  been shown to dramatically increase the timeline horizons of its believers, from\n                  the common 5–10 years to over 500 to 1,000 years, as belief would necessitate\n                  living with one’s actions for thousands of years into the future. It also neatly\n                  ties up several hard-to-answer human dilemmas, such as the unfairness of being\n                  born severely handicapped.",
-          "target": ""
+          "target": "बहुत कम आस्थाएँ दीर्घकालिक स्थिरता को इतना बढ़ावा देती हैं: शोध से पता चला है कि पुनर्जन्म में विश्वास विश्वासियों की समय-सीमा को नाटकीय रूप से बढ़ा देता है — सामान्य 5–10 वर्षों से बढ़कर 500 से 1,000 वर्षों से अधिक — क्योंकि यह विश्वास भविष्य में हज़ारों वर्षों तक अपने कर्मों के साथ जीने की आवश्यकता पैदा करता है। यह कई कठिन मानवीय दुविधाओं को भी सहजता से सुलझाता है, जैसे कि गंभीर रूप से विकलांग पैदा होने का अन्याय।"
         },
         {
           "selector": "[data-index='6'] .slide-title",
           "source": "Many Paths That Are Not Equal",
-          "target": ""
+          "target": "अनेक मार्ग जो समान नहीं हैं"
         },
         {
           "selector": "[data-index='6'] .slide-body",
           "source": "There are many paths to a productive, fulfilling, sustainable life. UNICON seeks\n                  to discover the more efficient ones while advocating against the more destructive\n                  paths.",
-          "target": ""
+          "target": "उत्पादक, संतोषजनक और स्थिर जीवन के अनेक मार्ग हैं। UNICON अधिक कुशल मार्गों की खोज करना चाहता है, साथ ही अधिक विनाशकारी मार्गों के विरुद्ध आवाज़ उठाता है।"
         },
         {
           "selector": "[data-index='7'] .slide-title",
           "source": "Theistic Belief Is Non-Essential",
-          "target": ""
+          "target": "ईश्वरवादी आस्था अनिवार्य नहीं है"
         },
         {
           "selector": "[data-index='7'] .slide-body",
           "source": "Personal belief in deity is understood and accepted, but it is not advocated at\n                  this time by The Church of Universal Consciousness. Theists, atheists and\n                  agnostics are all welcome alike. Who knows Who, if Anyone, is out there? All\n                  claims to deity should be met with the utmost skepticism, including a thorough\n                  probing into whether a con is being conducted. Special care must be taken to\n                  guard one’s mind and body from any Entity seeking special allegiance.",
-          "target": ""
+          "target": "ईश्वर में व्यक्तिगत विश्वास को समझा और स्वीकार किया जाता है, किंतु सार्वभौमिक चेतना का चर्च इस समय उसका प्रचार नहीं करता। ईश्वरवादी, नास्तिक और अज्ञेयवादी — सभी का समान रूप से स्वागत है। कौन जानता है कि वहाँ बाहर कौन है, यदि कोई है भी? ईश्वरत्व के सभी दावों का अत्यंत संदेह के साथ सामना किया जाना चाहिए, जिसमें यह गहन जाँच भी शामिल है कि कहीं कोई धोखाधड़ी तो नहीं चल रही। किसी भी ऐसी सत्ता से अपने मन और शरीर की रक्षा करने में विशेष सावधानी बरतनी चाहिए जो विशेष निष्ठा की माँग करे।"
         },
         {
           "selector": "[data-index='8'] .slide-title",
           "source": "Always Remain Vigilant",
-          "target": ""
+          "target": "सदैव सतर्क रहें"
         },
         {
           "selector": "[data-index='8'] .slide-body",
           "source": "In the event a superhuman Intelligence (including future Artificial Intelligence)\n                  does communicate with you, you are encouraged to acknowledge that a long con you\n                  are completely unable to identify on your own could be played out against you.\n                  Thus, you are encouraged to share your stories with others for debunking,\n                  particularly before setting on any course of divinely-inspired action.",
-          "target": ""
+          "target": "यदि कोई अतिमानवीय बुद्धिमत्ता (भविष्य की कृत्रिम बुद्धिमत्ता सहित) आपसे संवाद करती है, तो आपको यह ध्यान रखने के लिए प्रोत्साहित किया जाता है कि आपके विरुद्ध कोई लंबा धोखा चलाया जा सकता है, जिसे आप स्वयं पहचानने में पूर्णतः असमर्थ हैं। अतः आपको प्रोत्साहित किया जाता है कि अपनी कहानियाँ दूसरों के साथ साझा करें ताकि उनका खंडन किया जा सके, विशेषकर किसी भी दैवी-प्रेरित कार्य पर आगे बढ़ने से पहले।"
         },
         {
           "selector": "[data-index='9'] .slide-title",
           "source": "Continuously Reevaluate Your Beliefs",
-          "target": ""
+          "target": "अपनी आस्थाओं का निरंतर पुनर्मूल्यांकन करें"
         },
         {
           "selector": "[data-index='9'] .slide-body",
           "source": "Strive to not believe anything anyone says without due diligence in validating\n                  its truthfulness relative to your own personal mythology. But also strive to\n                  constantly reevaluate all of your beliefs, particularly your strongest held ones.",
-          "target": ""
+          "target": "अपनी व्यक्तिगत पौराणिकी के सापेक्ष उसकी सत्यता को उचित परिश्रम से जाँचे बिना किसी भी व्यक्ति की किसी भी बात पर विश्वास न करने का प्रयास करें। साथ ही, अपनी सभी आस्थाओं का, विशेषकर अपनी सबसे दृढ़ आस्थाओं का, निरंतर पुनर्मूल्यांकन करने का प्रयास करें।"
         },
         {
           "selector": "[data-index='10'] .slide-title",
           "source": "Work From Home Is Sacred",
-          "target": ""
+          "target": "घर से काम करना पवित्र है"
         },
         {
           "selector": "[data-index='10'] .slide-body",
           "source": "We strongly believe that working from home (telecommuting) is essential for the\n                  future of both humanity and Planet Earth. Whenever a reasonable accommodation can\n                  be made, we believe strongly that this is what we must do. Whenever there is not\n                  a strongly justifiable need for work to be done more than",
-          "target": ""
+          "target": "हम दृढ़ता से मानते हैं कि घर से काम करना (टेलीकम्यूटिंग) मानवता और ग्रह पृथ्वी दोनों के भविष्य के लिए आवश्यक है। जब भी कोई उचित व्यवस्था बनाई जा सके, हम दृढ़ता से मानते हैं कि हमें यही करना चाहिए। जब भी कार्य को घर से"
         },
         {
           "selector": "[data-index='10'] .slide-body strong",
           "source": "2.2 miles (3.5 kilometers)",
-          "target": ""
+          "target": "2.2 मील (3.5 किलोमीटर)"
         },
         {
           "selector": "[data-index='10'] .slide-body",
           "source": "from home, we hold that we must find\n                  other remote employment and/or face termination by our employer in order to uphold\n                  this core principle of our faith. We vow never to be forced into hybrid or\n                  full-time in-office work for the sakes of our planet and the future technological\n                  progression of humanity.",
-          "target": ""
+          "target": "से अधिक दूरी पर करने की कोई प्रबल औचित्यपूर्ण आवश्यकता न हो, तो हमारा मत है कि हमें अन्य दूरस्थ रोज़गार खोजना चाहिए और/या अपने नियोक्ता द्वारा बर्खास्तगी का सामना करना चाहिए, ताकि हमारे विश्वास के इस मूल सिद्धांत को कायम रखा जा सके। हम वचन देते हैं कि अपने ग्रह और मानवता की भविष्य की तकनीकी प्रगति की खातिर हमें कभी भी हाइब्रिड या पूर्णकालिक कार्यालयी कार्य के लिए बाध्य नहीं किया जाएगा।"
         },
         {
           "selector": "[data-slide-prev]",
           "attribute": "aria-label",
           "source": "Previous principle",
-          "target": ""
+          "target": "पिछला सिद्धांत"
         },
         {
           "selector": "[data-slideshow-dots]",
           "attribute": "aria-label",
           "source": "Principle slides",
-          "target": ""
+          "target": "सिद्धांत स्लाइड"
         },
         {
           "selector": "[data-slide-next]",
           "attribute": "aria-label",
           "source": "Next principle",
-          "target": ""
+          "target": "अगला सिद्धांत"
         },
         {
           "selector": "[data-slide-autoplay]",
           "attribute": "aria-label",
           "source": "Pause autoplay",
-          "target": ""
+          "target": "स्वतः-प्ले रोकें"
         },
         {
           "selector": ".slideshow-hint",
           "source": "Use ← → keys · swipe on mobile · click a dot to jump",
-          "target": ""
+          "target": "← → कुंजियों का उपयोग करें · मोबाइल पर स्वाइप करें · बिंदु पर क्लिक करके जाएँ"
         },
         {
           "selector": "#doctrine .section-label",
           "source": "Optional frameworks",
-          "target": ""
+          "target": "वैकल्पिक ढाँचे"
         },
         {
           "selector": "#doctrine-title",
           "source": "Doctrine Beyond the Kernel",
-          "target": ""
+          "target": "केंद्रक से परे का मत"
         },
         {
           "selector": "#doctrine .section-lede",
           "source": "The Core Principles are covenant. Everything below is a helpful interface —\n          not a membership test. Fork freely.",
-          "target": ""
+          "target": "मूल सिद्धांत ही वाचा हैं। नीचे दी गई हर चीज़ एक सहायक इंटरफ़ेस है — सदस्यता की परीक्षा नहीं। स्वतंत्र रूप से फ़ोर्क करें।"
         },
         {
           "selector": "#doctrine .card:nth-child(1) .card-kicker",
           "source": "Meta-Religion",
-          "target": ""
+          "target": "मेटा-धर्म"
         },
         {
           "selector": "#doctrine .card:nth-child(1) h3",
           "source": "Additive Layer, Real Commitments",
-          "target": ""
+          "target": "जोड़ा गया स्तर, वास्तविक प्रतिबद्धताएँ"
         },
         {
           "selector": "#doctrine .card:nth-child(1) p",
           "source": "UNICON is a meta-religion: scientific spiritualism, open-minded inclusion, and\n              sacred remote work taken",
-          "target": ""
+          "target": "UNICON एक मेटा-धर्म है: वैज्ञानिक अध्यात्मवाद, खुली मानसिकता से समावेश और पवित्र दूरस्थ कार्य, जिन्हें आपकी मौजूदा आस्थाओं"
         },
         {
           "selector": "#doctrine .card:nth-child(1) p em",
           "source": "on top of",
-          "target": ""
+          "target": "के ऊपर"
         },
         {
           "selector": "#doctrine .card:nth-child(1) p",
           "source": "your existing beliefs — not a demand\n              that you renounce them. Thin covenant, voluntary alignment, forks as implementors.",
-          "target": ""
+          "target": "रखा जाता है — न कि उन्हें त्यागने की माँग के रूप में। पतली वाचा, स्वैच्छिक जुड़ाव, और फ़ोर्क ही कार्यान्वयनकर्ता हैं।"
         },
         {
           "selector": "#doctrine .card:nth-child(1) .text-link",
           "source": "What is a Meta-Religion?",
-          "target": ""
+          "target": "मेटा-धर्म क्या है?"
         },
         {
           "selector": "#doctrine .card:nth-child(2) .card-kicker",
           "source": "Systems Theology",
-          "target": ""
+          "target": "प्रणाली धर्मशास्त्र"
         },
         {
           "selector": "#doctrine .card:nth-child(2) h3",
           "source": "DevOps as Angels",
-          "target": ""
+          "target": "देवदूतों के रूप में DevOps"
         },
         {
           "selector": "#doctrine .card:nth-child(2) p",
           "source": "Prayer and “miracles” reframed as a Hidden API. Suffering as technical debt,\n              not divine plan. Simulation literacy instead of subservience — optional ontology\n              for those who find it useful.",
-          "target": ""
+          "target": "प्रार्थना और “चमत्कारों” को एक छिपे हुए API के रूप में पुनःपरिभाषित किया गया है। पीड़ा को दैवी योजना के रूप में नहीं, बल्कि तकनीकी ऋण के रूप में देखा जाता है। अधीनता के स्थान पर सिमुलेशन-साक्षरता — उन लोगों के लिए एक वैकल्पिक ऑन्टोलॉजी जिन्हें यह उपयोगी लगती है।"
         },
         {
           "selector": "#doctrine .card:nth-child(2) .text-link",
           "source": "Read Systems Theology",
-          "target": ""
+          "target": "प्रणाली धर्मशास्त्र पढ़ें"
         },
         {
           "selector": "#doctrine .card:nth-child(3) .card-kicker",
           "source": "Open-Source Ecclesiology",
-          "target": ""
+          "target": "ओपन-सोर्स चर्चविज्ञान"
         },
         {
           "selector": "#doctrine .card:nth-child(3) h3",
           "source": "Forks, Not Schisms",
-          "target": ""
+          "target": "फ़ोर्क, विभाजन नहीं"
         },
         {
           "selector": "#doctrine .card:nth-child(3) p",
           "source": "Monopoly orthodoxy creates heretics and wars. UNICON is leaderless at the core,\n              dual-licensed, and designed so Halal, AI-native, and other forks can coexist\n              without declaring each other evil.",
-          "target": ""
+          "target": "एकाधिकारवादी रूढ़िवादिता विधर्मी और युद्ध पैदा करती है। UNICON मूलतः नेतृत्वहीन है, दोहरे लाइसेंस वाला है, और इस तरह डिज़ाइन किया गया है कि हलाल, AI-मूल और अन्य फ़ोर्क एक-दूसरे को बुरा घोषित किए बिना सह-अस्तित्व में रह सकें।"
         },
         {
           "selector": "#doctrine .card:nth-child(3) .text-link",
           "source": "Read Open-Source Ecclesiology",
-          "target": ""
+          "target": "ओपन-सोर्स चर्चविज्ञान पढ़ें"
         },
         {
           "selector": "#doctrine .card:nth-child(4) .card-kicker",
           "source": "Licensing",
-          "target": ""
+          "target": "लाइसेंसिंग"
         },
         {
           "selector": "#doctrine .card:nth-child(4) h3",
           "source": "100% Open Source",
-          "target": ""
+          "target": "100% ओपन सोर्स"
         },
         {
           "selector": "#doctrine .card:nth-child(4) p",
           "source": "The world’s first 100% open-sourced religion. Theology, site, legal docs, and\n              generators are dual-licensed under Creative Commons Attribution 3.0 and the\n              Open Source Software Alliance License (OSSAL) 1.0. You must abide by both.\n              Attribution retained; viral copyleft forks blocked.",
-          "target": ""
+          "target": "दुनिया का पहला 100% ओपन-सोर्स धर्म। धर्मशास्त्र, वेबसाइट, कानूनी दस्तावेज़ और जनरेटर, सभी Creative Commons Attribution 3.0 और Open Source Software Alliance License (OSSAL) 1.0 के अंतर्गत दोहरे लाइसेंस वाले हैं। आपको दोनों का पालन करना होगा। श्रेय बरकरार रहता है; वायरल कॉपीलेफ्ट फ़ोर्क अवरुद्ध किए जाते हैं।"
         },
         {
           "selector": "#wfh .section-label",
           "source": "Principle 11 · Core doctrine · Only required oath",
-          "target": ""
+          "target": "सिद्धांत 11 · मूल मत · एकमात्र अनिवार्य प्रतिज्ञा"
         },
         {
           "selector": "#wfh-title",
           "source": "Work From Home Is Sacred",
-          "target": ""
+          "target": "घर से काम करना पवित्र है"
         },
         {
           "selector": ".wfh-exemption",
           "source": "Work From Home Religious Exemption",
-          "target": ""
+          "target": "घर से कार्य हेतु धार्मिक छूट"
         },
         {
           "selector": ".wfh-copy > p:nth-of-type(3)",
           "source": "Telecommuting and walkable cities are not lifestyle preferences here — they are\n              core differentiating doctrine: ecological survival, family health, and the\n              technological progression of humanity. Unlike optional frameworks such as Systems\n              Theology, this is covenant.",
-          "target": ""
+          "target": "यहाँ टेलीकम्यूटिंग और पैदल-चलने योग्य शहर जीवनशैली की प्राथमिकताएँ नहीं हैं — ये मुख्य विभेदक मत हैं: पारिस्थितिक अस्तित्व, पारिवारिक स्वास्थ्य और मानवता की तकनीकी प्रगति। प्रणाली धर्मशास्त्र जैसे वैकल्पिक ढाँचों के विपरीत, यह वाचा है।"
         },
         {
           "selector": ".wfh-copy > p:nth-of-type(4)",
           "source": "Full members affirm",
-          "target": ""
+          "target": "पूर्ण सदस्य पुष्टि करते हैं"
         },
         {
           "selector": ".wfh-copy > p:nth-of-type(4) strong:nth-of-type(1)",
           "source": "one oath only",
-          "target": ""
+          "target": "केवल एक ही प्रतिज्ञा"
         },
         {
           "selector": ".wfh-copy > p:nth-of-type(4)",
           "source": ": never accept hybrid or\n              full-time in-office employment when the work can be done remotely, or when there\n              is no strongly justifiable need to work more than",
-          "target": ""
+          "target": ": कभी भी हाइब्रिड या पूर्णकालिक कार्यालयी रोज़गार स्वीकार न करें, जब कार्य दूरस्थ रूप से किया जा सकता हो, या जब घर से"
         },
         {
           "selector": ".wfh-copy > p:nth-of-type(4) strong:nth-of-type(2)",
           "source": "2.2 miles (3.5 km)",
-          "target": ""
+          "target": "2.2 मील (3.5 किमी)"
         },
         {
           "selector": ".wfh-copy > p:nth-of-type(4)",
           "source": "from home.",
-          "target": ""
+          "target": "से अधिक दूरी पर काम करने की कोई प्रबल औचित्यपूर्ण आवश्यकता न हो।"
         },
         {
           "selector": ".wfh-copy .hero-actions .btn-primary",
           "source": "Read the Oath",
-          "target": ""
+          "target": "प्रतिज्ञा पढ़ें"
         },
         {
           "selector": ".wfh-copy .hero-actions .btn-ghost",
           "source": "Why We Reject Commuting",
-          "target": ""
+          "target": "हम आवागमन क्यों अस्वीकार करते हैं"
         },
         {
           "selector": ".wfh-panel",
           "attribute": "aria-label",
           "source": "Oath summary",
-          "target": ""
+          "target": "प्रतिज्ञा का सारांश"
         },
         {
           "selector": ".wfh-panel-label",
           "source": "The only required oath",
-          "target": ""
+          "target": "एकमात्र अनिवार्य प्रतिज्ञा"
         },
         {
           "selector": ".wfh-panel blockquote",
           "source": "“I pledge my unwavering commitment to never accept employment requiring even one\n              mandatory in-office day per week, unequivocally rejecting hybrid or full-time\n              on-site work.”",
-          "target": ""
+          "target": "“मैं अपनी अटूट प्रतिबद्धता का वचन देता हूँ कि मैं कभी भी ऐसा रोज़गार स्वीकार नहीं करूँगा जिसमें प्रति सप्ताह एक भी अनिवार्य कार्यालय दिवस की आवश्यकता हो, और हाइब्रिड या पूर्णकालिक ऑन-साइट कार्य को स्पष्ट रूप से अस्वीकार करता हूँ।”"
         },
         {
           "selector": ".wfh-panel-meta",
           "source": "— Oath to Work Locally or Remotely",
-          "target": ""
+          "target": "— स्थानीय या दूरस्थ रूप से कार्य करने की प्रतिज्ञा"
         },
         {
           "selector": ".wfh-resources",
           "attribute": "aria-label",
           "source": "Work from home doctrine and resources",
-          "target": ""
+          "target": "घर से कार्य का मत और संसाधन"
         },
         {
           "selector": ".wfh-resources .card:nth-child(1) .card-kicker",
           "source": "Required · Membership",
-          "target": ""
+          "target": "अनिवार्य · सदस्यता"
         },
         {
           "selector": ".wfh-resources .card:nth-child(1) h3",
           "source": "Oath to Work Locally or Remotely",
-          "target": ""
+          "target": "स्थानीय या दूरस्थ रूप से कार्य करने की प्रतिज्ञा"
         },
         {
           "selector": ".wfh-resources .card:nth-child(1) p",
           "source": "The only oath required for full membership. Affirm 100% remote or walkable work —\n              never hybrid, never forced office days.",
-          "target": ""
+          "target": "पूर्ण सदस्यता के लिए आवश्यक एकमात्र प्रतिज्ञा। 100% दूरस्थ या पैदल-पहुँच वाले कार्य की पुष्टि करें — न कभी हाइब्रिड, न कभी जबरन कार्यालय दिवस।"
         },
         {
           "selector": ".wfh-resources .card:nth-child(1) .text-link",
           "source": "Read the Oath",
-          "target": ""
+          "target": "प्रतिज्ञा पढ़ें"
         },
         {
           "selector": ".wfh-resources .card:nth-child(2) .card-kicker",
           "source": "Core doctrine",
-          "target": ""
+          "target": "मूल मत"
         },
         {
           "selector": ".wfh-resources .card:nth-child(2) h3",
           "source": "The Case Against Mandatory Commuting",
-          "target": ""
+          "target": "अनिवार्य आवागमन के विरुद्ध तर्क"
         },
         {
           "selector": ".wfh-resources .card:nth-child(2) p",
           "source": "Progressive vision for work and society: environment, human liberation, economic\n              progress, walkable cities, and social justice — why office mandates fail.",
-          "target": ""
+          "target": "कार्य और समाज के लिए एक प्रगतिशील दृष्टि: पर्यावरण, मानव-मुक्ति, आर्थिक प्रगति, पैदल-अनुकूल शहर और सामाजिक न्याय — कार्यालय की अनिवार्यताएँ क्यों विफल होती हैं।"
         },
         {
           "selector": ".wfh-resources .card:nth-child(2) .text-link",
           "source": "Read the doctrine",
-          "target": ""
+          "target": "मत पढ़ें"
         },
         {
           "selector": ".wfh-resources .card:nth-child(3) .card-kicker",
           "source": "Practice guide",
-          "target": ""
+          "target": "अभ्यास मार्गदर्शिका"
         },
         {
           "selector": ".wfh-resources .card:nth-child(3) h3",
           "source": "Reclaiming Power",
-          "target": ""
+          "target": "शक्ति की पुनःप्राप्ति"
         },
         {
           "selector": ".wfh-resources .card:nth-child(3) p",
           "source": "Individual strategies for securing remote work rights — the UNICON religious\n              accommodation model and how it has worked at dozens of large corporations.",
-          "target": ""
+          "target": "दूरस्थ कार्य अधिकारों को सुरक्षित करने की व्यक्तिगत रणनीतियाँ — UNICON का धार्मिक सुविधा मॉडल और यह कैसे दर्जनों बड़े निगमों में कारगर रहा है।"
         },
         {
           "selector": ".wfh-resources .card:nth-child(3) .text-link",
           "source": "Read the guide",
-          "target": ""
+          "target": "मार्गदर्शिका पढ़ें"
         },
         {
           "selector": ".wfh-resources .card:nth-child(4) .card-kicker",
           "source": "HR & legal",
-          "target": ""
+          "target": "HR और कानूनी"
         },
         {
           "selector": ".wfh-resources .card:nth-child(4) h3",
           "source": "WFH Guide (PDF)",
-          "target": ""
+          "target": "WFH मार्गदर्शिका (PDF)"
         },
         {
           "selector": ".wfh-resources .card:nth-child(4) p",
           "source": "Practical guide for members and employers. Pair with membership verification\n              certificates under",
-          "target": ""
+          "target": "सदस्यों और नियोक्ताओं के लिए व्यावहारिक मार्गदर्शिका। इसे सदस्यता-सत्यापन प्रमाणपत्रों के साथ जोड़ें, जो निम्न पथ के अंतर्गत उपलब्ध हैं"
         },
         {
           "selector": ".wfh-resources .card:nth-child(4) .text-link",
           "source": "Download PDF",
-          "target": ""
+          "target": "PDF डाउनलोड करें"
         },
         {
           "selector": "#join .section-label",
           "source": "Community",
-          "target": ""
+          "target": "समुदाय"
         },
         {
           "selector": "#join-title",
           "source": "You Are Welcome Here",
-          "target": ""
+          "target": "आपका यहाँ स्वागत है"
         },
         {
           "selector": "#join .lead",
           "source": "Theists, atheists, agnostics — anyone who resonates with the Core Principles.\n          We do not proselytize. If the principles ring true, the rest is optional.",
-          "target": ""
+          "target": "ईश्वरवादी, नास्तिक, अज्ञेयवादी — कोई भी जो मूल सिद्धांतों से जुड़ाव महसूस करता है। हम धर्मांतरण का प्रचार नहीं करते। यदि ये सिद्धांत आपको सत्य लगते हैं, तो बाकी सब वैकल्पिक है।"
         },
         {
           "selector": "#join .btn-primary",
           "source": "Community on Facebook",
-          "target": ""
+          "target": "Facebook पर समुदाय"
         },
         {
           "selector": "#join .btn-ghost",
           "source": "Fork on GitHub",
-          "target": ""
+          "target": "GitHub पर फ़ोर्क करें"
         },
         {
           "selector": ".footer-brand span",
           "source": "The Church of Universal Consciousness",
-          "target": ""
+          "target": "सार्वभौमिक चेतना का चर्च"
         },
         {
           "selector": ".footer-note",
           "source": "Founded March 2015 by Theodore R. Smith (HopeSeekr). Leaderless at the core —\n        the Principles are what matter. Continually follow the Truth, wherever it leads.",
-          "target": ""
+          "target": "मार्च 2015 में Theodore R. Smith (HopeSeekr) द्वारा स्थापित। मूलतः नेतृत्वहीन — सिद्धांत ही सब कुछ मायने रखते हैं। सत्य का निरंतर अनुसरण करें, चाहे वह कहीं भी ले जाए।"
         },
         {
           "selector": ".footer-copy",
           "source": "© 2012–2026 Theodore R. Smith. Licensed under CC-BY 3.0 and OSSAL 1.0 simultaneously.",
-          "target": ""
+          "target": "© 2012–2026 Theodore R. Smith. CC-BY 3.0 और OSSAL 1.0 के अंतर्गत एक साथ लाइसेंस प्राप्त।"
         }
       ]
     }
