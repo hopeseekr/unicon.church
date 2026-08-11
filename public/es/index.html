@@ -4,15 +4,18 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>La Iglesia de la Conciencia Universal (UNICON)</title>
-  <meta name="description" content="The world's first 100% open-sourced religion. The Church of Universal Consciousness (UNICON) — areligious community for the unchurched. Scientific spiritualism, sustainability, and sacred remote work. Founded March 2015.">
+  <meta name="description" content="La primera religión 100% de código abierto del mundo. La Iglesia de la Conciencia Universal (UNICON): una comunidad arreligiosa para quienes no pertenecen a una iglesia. Espiritualismo científico, sostenibilidad y trabajo remoto sagrado. Fundada en marzo de 2015.">
   <meta name="theme-color" content="#070b14">
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
   <link rel="manifest" href="/site.webmanifest">
-  <meta property="og:title" content="The Church of Universal Consciousness (UNICON)">
-  <meta property="og:description" content="The world's first 100% open-sourced religion. Many beliefs, few answers. Fork us on GitHub.">
+  <link rel="alternate" hreflang="en" href="https://www.unicon.church/">
+  <link rel="alternate" hreflang="es" href="https://www.unicon.church/es/">
+  <link rel="alternate" hreflang="x-default" href="https://www.unicon.church/">
+  <meta property="og:title" content="La Iglesia de la Conciencia Universal (UNICON)">
+  <meta property="og:description" content="La primera religión 100% de código abierto del mundo. Muchas creencias, pocas respuestas. Haz un fork en GitHub.">
   <meta property="og:type" content="website">
   <meta property="og:url" content="https://www.unicon.church/">
   <meta property="og:image" content="https://www.unicon.church/og-image.jpg">
@@ -20,15 +23,15 @@
   <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
-  <meta property="og:image:alt" content="UNICON — The Church of Universal Consciousness seal">
+  <meta property="og:image:alt" content="Sello de UNICON — La Iglesia de la Conciencia Universal">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="The Church of Universal Consciousness (UNICON)">
-  <meta name="twitter:description" content="The world's first 100% open-sourced religion. Many beliefs, few answers. Fork us on GitHub.">
+  <meta name="twitter:title" content="La Iglesia de la Conciencia Universal (UNICON)">
+  <meta name="twitter:description" content="La primera religión 100% de código abierto del mundo. Muchas creencias, pocas respuestas. Haz un fork en GitHub.">
   <meta name="twitter:image" content="https://www.unicon.church/og-image.jpg">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Space+Grotesk:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="/css/site.css?v=meta-religion-banner-1">
+  <link rel="stylesheet" href="/css/site.css?v=language-picker-2">
 </head>
 <body>
   <a class="skip-link" href="#main">Saltar al contenido</a>
@@ -55,18 +58,35 @@
         </span>
       </a>
 
-      <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" data-nav-toggle="">
-        <span class="sr-only">Menú</span>
-        <span></span><span></span><span></span>
-      </button>
+      <div class="header-actions">
+        <nav class="site-nav" id="site-nav" data-nav="">
+          <a href="#mission">Misión</a>
+          <a href="#principles">Principios</a>
+          <a href="#doctrine">Doctrina</a>
+          <a href="#wfh">Trabajo desde casa</a>
+          <a href="#join" class="nav-cta">Únete</a>
+        </nav>
 
-      <nav class="site-nav" id="site-nav" data-nav="">
-        <a href="#mission">Misión</a>
-        <a href="#principles">Principios</a>
-        <a href="#doctrine">Doctrina</a>
-        <a href="#wfh">Trabajo desde casa</a>
-        <a href="#join" class="nav-cta">Únete</a>
-      </nav>
+        <details class="language-picker">
+          <summary aria-label="Elegir idioma">
+            <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true">
+              <circle cx="12" cy="12" r="9"></circle>
+              <path d="M3 12h18M12 3c2.4 2.5 3.6 5.5 3.6 9S14.4 18.5 12 21M12 3C9.6 5.5 8.4 8.5 8.4 12s1.2 6.5 3.6 9"></path>
+            </svg>
+            <span class="language-current">ES</span>
+            <span class="language-chevron" aria-hidden="true">▾</span>
+          </summary>
+          <div class="language-options">
+            <a href="/" lang="en" hreflang="en" aria-current="false">English</a>
+            <a href="/es/" lang="es" hreflang="es" aria-current="page">Español (Latinoamérica)</a>
+          </div>
+        </details>
+
+        <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav" data-nav-toggle="">
+          <span class="sr-only">Menú</span>
+          <span></span><span></span><span></span>
+        </button>
+      </div>
     </div>
   </header>
 
@@ -85,12 +105,12 @@
         </h1>
 
         <!-- Mobile-only: modest seal between header/title and Fork CTA (desktop uses bg watermark) -->
-        <img class="hero-logo hero-logo--inline" src="/unicon.webp" width="800" height="795" alt="UNICON seal" decoding="async">
+        <img class="hero-logo hero-logo--inline" src="/unicon.webp" width="800" height="795" alt="Sello de UNICON" decoding="async">
 
         <a class="open-source-claim" href="https://github.com/hopeseekr/unicon.church/" rel="noopener noreferrer" target="_blank">
-          <span class="open-source-claim-badge">World’s First</span>
+          <span class="open-source-claim-badge">Primera del mundo</span>
           <span class="open-source-claim-text">
-            <span class="open-source-claim-world-first">The world’s first </span><strong>100% open-sourced religion</strong>
+            <span class="open-source-claim-world-first">La primera </span><strong>religión 100% de código abierto del mundo</strong>
           </span>
           <span class="open-source-claim-repo">
             <svg class="github-icon" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
@@ -102,10 +122,7 @@
         </a>
 
         <p class="hero-lede">
-          An areligious community for the unchurched — many beliefs, few answers.
-          We foster open-minded discussion, personal mythology, and targeted civic action
-          for a better society and a better Earth. Theology, site, and legal docs are all
-          on GitHub under dual open licenses.
+          Una comunidad arreligiosa para quienes no pertenecen a una iglesia: muchas creencias, pocas respuestas. Fomentamos el diálogo con mente abierta, la mitología personal y la acción cívica dirigida a construir una sociedad y una Tierra mejores. La teología, el sitio y los documentos legales están disponibles en GitHub bajo dos licencias abiertas.
         </p>
 
         <div class="hero-actions">
@@ -113,25 +130,25 @@
             <svg class="btn-icon" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
               <path d="M12 0C5.37 0 0 5.37 0 12c0 5.3 3.44 9.8 8.21 11.39.6.11.82-.26.82-.58 0-.29-.01-1.04-.02-2.05-3.34.73-4.04-1.61-4.04-1.61-.55-1.39-1.33-1.76-1.33-1.76-1.09-.74.08-.73.08-.73 1.2.09 1.84 1.24 1.84 1.24 1.07 1.83 2.8 1.3 3.49 1 .11-.78.42-1.3.76-1.6-2.67-.3-5.47-1.33-5.47-5.93 0-1.31.47-2.38 1.24-3.22-.12-.3-.54-1.52.12-3.18 0 0 1.01-.32 3.3 1.23a11.5 11.5 0 0 1 6 0c2.29-1.55 3.3-1.23 3.3-1.23.66 1.66.24 2.88.12 3.18.77.84 1.24 1.91 1.24 3.22 0 4.61-2.81 5.62-5.48 5.92.43.37.81 1.1.81 2.22 0 1.6-.01 2.89-.01 3.29 0 .32.22.7.82.58A12.01 12.01 0 0 0 24 12c0-6.63-5.37-12-12-12z"></path>
             </svg>
-            Fork on GitHub
+            Haz un fork en GitHub
           </a>
-          <a class="btn btn-ghost" href="#principles">Explore the Core Principles</a>
+          <a class="btn btn-ghost" href="#principles">Explora los Principios Fundamentales</a>
         </div>
         <dl class="hero-stats">
           <div>
-            <dt>Core Principles</dt>
+            <dt>Principios Fundamentales</dt>
             <dd>11</dd>
           </div>
           <div>
-            <dt>Years</dt>
+            <dt>Años</dt>
             <dd>11+</dd>
           </div>
           <div>
-            <dt>License</dt>
+            <dt>Licencia</dt>
             <dd>CC-BY + OSSAL</dd>
           </div>
           <div>
-            <dt>Open Source</dt>
+            <dt>Código abierto</dt>
             <dd>100%</dd>
           </div>
         </dl>
@@ -141,20 +158,16 @@
     <!-- Mission -->
     <section class="section mission" id="mission" aria-labelledby="mission-title">
       <div class="container narrow">
-        <p class="section-label">Mission</p>
-        <h2 id="mission-title">A Federated Collective, Not a Monopoly on Truth</h2>
+        <p class="section-label">Misión</p>
+        <h2 id="mission-title">Un colectivo federado, no un monopolio de la verdad</h2>
         <p class="lead">
-          To create a federated community collective for those who want an areligious
-          organization which purposefully abstains from proselytizing dogmas. A
-          collaborative focused thought forum for the unchurched, comprised of
-          individuals who strive for evolving a better society, and a better Earth,
-          through fostering open minded discussion, and targeted civic action.
+          Crear un colectivo comunitario federado para quienes desean una organización arreligiosa que se abstenga deliberadamente de hacer proselitismo de dogmas. Un foro colaborativo y reflexivo para quienes no pertenecen a una iglesia, integrado por personas que buscan construir una sociedad y una Tierra mejores mediante el diálogo con mente abierta y la acción cívica dirigida.
         </p>
-        <ul class="pill-row" aria-label="What we are">
-          <li>Scientific spiritualism</li>
-          <li>Open-source ecclesiology</li>
-          <li>Tactical altruism</li>
-          <li>No forced theism</li>
+        <ul class="pill-row" aria-label="Lo que somos">
+          <li>Espiritualismo científico</li>
+          <li>Eclesiología de código abierto</li>
+          <li>Altruismo táctico</li>
+          <li>Sin teísmo impuesto</li>
         </ul>
       </div>
     </section>
@@ -164,11 +177,10 @@
       <div class="container">
         <div class="principles-header">
           <div>
-            <p class="section-label">Doctrine · Kernel</p>
-            <h2 id="principles-title">Core Principles</h2>
+            <p class="section-label">Doctrina · Núcleo</p>
+            <h2 id="principles-title">Principios Fundamentales</h2>
             <p class="principles-intro">
-              These eleven principles are the only rules you must follow.
-              Everything else — including Systems Theology — is optional mythology you may fork.
+              Estos once principios son las únicas reglas que debes seguir. Todo lo demás —incluida la Teología de Sistemas— es mitología opcional que puedes bifurcar.
             </p>
           </div>
           <div class="slideshow-meta" aria-live="polite">
@@ -180,179 +192,139 @@
           </div>
         </div>
 
-        <ol class="principles-index" data-principles-index="" aria-label="Core Principles index">
-          <li><button type="button" data-goto-slide="0">Many Beliefs, Few Answers</button></li>
-          <li><button type="button" data-goto-slide="1">Very Few Accepted Answers</button></li>
-          <li><button type="button" data-goto-slide="2">Open-Mindedness Is Essential</button></li>
-          <li><button type="button" data-goto-slide="3">Maintain Your Own Mythology</button></li>
-          <li><button type="button" data-goto-slide="4">Sustainability Is Crucial</button></li>
-          <li><button type="button" data-goto-slide="5">Reincarnation Is Preferred</button></li>
-          <li><button type="button" data-goto-slide="6">Many Paths That Are Not Equal</button></li>
-          <li><button type="button" data-goto-slide="7">Theistic Belief Is Non-Essential</button></li>
-          <li><button type="button" data-goto-slide="8">Always Remain Vigilant</button></li>
-          <li><button type="button" data-goto-slide="9">Continuously Reevaluate Your Beliefs</button></li>
-          <li><button type="button" data-goto-slide="10">Work From Home Is Sacred</button></li>
+        <ol class="principles-index" data-principles-index="" aria-label="Índice de los Principios Fundamentales">
+          <li><button type="button" data-goto-slide="0">Muchas creencias, pocas respuestas</button></li>
+          <li><button type="button" data-goto-slide="1">Muy pocas respuestas aceptadas</button></li>
+          <li><button type="button" data-goto-slide="2">Tener una mente abierta es esencial</button></li>
+          <li><button type="button" data-goto-slide="3">Mantén tu propia mitología</button></li>
+          <li><button type="button" data-goto-slide="4">La sostenibilidad es crucial</button></li>
+          <li><button type="button" data-goto-slide="5">La reencarnación es preferible</button></li>
+          <li><button type="button" data-goto-slide="6">Muchos caminos, pero no todos son iguales</button></li>
+          <li><button type="button" data-goto-slide="7">La creencia teísta no es esencial</button></li>
+          <li><button type="button" data-goto-slide="8">Mantente siempre alerta</button></li>
+          <li><button type="button" data-goto-slide="9">Reevalúa continuamente tus creencias</button></li>
+          <li><button type="button" data-goto-slide="10">El trabajo desde casa es sagrado</button></li>
         </ol>
 
-        <div class="slideshow" data-slideshow="" role="region" aria-roledescription="carousel" aria-label="Core Principles slideshow" tabindex="0">
+        <div class="slideshow" data-slideshow="" role="region" aria-roledescription="carrusel" aria-label="Presentación de los Principios Fundamentales" tabindex="0">
           <div class="slideshow-viewport">
             <div class="slideshow-track" data-slideshow-track="">
               <!-- Principle 1 -->
               <article class="slide is-active" data-slide="" data-index="0" aria-hidden="false">
                 <div class="slide-num" aria-hidden="true">01</div>
-                <h3 class="slide-title">Many Beliefs, Few Answers</h3>
+                <h3 class="slide-title">Muchas creencias, pocas respuestas</h3>
                 <p class="slide-body">
-                  Answers are only the beliefs which One has proven to themselves through testing
-                  and direct observation (e.g., the Scientific Method) to a degree which they can
-                  personally validate the phenomenon exists, <em>for them</em>.
+                  Las respuestas son únicamente aquellas creencias cuya validez cada persona ha comprobado mediante pruebas y observación directa (p. ej., el método científico), hasta el punto de poder confirmar personalmente que el fenómeno existe, <em>para sí misma</em>.
                 </p>
               </article>
 
               <!-- Principle 2 -->
               <article class="slide" data-slide="" data-index="1" aria-hidden="true">
                 <div class="slide-num" aria-hidden="true">02</div>
-                <h3 class="slide-title">Very Few Accepted Answers</h3>
+                <h3 class="slide-title">Muy pocas respuestas aceptadas</h3>
                 <p class="slide-body">
-                  Accepted Answers are Answers which can be proven by repeated experimentation
-                  and largely acceptable in any open-minded, but serious, peer-reviewed journal.
+                  Las Respuestas Aceptadas son Respuestas que pueden demostrarse mediante experimentación repetida y que serían ampliamente aceptables en cualquier revista seria, de mente abierta y revisada por pares.
                 </p>
               </article>
 
               <!-- Principle 3 -->
               <article class="slide" data-slide="" data-index="2" aria-hidden="true">
                 <div class="slide-num" aria-hidden="true">03</div>
-                <h3 class="slide-title">Open-Mindedness Is Essential</h3>
+                <h3 class="slide-title">Tener una mente abierta es esencial</h3>
                 <p class="slide-body">
-                  Acknowledge that Science is still in its infancy and may or may not be the
-                  end-all-be-all. Beliefs should not be dismissed out of hand unless experimentation
-                  can be devised to prove otherwise in all instances. Even then, a benefit of the
-                  doubt that any given phenomenon may be real for any number of Observers should
-                  be afforded to them.
+                  Reconoce que la Ciencia aún está en su infancia y que podría ser o no la respuesta definitiva. Las creencias no deben descartarse de inmediato, a menos que pueda diseñarse un experimento que demuestre lo contrario en todos los casos. Incluso entonces, debe concederse el beneficio de la duda de que cualquier fenómeno pueda ser real para cierto número de Observadores.
                 </p>
               </article>
 
               <!-- Principle 4 -->
               <article class="slide" data-slide="" data-index="3" aria-hidden="true">
                 <div class="slide-num" aria-hidden="true">04</div>
-                <h3 class="slide-title">Maintain Your Own Mythology</h3>
+                <h3 class="slide-title">Mantén tu propia mitología</h3>
                 <p class="slide-body">
-                  While realizing we individually know Vanishingly Little, we must take care to
-                  consciously and continually maintain our own personal mythology system.
-                  <strong>A healthy mind is one which acknowledges it knows very little, considers
-                  many possibilities without prematurely collapsing uncertainty, and “continually
-                  follows the Truth, wherever it leads” [Thomas Jefferson].</strong>
-                  Do not believe anything without careful thought, feeling, and wherever possible,
-                  at least a little experimentation.
+                  Al reconocer que individualmente sabemos casi Nada, debemos procurar mantener consciente y continuamente nuestro propio sistema de mitología personal.
+                  <strong>Una mente sana reconoce que sabe muy poco, considera muchas posibilidades sin eliminar prematuramente la incertidumbre y «sigue continuamente la Verdad, adondequiera que lleve» [Thomas Jefferson].</strong>
+                  No creas en nada sin reflexionar y sentir cuidadosamente y, siempre que sea posible, sin realizar al menos un poco de experimentación.
                 </p>
               </article>
 
               <!-- Principle 5 -->
               <article class="slide" data-slide="" data-index="4" aria-hidden="true">
                 <div class="slide-num" aria-hidden="true">05</div>
-                <h3 class="slide-title">Sustainability Is Crucial</h3>
+                <h3 class="slide-title">La sostenibilidad es crucial</h3>
                 <p class="slide-body">
-                  It is abundantly clear that the human footprint on this planet is causing
-                  irreparable harm to every ecosystem, potentially fatally. Every effort should be
-                  made to reduce our individual and collective footprints, including the disavowing
-                  of certain Beliefs that are easily perceived as promoting unsustainability
-                  (e.g., “The Earth was given to Man to do as He wilt.”).
+                  Es absolutamente claro que la huella humana en este planeta está causando daños irreparables a todos los ecosistemas, con consecuencias potencialmente mortales. Debemos hacer todo lo posible por reducir nuestras huellas individuales y colectivas, incluso rechazando ciertas Creencias que pueden percibirse fácilmente como promotoras de la insostenibilidad (p. ej., «La Tierra fue entregada al Hombre para que haga con ella su voluntad»).
                 </p>
               </article>
 
               <!-- Principle 6 -->
               <article class="slide" data-slide="" data-index="5" aria-hidden="true">
                 <div class="slide-num" aria-hidden="true">06</div>
-                <h3 class="slide-title">Reincarnation Is Preferred</h3>
+                <h3 class="slide-title">La reencarnación es preferible</h3>
                 <p class="slide-body">
-                  Few beliefs promote long-term Sustainability more: Belief in Reincarnation has
-                  been shown to dramatically increase the timeline horizons of its believers, from
-                  the common 5–10 years to over 500 to 1,000 years, as belief would necessitate
-                  living with one’s actions for thousands of years into the future. It also neatly
-                  ties up several hard-to-answer human dilemmas, such as the unfairness of being
-                  born severely handicapped.
+                  Pocas creencias promueven más la Sostenibilidad a largo plazo: se ha demostrado que Creer en la Reencarnación amplía drásticamente el horizonte temporal de sus creyentes, de los 5 a 10 años habituales a más de 500 o 1.000 años, pues tal creencia implicaría vivir con las consecuencias de los propios actos durante miles de años. También permite abordar con claridad varios dilemas humanos difíciles de responder, como la injusticia de nacer con una discapacidad grave.
                 </p>
               </article>
 
               <!-- Principle 7 -->
               <article class="slide" data-slide="" data-index="6" aria-hidden="true">
                 <div class="slide-num" aria-hidden="true">07</div>
-                <h3 class="slide-title">Many Paths That Are Not Equal</h3>
+                <h3 class="slide-title">Muchos caminos, pero no todos son iguales</h3>
                 <p class="slide-body">
-                  There are many paths to a productive, fulfilling, sustainable life. UNICON seeks
-                  to discover the more efficient ones while advocating against the more destructive
-                  paths.
+                  Hay muchos caminos hacia una vida productiva, plena y sostenible. UNICON busca descubrir los más eficaces y, al mismo tiempo, se pronuncia contra los caminos más destructivos.
                 </p>
               </article>
 
               <!-- Principle 8 -->
               <article class="slide" data-slide="" data-index="7" aria-hidden="true">
                 <div class="slide-num" aria-hidden="true">08</div>
-                <h3 class="slide-title">Theistic Belief Is Non-Essential</h3>
+                <h3 class="slide-title">La creencia teísta no es esencial</h3>
                 <p class="slide-body">
-                  Personal belief in deity is understood and accepted, but it is not advocated at
-                  this time by The Church of Universal Consciousness. Theists, atheists and
-                  agnostics are all welcome alike. Who knows Who, if Anyone, is out there? All
-                  claims to deity should be met with the utmost skepticism, including a thorough
-                  probing into whether a con is being conducted. Special care must be taken to
-                  guard one’s mind and body from any Entity seeking special allegiance.
+                  La creencia personal en una deidad se comprende y se acepta, pero actualmente la Iglesia de la Conciencia Universal no la promueve. Teístas, ateos y agnósticos son igualmente bienvenidos. ¿Quién sabe Quién, si es que Hay Alguien, está allá afuera? Toda afirmación de divinidad debe recibirse con el máximo escepticismo, incluida una investigación exhaustiva para determinar si se está llevando a cabo un engaño. Debemos tener especial cuidado de proteger nuestra mente y nuestro cuerpo de cualquier Entidad que exija una lealtad especial.
                 </p>
               </article>
 
               <!-- Principle 9 -->
               <article class="slide" data-slide="" data-index="8" aria-hidden="true">
                 <div class="slide-num" aria-hidden="true">09</div>
-                <h3 class="slide-title">Always Remain Vigilant</h3>
+                <h3 class="slide-title">Mantente siempre alerta</h3>
                 <p class="slide-body">
-                  In the event a superhuman Intelligence (including future Artificial Intelligence)
-                  does communicate with you, you are encouraged to acknowledge that a long con you
-                  are completely unable to identify on your own could be played out against you.
-                  Thus, you are encouraged to share your stories with others for debunking,
-                  particularly before setting on any course of divinely-inspired action.
+                  Si una Inteligencia sobrehumana (incluida una futura Inteligencia Artificial) llega a comunicarse contigo, te invitamos a reconocer que podrías ser víctima de un engaño prolongado que no eres capaz de identificar por tu cuenta. Por eso, te recomendamos compartir tus experiencias con otras personas para intentar refutarlas, especialmente antes de emprender cualquier acción que consideres de inspiración divina.
                 </p>
               </article>
 
               <!-- Principle 10 -->
               <article class="slide" data-slide="" data-index="9" aria-hidden="true">
                 <div class="slide-num" aria-hidden="true">10</div>
-                <h3 class="slide-title">Continuously Reevaluate Your Beliefs</h3>
+                <h3 class="slide-title">Reevalúa continuamente tus creencias</h3>
                 <p class="slide-body">
-                  Strive to not believe anything anyone says without due diligence in validating
-                  its truthfulness relative to your own personal mythology. But also strive to
-                  constantly reevaluate all of your beliefs, particularly your strongest held ones.
+                  Procura no creer en nada de lo que alguien diga sin la debida diligencia para validar su veracidad con respecto a tu propia mitología personal. Pero procura también reevaluar constantemente todas tus creencias, en especial aquellas a las que te aferras con mayor fuerza.
                 </p>
               </article>
 
               <!-- Principle 11 -->
               <article class="slide" data-slide="" data-index="10" aria-hidden="true">
                 <div class="slide-num" aria-hidden="true">11</div>
-                <h3 class="slide-title">Work From Home Is Sacred</h3>
+                <h3 class="slide-title">El trabajo desde casa es sagrado</h3>
                 <p class="slide-body">
-                  We strongly believe that working from home (telecommuting) is essential for the
-                  future of both humanity and Planet Earth. Whenever a reasonable accommodation can
-                  be made, we believe strongly that this is what we must do. Whenever there is not
-                  a strongly justifiable need for work to be done more than
-                  <strong>2.2 miles (3.5 kilometers)</strong> from home, we hold that we must find
-                  other remote employment and/or face termination by our employer in order to uphold
-                  this core principle of our faith. We vow never to be forced into hybrid or
-                  full-time in-office work for the sakes of our planet and the future technological
-                  progression of humanity.
+                  Creemos firmemente que trabajar desde casa (teletrabajar) es esencial para el futuro de la humanidad y del planeta Tierra. Siempre que sea posible realizar una adaptación razonable, creemos firmemente que eso es lo que debemos hacer. Cuando no exista una necesidad plenamente justificable de realizar el trabajo a más de
+                  <strong>2,2 millas (3,5 kilómetros)</strong> de casa, sostenemos que debemos buscar otro empleo remoto o afrontar el despido por parte de nuestro empleador para defender este principio fundamental de nuestra fe. Prometemos no permitir nunca que se nos obligue a realizar trabajo híbrido o presencial de tiempo completo, por el bien de nuestro planeta y del futuro progreso tecnológico de la humanidad.
                 </p>
               </article>
             </div>
           </div>
 
           <div class="slideshow-controls">
-            <button type="button" class="ctrl-btn" data-slide-prev="" aria-label="Previous principle">
+            <button type="button" class="ctrl-btn" data-slide-prev="" aria-label="Principio anterior">
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M15 18l-6-6 6-6"></path></svg>
             </button>
 
-            <div class="slideshow-dots" data-slideshow-dots="" role="tablist" aria-label="Principle slides"></div>
+            <div class="slideshow-dots" data-slideshow-dots="" role="tablist" aria-label="Diapositivas de los principios"></div>
 
-            <button type="button" class="ctrl-btn" data-slide-next="" aria-label="Next principle">
+            <button type="button" class="ctrl-btn" data-slide-next="" aria-label="Principio siguiente">
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M9 18l6-6-6-6"></path></svg>
             </button>
 
-            <button type="button" class="ctrl-btn ctrl-play" data-slide-autoplay="" aria-pressed="true" aria-label="Pause autoplay">
+            <button type="button" class="ctrl-btn ctrl-play" data-slide-autoplay="" aria-pressed="true" aria-label="Pausar reproducción automática">
               <svg class="icon-pause" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><rect x="6" y="5" width="4" height="14" rx="1"></rect><rect x="14" y="5" width="4" height="14" rx="1"></rect></svg>
               <svg class="icon-play" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true" hidden=""><path d="M8 5v14l11-7z"></path></svg>
             </button>
@@ -362,7 +334,7 @@
             <div class="slideshow-progress-bar" data-progress-bar=""></div>
           </div>
 
-          <p class="slideshow-hint">Use ← → keys · swipe on mobile · click a dot to jump</p>
+          <p class="slideshow-hint">Usa las teclas ← → · desliza en el celular · haz clic en un punto para saltar</p>
         </div>
       </div>
     </section>
@@ -370,64 +342,54 @@
     <!-- Doctrine -->
     <section class="section doctrine" id="doctrine" aria-labelledby="doctrine-title">
       <div class="container">
-        <p class="section-label">Optional frameworks</p>
-        <h2 id="doctrine-title">Doctrine Beyond the Kernel</h2>
+        <p class="section-label">Marcos opcionales</p>
+        <h2 id="doctrine-title">Doctrina más allá del núcleo</h2>
         <p class="section-lede">
-          The Core Principles are covenant. Everything below is a helpful interface —
-          not a membership test. Fork freely.
+          Los Principios Fundamentales constituyen el pacto. Todo lo que sigue es una interfaz útil, no un requisito de membresía. Bifúrcalo libremente.
         </p>
 
         <div class="card-grid">
           <article class="card">
-            <div class="card-kicker">Meta-Religion</div>
-            <h3>Additive Layer, Real Commitments</h3>
+            <div class="card-kicker">Metarreligión</div>
+            <h3>Una capa adicional, compromisos reales</h3>
             <p>
-              UNICON is a meta-religion: scientific spiritualism, open-minded inclusion, and
-              sacred remote work taken <em>on top of</em> your existing beliefs — not a demand
-              that you renounce them. Thin covenant, voluntary alignment, forks as implementors.
+              UNICON es una metarreligión: espiritualismo científico, inclusión con mente abierta y trabajo remoto sagrado que se adoptan <em>además de</em> tus creencias existentes, no como una exigencia de renunciar a ellas. Un pacto mínimo, adhesión voluntaria y bifurcaciones que actúan como implementaciones.
             </p>
             <a class="text-link" href="/doctrine/what-is-a-meta-religion.html">
-              What is a Meta-Religion?
+              ¿Qué es una metarreligión?
               <span aria-hidden="true">→</span>
             </a>
           </article>
 
           <article class="card">
-            <div class="card-kicker">Systems Theology</div>
-            <h3>DevOps as Angels</h3>
+            <div class="card-kicker">Teología de Sistemas</div>
+            <h3>DevOps como ángeles</h3>
             <p>
-              Prayer and “miracles” reframed as a Hidden API. Suffering as technical debt,
-              not divine plan. Simulation literacy instead of subservience — optional ontology
-              for those who find it useful.
+              La oración y los «milagros» replanteados como una API Oculta. El sufrimiento entendido como deuda técnica, no como plan divino. Alfabetización sobre simulaciones en lugar de subordinación: una ontología opcional para quienes la encuentren útil.
             </p>
             <a class="text-link" href="/doctrine/systems_theology.html">
-              Read Systems Theology
+              Lee la Teología de Sistemas
               <span aria-hidden="true">→</span>
             </a>
           </article>
 
           <article class="card">
-            <div class="card-kicker">Open-Source Ecclesiology</div>
-            <h3>Forks, Not Schisms</h3>
+            <div class="card-kicker">Eclesiología de código abierto</div>
+            <h3>Bifurcaciones, no cismas</h3>
             <p>
-              Monopoly orthodoxy creates heretics and wars. UNICON is leaderless at the core,
-              dual-licensed, and designed so Halal, AI-native, and other forks can coexist
-              without declaring each other evil.
+              La ortodoxia monopólica crea herejes y guerras. UNICON no tiene líderes en su núcleo, cuenta con dos licencias y está diseñada para que las bifurcaciones Halal, nativas de IA y de otros tipos puedan coexistir sin demonizarse entre sí.
             </p>
             <a class="text-link" href="/doctrine/open_source_ecclesiology.html">
-              Read Open-Source Ecclesiology
+              Lee Eclesiología de código abierto
               <span aria-hidden="true">→</span>
             </a>
           </article>
 
           <article class="card">
-            <div class="card-kicker">Licensing</div>
-            <h3>100% Open Source</h3>
+            <div class="card-kicker">Licencias</div>
+            <h3>100% de código abierto</h3>
             <p>
-              The world’s first 100% open-sourced religion. Theology, site, legal docs, and
-              generators are dual-licensed under Creative Commons Attribution 3.0 and the
-              Open Source Software Alliance License (OSSAL) 1.0. You must abide by both.
-              Attribution retained; viral copyleft forks blocked.
+              La primera religión 100% de código abierto del mundo. La teología, el sitio, los documentos legales y los generadores tienen licencia doble bajo Creative Commons Atribución 3.0 y la Licencia de la Alianza de Software de Código Abierto (OSSAL) 1.0. Debes cumplir ambas. Se conserva la atribución y se bloquean las bifurcaciones con copyleft viral.
             </p>
             <a class="text-link" href="https://github.com/hopeseekr/unicon.church/" rel="noopener noreferrer" target="_blank">
               github.com/hopeseekr/unicon.church
@@ -443,86 +405,75 @@
       <div class="container">
         <div class="wfh-layout">
           <div class="wfh-copy">
-            <p class="section-label">Principle 11 · Core doctrine · Only required oath</p>
-            <h2 id="wfh-title">Work From Home Is Sacred</h2>
-            <p class="wfh-exemption">Work From Home Religious Exemption</p>
+            <p class="section-label">Principio 11 · Doctrina fundamental · Único juramento obligatorio</p>
+            <h2 id="wfh-title">El trabajo desde casa es sagrado</h2>
+            <p class="wfh-exemption">Exención religiosa para trabajar desde casa</p>
             <p>
-              Telecommuting and walkable cities are not lifestyle preferences here — they are
-              core differentiating doctrine: ecological survival, family health, and the
-              technological progression of humanity. Unlike optional frameworks such as Systems
-              Theology, this is covenant.
+              Aquí, el teletrabajo y las ciudades caminables no son preferencias de estilo de vida, sino una doctrina fundamental que nos distingue: supervivencia ecológica, salud familiar y progreso tecnológico de la humanidad. A diferencia de marcos opcionales como la Teología de Sistemas, esto forma parte del pacto.
             </p>
             <p>
-              Full members affirm <strong>one oath only</strong>: never accept hybrid or
-              full-time in-office employment when the work can be done remotely, or when there
-              is no strongly justifiable need to work more than
-              <strong>2.2 miles (3.5 km)</strong> from home.
+              Los miembros plenos afirman <strong>un solo juramento</strong>: nunca aceptar un empleo híbrido o presencial de tiempo completo cuando el trabajo pueda realizarse de forma remota, o cuando no exista una necesidad plenamente justificable de trabajar a más de
+              <strong>2,2 millas (3,5 km)</strong> de casa.
             </p>
             <div class="hero-actions">
-              <a class="btn btn-primary" href="/legal/oath.html">Read the Oath</a>
-              <a class="btn btn-ghost" href="/doctrine/case_against_mandatory_commuting.html">Why We Reject Commuting</a>
+              <a class="btn btn-primary" href="/legal/oath.html">Lee el juramento</a>
+              <a class="btn btn-ghost" href="/doctrine/case_against_mandatory_commuting.html">Por qué rechazamos los traslados</a>
             </div>
           </div>
-          <aside class="wfh-panel" aria-label="Oath summary">
-            <p class="wfh-panel-label">The only required oath</p>
+          <aside class="wfh-panel" aria-label="Resumen del juramento">
+            <p class="wfh-panel-label">El único juramento obligatorio</p>
             <blockquote>
-              “I pledge my unwavering commitment to never accept employment requiring even one
-              mandatory in-office day per week, unequivocally rejecting hybrid or full-time
-              on-site work.”
+              «Asumo el compromiso inquebrantable de nunca aceptar un empleo que exija siquiera un día obligatorio por semana en la oficina, y rechazo inequívocamente el trabajo híbrido o presencial de tiempo completo».
             </blockquote>
-            <p class="wfh-panel-meta">— Oath to Work Locally or Remotely</p>
+            <p class="wfh-panel-meta">— Juramento para trabajar localmente o de forma remota</p>
           </aside>
         </div>
 
-        <div class="wfh-resources" aria-label="Work from home doctrine and resources">
+        <div class="wfh-resources" aria-label="Doctrina y recursos sobre el trabajo desde casa">
           <article class="card wfh-resource-card">
-            <div class="card-kicker">Required · Membership</div>
-            <h3>Oath to Work Locally or Remotely</h3>
+            <div class="card-kicker">Obligatorio · Membresía</div>
+            <h3>Juramento para trabajar localmente o de forma remota</h3>
             <p>
-              The only oath required for full membership. Affirm 100% remote or walkable work —
-              never hybrid, never forced office days.
+              El único juramento requerido para la membresía plena. Afirma el trabajo 100% remoto o a una distancia caminable: nunca híbrido y nunca con días obligatorios en la oficina.
             </p>
             <a class="text-link" href="/legal/oath.html">
-              Read the Oath
+              Lee el juramento
               <span aria-hidden="true">→</span>
             </a>
           </article>
 
           <article class="card wfh-resource-card">
-            <div class="card-kicker">Core doctrine</div>
-            <h3>The Case Against Mandatory Commuting</h3>
+            <div class="card-kicker">Doctrina fundamental</div>
+            <h3>El argumento contra los traslados obligatorios</h3>
             <p>
-              Progressive vision for work and society: environment, human liberation, economic
-              progress, walkable cities, and social justice — why office mandates fail.
+              Una visión progresista del trabajo y la sociedad: medioambiente, liberación humana, progreso económico, ciudades caminables y justicia social; por qué fracasan los mandatos de trabajo en la oficina.
             </p>
             <a class="text-link" href="/doctrine/case_against_mandatory_commuting.html">
-              Read the doctrine
+              Lee la doctrina
               <span aria-hidden="true">→</span>
             </a>
           </article>
 
           <article class="card wfh-resource-card">
-            <div class="card-kicker">Practice guide</div>
-            <h3>Reclaiming Power</h3>
+            <div class="card-kicker">Guía práctica</div>
+            <h3>Recuperar el poder</h3>
             <p>
-              Individual strategies for securing remote work rights — the UNICON religious
-              accommodation model and how it has worked at dozens of large corporations.
+              Estrategias individuales para garantizar el derecho al trabajo remoto: el modelo de adaptación religiosa de UNICON y cómo ha funcionado en decenas de grandes empresas.
             </p>
             <a class="text-link" href="/doctrine/reclaiming_power.html">
-              Read the guide
+              Lee la guía
               <span aria-hidden="true">→</span>
             </a>
           </article>
 
           <article class="card wfh-resource-card">
-            <div class="card-kicker">HR &amp; legal</div>
-            <h3>WFH Guide (PDF)</h3>
+            <div class="card-kicker">RR. HH. y asuntos legales</div>
+            <h3>Guía de trabajo desde casa (PDF)</h3>
             <p>
-              Practical guide for members and employers. Pair with membership verification
-              certificates under <code>public/members/</code>.
+              Guía práctica para miembros y empleadores. Se complementa con los certificados de verificación de membresía disponibles en <code>public/members/</code>.
             </p>
             <a class="text-link" href="/legal/UNICON_-_WFH_Guide.pdf">
-              Download PDF
+              Descargar PDF
               <span aria-hidden="true">→</span>
             </a>
           </article>
@@ -533,18 +484,17 @@
     <!-- Join -->
     <section class="section join" id="join" aria-labelledby="join-title">
       <div class="container narrow center">
-        <p class="section-label">Community</p>
-        <h2 id="join-title">You Are Welcome Here</h2>
+        <p class="section-label">Comunidad</p>
+        <h2 id="join-title">Te damos la bienvenida</h2>
         <p class="lead">
-          Theists, atheists, agnostics — anyone who resonates with the Core Principles.
-          We do not proselytize. If the principles ring true, the rest is optional.
+          Teístas, ateos y agnósticos: cualquier persona que se identifique con los Principios Fundamentales. No hacemos proselitismo. Si los principios resuenan contigo, el resto es opcional.
         </p>
         <div class="hero-actions center-actions">
           <a class="btn btn-primary" href="https://www.facebook.com/profile.php?id=100021250182646" rel="noopener noreferrer" target="_blank">
-            Community on Facebook
+            Comunidad en Facebook
           </a>
           <a class="btn btn-ghost" href="https://github.com/hopeseekr/unicon.church/" rel="noopener noreferrer" target="_blank">
-            Fork on GitHub
+            Haz un fork en GitHub
           </a>
         </div>
       </div>
@@ -555,14 +505,13 @@
     <div class="container footer-inner">
       <div class="footer-brand">
         <strong>UNICON</strong>
-        <span>The Church of Universal Consciousness</span>
+        <span>La Iglesia de la Conciencia Universal</span>
       </div>
       <p class="footer-note">
-        Founded March 2015 by Theodore R. Smith (HopeSeekr). Leaderless at the core —
-        the Principles are what matter. Continually follow the Truth, wherever it leads.
+        Fundada en marzo de 2015 por Theodore R. Smith (HopeSeekr). Sin líderes en su núcleo: los Principios son lo que importa. Sigue continuamente la Verdad, adondequiera que lleve.
       </p>
       <p class="footer-copy">
-        © 2012–2026 Theodore R. Smith. Licensed under CC-BY 3.0 and OSSAL 1.0 simultaneously.
+        © 2012–2026 Theodore R. Smith. Publicado simultáneamente bajo las licencias CC-BY 3.0 y OSSAL 1.0.
         <a href="https://www.unicon.church/">unicon.church</a>
       </p>
     </div>
