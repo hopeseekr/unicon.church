@@ -95,6 +95,8 @@ sakes of our planet and the future technological progression of humanity.
 The Core Principles are covenant. Everything else is optional mythology you may
 fork:
 
+- [What Is a Meta-Religion?](doctrine/what_is_a_meta_religion.md)
+  ([HTML](public/doctrine/what-is-a-meta-religion.html)) — additive layer; UNICON’s structure
 - [Systems Theology](doctrine/systems_theology.md) — DevOps as Angels / Hidden API
 - [Open-Source Ecclesiology](doctrine/open_source_ecclesiology.md) — forks, not schisms
 
