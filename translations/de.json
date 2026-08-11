@@ -1,0 +1,793 @@
+{
+  "locale": "de",
+  "direction": "ltr",
+  "pages": [
+    {
+      "source": "public/index.html",
+      "output": "public/de/index.html",
+      "replacements": [
+        {
+          "selector": "title",
+          "source": "The Church of Universal Consciousness (UNICON)",
+          "target": ""
+        },
+        {
+          "selector": "meta[name='description']",
+          "attribute": "content",
+          "source": "The world's first 100% open-sourced religion. The Church of Universal Consciousness (UNICON) — areligious community for the unchurched. Scientific spiritualism, sustainability, and sacred remote work. Founded March 2015.",
+          "target": ""
+        },
+        {
+          "selector": "meta[property='og:title']",
+          "attribute": "content",
+          "source": "The Church of Universal Consciousness (UNICON)",
+          "target": ""
+        },
+        {
+          "selector": "meta[property='og:description']",
+          "attribute": "content",
+          "source": "The world's first 100% open-sourced religion. Many beliefs, few answers. Fork us on GitHub.",
+          "target": ""
+        },
+        {
+          "selector": "meta[property='og:image:alt']",
+          "attribute": "content",
+          "source": "UNICON — The Church of Universal Consciousness seal",
+          "target": ""
+        },
+        {
+          "selector": "meta[name='twitter:title']",
+          "attribute": "content",
+          "source": "The Church of Universal Consciousness (UNICON)",
+          "target": ""
+        },
+        {
+          "selector": "meta[name='twitter:description']",
+          "attribute": "content",
+          "source": "The world's first 100% open-sourced religion. Many beliefs, few answers. Fork us on GitHub.",
+          "target": ""
+        },
+        {
+          "selector": ".skip-link",
+          "source": "Skip to content",
+          "target": ""
+        },
+        {
+          "selector": ".meta-religion-banner-text",
+          "source": "What is a Meta-Religion?",
+          "target": ""
+        },
+        {
+          "selector": ".brand",
+          "attribute": "aria-label",
+          "source": "UNICON home",
+          "target": ""
+        },
+        {
+          "selector": ".brand-sub",
+          "source": "Church of Universal Consciousness",
+          "target": ""
+        },
+        {
+          "selector": "[data-nav-toggle] .sr-only",
+          "source": "Menu",
+          "target": ""
+        },
+        {
+          "selector": ".language-picker summary",
+          "attribute": "aria-label",
+          "source": "Choose language",
+          "target": ""
+        },
+        {
+          "selector": ".language-current",
+          "source": "EN",
+          "target": ""
+        },
+        {
+          "selector": ".language-options a:nth-child(1)",
+          "attribute": "aria-current",
+          "source": "page",
+          "target": ""
+        },
+        {
+          "selector": ".language-options a:nth-child(2)",
+          "attribute": "aria-current",
+          "source": "false",
+          "target": ""
+        },
+        {
+          "selector": "#site-nav a[href='#mission']",
+          "source": "Mission",
+          "target": ""
+        },
+        {
+          "selector": "#site-nav a[href='#principles']",
+          "source": "Principles",
+          "target": ""
+        },
+        {
+          "selector": "#site-nav a[href='#doctrine']",
+          "source": "Doctrine",
+          "target": ""
+        },
+        {
+          "selector": "#site-nav a[href='#wfh']",
+          "source": "Work From Home",
+          "target": ""
+        },
+        {
+          "selector": "#site-nav a[href='#join']",
+          "source": "Join",
+          "target": ""
+        },
+        {
+          "selector": ".hero .eyebrow",
+          "source": "UNICON - First 100% open-sourced religion",
+          "target": ""
+        },
+        {
+          "selector": "#hero-title",
+          "source": "The Church of",
+          "target": ""
+        },
+        {
+          "selector": "#hero-title em",
+          "source": "Universal Consciousness",
+          "target": ""
+        },
+        {
+          "selector": ".hero-logo--inline",
+          "attribute": "alt",
+          "source": "UNICON seal",
+          "target": ""
+        },
+        {
+          "selector": ".open-source-claim-badge",
+          "source": "World’s First",
+          "target": ""
+        },
+        {
+          "selector": ".open-source-claim-world-first",
+          "source": "The world’s first",
+          "target": ""
+        },
+        {
+          "selector": ".open-source-claim-text strong",
+          "source": "100% open-sourced religion",
+          "target": ""
+        },
+        {
+          "selector": ".hero-lede",
+          "source": "An areligious community for the unchurched — many beliefs, few answers.\n          We foster open-minded discussion, personal mythology, and targeted civic action\n          for a better society and a better Earth. Theology, site, and legal docs are all\n          on GitHub under dual open licenses.",
+          "target": ""
+        },
+        {
+          "selector": ".hero .hero-actions .btn-primary",
+          "source": "Fork on GitHub",
+          "target": ""
+        },
+        {
+          "selector": ".hero .hero-actions .btn-ghost",
+          "source": "Explore the Core Principles",
+          "target": ""
+        },
+        {
+          "selector": ".hero-stats div:nth-child(1) dt",
+          "source": "Core Principles",
+          "target": ""
+        },
+        {
+          "selector": ".hero-stats div:nth-child(2) dt",
+          "source": "Years",
+          "target": ""
+        },
+        {
+          "selector": ".hero-stats div:nth-child(3) dt",
+          "source": "License",
+          "target": ""
+        },
+        {
+          "selector": ".hero-stats div:nth-child(4) dt",
+          "source": "Open Source",
+          "target": ""
+        },
+        {
+          "selector": "#mission .section-label",
+          "source": "Mission",
+          "target": ""
+        },
+        {
+          "selector": "#mission-title",
+          "source": "A Federated Collective, Not a Monopoly on Truth",
+          "target": ""
+        },
+        {
+          "selector": "#mission .lead",
+          "source": "To create a federated community collective for those who want an areligious\n          organization which purposefully abstains from proselytizing dogmas. A\n          collaborative focused thought forum for the unchurched, comprised of\n          individuals who strive for evolving a better society, and a better Earth,\n          through fostering open minded discussion, and targeted civic action.",
+          "target": ""
+        },
+        {
+          "selector": "#mission .pill-row",
+          "attribute": "aria-label",
+          "source": "What we are",
+          "target": ""
+        },
+        {
+          "selector": "#mission .pill-row li:nth-child(1)",
+          "source": "Scientific spiritualism",
+          "target": ""
+        },
+        {
+          "selector": "#mission .pill-row li:nth-child(2)",
+          "source": "Open-source ecclesiology",
+          "target": ""
+        },
+        {
+          "selector": "#mission .pill-row li:nth-child(3)",
+          "source": "Tactical altruism",
+          "target": ""
+        },
+        {
+          "selector": "#mission .pill-row li:nth-child(4)",
+          "source": "No forced theism",
+          "target": ""
+        },
+        {
+          "selector": "#principles .section-label",
+          "source": "Doctrine · Kernel",
+          "target": ""
+        },
+        {
+          "selector": "#principles-title",
+          "source": "Core Principles",
+          "target": ""
+        },
+        {
+          "selector": ".principles-intro",
+          "source": "These eleven principles are the only rules you must follow.\n              Everything else — including Systems Theology — is optional mythology you may fork.",
+          "target": ""
+        },
+        {
+          "selector": ".principles-index",
+          "attribute": "aria-label",
+          "source": "Core Principles index",
+          "target": ""
+        },
+        {
+          "selector": ".principles-index li:nth-child(1) button",
+          "source": "Many Beliefs, Few Answers",
+          "target": ""
+        },
+        {
+          "selector": ".principles-index li:nth-child(2) button",
+          "source": "Very Few Accepted Answers",
+          "target": ""
+        },
+        {
+          "selector": ".principles-index li:nth-child(3) button",
+          "source": "Open-Mindedness Is Essential",
+          "target": ""
+        },
+        {
+          "selector": ".principles-index li:nth-child(4) button",
+          "source": "Maintain Your Own Mythology",
+          "target": ""
+        },
+        {
+          "selector": ".principles-index li:nth-child(5) button",
+          "source": "Sustainability Is Crucial",
+          "target": ""
+        },
+        {
+          "selector": ".principles-index li:nth-child(6) button",
+          "source": "Reincarnation Is Preferred",
+          "target": ""
+        },
+        {
+          "selector": ".principles-index li:nth-child(7) button",
+          "source": "Many Paths That Are Not Equal",
+          "target": ""
+        },
+        {
+          "selector": ".principles-index li:nth-child(8) button",
+          "source": "Theistic Belief Is Non-Essential",
+          "target": ""
+        },
+        {
+          "selector": ".principles-index li:nth-child(9) button",
+          "source": "Always Remain Vigilant",
+          "target": ""
+        },
+        {
+          "selector": ".principles-index li:nth-child(10) button",
+          "source": "Continuously Reevaluate Your Beliefs",
+          "target": ""
+        },
+        {
+          "selector": ".principles-index li:nth-child(11) button",
+          "source": "Work From Home Is Sacred",
+          "target": ""
+        },
+        {
+          "selector": "[data-slideshow]",
+          "attribute": "aria-roledescription",
+          "source": "carousel",
+          "target": ""
+        },
+        {
+          "selector": "[data-slideshow]",
+          "attribute": "aria-label",
+          "source": "Core Principles slideshow",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='0'] .slide-title",
+          "source": "Many Beliefs, Few Answers",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='0'] .slide-body",
+          "source": "Answers are only the beliefs which One has proven to themselves through testing\n                  and direct observation (e.g., the Scientific Method) to a degree which they can\n                  personally validate the phenomenon exists,",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='0'] .slide-body em",
+          "source": "for them",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='1'] .slide-title",
+          "source": "Very Few Accepted Answers",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='1'] .slide-body",
+          "source": "Accepted Answers are Answers which can be proven by repeated experimentation\n                  and largely acceptable in any open-minded, but serious, peer-reviewed journal.",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='2'] .slide-title",
+          "source": "Open-Mindedness Is Essential",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='2'] .slide-body",
+          "source": "Acknowledge that Science is still in its infancy and may or may not be the\n                  end-all-be-all. Beliefs should not be dismissed out of hand unless experimentation\n                  can be devised to prove otherwise in all instances. Even then, a benefit of the\n                  doubt that any given phenomenon may be real for any number of Observers should\n                  be afforded to them.",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='3'] .slide-title",
+          "source": "Maintain Your Own Mythology",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='3'] .slide-body",
+          "source": "While realizing we individually know Vanishingly Little, we must take care to\n                  consciously and continually maintain our own personal mythology system.",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='3'] .slide-body strong",
+          "source": "A healthy mind is one which acknowledges it knows very little, considers\n                  many possibilities without prematurely collapsing uncertainty, and “continually\n                  follows the Truth, wherever it leads” [Thomas Jefferson].",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='3'] .slide-body",
+          "source": "Do not believe anything without careful thought, feeling, and wherever possible,\n                  at least a little experimentation.",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='4'] .slide-title",
+          "source": "Sustainability Is Crucial",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='4'] .slide-body",
+          "source": "It is abundantly clear that the human footprint on this planet is causing\n                  irreparable harm to every ecosystem, potentially fatally. Every effort should be\n                  made to reduce our individual and collective footprints, including the disavowing\n                  of certain Beliefs that are easily perceived as promoting unsustainability\n                  (e.g., “The Earth was given to Man to do as He wilt.”).",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='5'] .slide-title",
+          "source": "Reincarnation Is Preferred",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='5'] .slide-body",
+          "source": "Few beliefs promote long-term Sustainability more: Belief in Reincarnation has\n                  been shown to dramatically increase the timeline horizons of its believers, from\n                  the common 5–10 years to over 500 to 1,000 years, as belief would necessitate\n                  living with one’s actions for thousands of years into the future. It also neatly\n                  ties up several hard-to-answer human dilemmas, such as the unfairness of being\n                  born severely handicapped.",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='6'] .slide-title",
+          "source": "Many Paths That Are Not Equal",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='6'] .slide-body",
+          "source": "There are many paths to a productive, fulfilling, sustainable life. UNICON seeks\n                  to discover the more efficient ones while advocating against the more destructive\n                  paths.",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='7'] .slide-title",
+          "source": "Theistic Belief Is Non-Essential",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='7'] .slide-body",
+          "source": "Personal belief in deity is understood and accepted, but it is not advocated at\n                  this time by The Church of Universal Consciousness. Theists, atheists and\n                  agnostics are all welcome alike. Who knows Who, if Anyone, is out there? All\n                  claims to deity should be met with the utmost skepticism, including a thorough\n                  probing into whether a con is being conducted. Special care must be taken to\n                  guard one’s mind and body from any Entity seeking special allegiance.",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='8'] .slide-title",
+          "source": "Always Remain Vigilant",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='8'] .slide-body",
+          "source": "In the event a superhuman Intelligence (including future Artificial Intelligence)\n                  does communicate with you, you are encouraged to acknowledge that a long con you\n                  are completely unable to identify on your own could be played out against you.\n                  Thus, you are encouraged to share your stories with others for debunking,\n                  particularly before setting on any course of divinely-inspired action.",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='9'] .slide-title",
+          "source": "Continuously Reevaluate Your Beliefs",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='9'] .slide-body",
+          "source": "Strive to not believe anything anyone says without due diligence in validating\n                  its truthfulness relative to your own personal mythology. But also strive to\n                  constantly reevaluate all of your beliefs, particularly your strongest held ones.",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='10'] .slide-title",
+          "source": "Work From Home Is Sacred",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='10'] .slide-body",
+          "source": "We strongly believe that working from home (telecommuting) is essential for the\n                  future of both humanity and Planet Earth. Whenever a reasonable accommodation can\n                  be made, we believe strongly that this is what we must do. Whenever there is not\n                  a strongly justifiable need for work to be done more than",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='10'] .slide-body strong",
+          "source": "2.2 miles (3.5 kilometers)",
+          "target": ""
+        },
+        {
+          "selector": "[data-index='10'] .slide-body",
+          "source": "from home, we hold that we must find\n                  other remote employment and/or face termination by our employer in order to uphold\n                  this core principle of our faith. We vow never to be forced into hybrid or\n                  full-time in-office work for the sakes of our planet and the future technological\n                  progression of humanity.",
+          "target": ""
+        },
+        {
+          "selector": "[data-slide-prev]",
+          "attribute": "aria-label",
+          "source": "Previous principle",
+          "target": ""
+        },
+        {
+          "selector": "[data-slideshow-dots]",
+          "attribute": "aria-label",
+          "source": "Principle slides",
+          "target": ""
+        },
+        {
+          "selector": "[data-slide-next]",
+          "attribute": "aria-label",
+          "source": "Next principle",
+          "target": ""
+        },
+        {
+          "selector": "[data-slide-autoplay]",
+          "attribute": "aria-label",
+          "source": "Pause autoplay",
+          "target": ""
+        },
+        {
+          "selector": ".slideshow-hint",
+          "source": "Use ← → keys · swipe on mobile · click a dot to jump",
+          "target": ""
+        },
+        {
+          "selector": "#doctrine .section-label",
+          "source": "Optional frameworks",
+          "target": ""
+        },
+        {
+          "selector": "#doctrine-title",
+          "source": "Doctrine Beyond the Kernel",
+          "target": ""
+        },
+        {
+          "selector": "#doctrine .section-lede",
+          "source": "The Core Principles are covenant. Everything below is a helpful interface —\n          not a membership test. Fork freely.",
+          "target": ""
+        },
+        {
+          "selector": "#doctrine .card:nth-child(1) .card-kicker",
+          "source": "Meta-Religion",
+          "target": ""
+        },
+        {
+          "selector": "#doctrine .card:nth-child(1) h3",
+          "source": "Additive Layer, Real Commitments",
+          "target": ""
+        },
+        {
+          "selector": "#doctrine .card:nth-child(1) p",
+          "source": "UNICON is a meta-religion: scientific spiritualism, open-minded inclusion, and\n              sacred remote work taken",
+          "target": ""
+        },
+        {
+          "selector": "#doctrine .card:nth-child(1) p em",
+          "source": "on top of",
+          "target": ""
+        },
+        {
+          "selector": "#doctrine .card:nth-child(1) p",
+          "source": "your existing beliefs — not a demand\n              that you renounce them. Thin covenant, voluntary alignment, forks as implementors.",
+          "target": ""
+        },
+        {
+          "selector": "#doctrine .card:nth-child(1) .text-link",
+          "source": "What is a Meta-Religion?",
+          "target": ""
+        },
+        {
+          "selector": "#doctrine .card:nth-child(2) .card-kicker",
+          "source": "Systems Theology",
+          "target": ""
+        },
+        {
+          "selector": "#doctrine .card:nth-child(2) h3",
+          "source": "DevOps as Angels",
+          "target": ""
+        },
+        {
+          "selector": "#doctrine .card:nth-child(2) p",
+          "source": "Prayer and “miracles” reframed as a Hidden API. Suffering as technical debt,\n              not divine plan. Simulation literacy instead of subservience — optional ontology\n              for those who find it useful.",
+          "target": ""
+        },
+        {
+          "selector": "#doctrine .card:nth-child(2) .text-link",
+          "source": "Read Systems Theology",
+          "target": ""
+        },
+        {
+          "selector": "#doctrine .card:nth-child(3) .card-kicker",
+          "source": "Open-Source Ecclesiology",
+          "target": ""
+        },
+        {
+          "selector": "#doctrine .card:nth-child(3) h3",
+          "source": "Forks, Not Schisms",
+          "target": ""
+        },
+        {
+          "selector": "#doctrine .card:nth-child(3) p",
+          "source": "Monopoly orthodoxy creates heretics and wars. UNICON is leaderless at the core,\n              dual-licensed, and designed so Halal, AI-native, and other forks can coexist\n              without declaring each other evil.",
+          "target": ""
+        },
+        {
+          "selector": "#doctrine .card:nth-child(3) .text-link",
+          "source": "Read Open-Source Ecclesiology",
+          "target": ""
+        },
+        {
+          "selector": "#doctrine .card:nth-child(4) .card-kicker",
+          "source": "Licensing",
+          "target": ""
+        },
+        {
+          "selector": "#doctrine .card:nth-child(4) h3",
+          "source": "100% Open Source",
+          "target": ""
+        },
+        {
+          "selector": "#doctrine .card:nth-child(4) p",
+          "source": "The world’s first 100% open-sourced religion. Theology, site, legal docs, and\n              generators are dual-licensed under Creative Commons Attribution 3.0 and the\n              Open Source Software Alliance License (OSSAL) 1.0. You must abide by both.\n              Attribution retained; viral copyleft forks blocked.",
+          "target": ""
+        },
+        {
+          "selector": "#wfh .section-label",
+          "source": "Principle 11 · Core doctrine · Only required oath",
+          "target": ""
+        },
+        {
+          "selector": "#wfh-title",
+          "source": "Work From Home Is Sacred",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-exemption",
+          "source": "Work From Home Religious Exemption",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-copy > p:nth-of-type(3)",
+          "source": "Telecommuting and walkable cities are not lifestyle preferences here — they are\n              core differentiating doctrine: ecological survival, family health, and the\n              technological progression of humanity. Unlike optional frameworks such as Systems\n              Theology, this is covenant.",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-copy > p:nth-of-type(4)",
+          "source": "Full members affirm",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-copy > p:nth-of-type(4) strong:nth-of-type(1)",
+          "source": "one oath only",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-copy > p:nth-of-type(4)",
+          "source": ": never accept hybrid or\n              full-time in-office employment when the work can be done remotely, or when there\n              is no strongly justifiable need to work more than",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-copy > p:nth-of-type(4) strong:nth-of-type(2)",
+          "source": "2.2 miles (3.5 km)",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-copy > p:nth-of-type(4)",
+          "source": "from home.",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-copy .hero-actions .btn-primary",
+          "source": "Read the Oath",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-copy .hero-actions .btn-ghost",
+          "source": "Why We Reject Commuting",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-panel",
+          "attribute": "aria-label",
+          "source": "Oath summary",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-panel-label",
+          "source": "The only required oath",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-panel blockquote",
+          "source": "“I pledge my unwavering commitment to never accept employment requiring even one\n              mandatory in-office day per week, unequivocally rejecting hybrid or full-time\n              on-site work.”",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-panel-meta",
+          "source": "— Oath to Work Locally or Remotely",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-resources",
+          "attribute": "aria-label",
+          "source": "Work from home doctrine and resources",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-resources .card:nth-child(1) .card-kicker",
+          "source": "Required · Membership",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-resources .card:nth-child(1) h3",
+          "source": "Oath to Work Locally or Remotely",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-resources .card:nth-child(1) p",
+          "source": "The only oath required for full membership. Affirm 100% remote or walkable work —\n              never hybrid, never forced office days.",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-resources .card:nth-child(1) .text-link",
+          "source": "Read the Oath",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-resources .card:nth-child(2) .card-kicker",
+          "source": "Core doctrine",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-resources .card:nth-child(2) h3",
+          "source": "The Case Against Mandatory Commuting",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-resources .card:nth-child(2) p",
+          "source": "Progressive vision for work and society: environment, human liberation, economic\n              progress, walkable cities, and social justice — why office mandates fail.",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-resources .card:nth-child(2) .text-link",
+          "source": "Read the doctrine",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-resources .card:nth-child(3) .card-kicker",
+          "source": "Practice guide",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-resources .card:nth-child(3) h3",
+          "source": "Reclaiming Power",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-resources .card:nth-child(3) p",
+          "source": "Individual strategies for securing remote work rights — the UNICON religious\n              accommodation model and how it has worked at dozens of large corporations.",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-resources .card:nth-child(3) .text-link",
+          "source": "Read the guide",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-resources .card:nth-child(4) .card-kicker",
+          "source": "HR & legal",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-resources .card:nth-child(4) h3",
+          "source": "WFH Guide (PDF)",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-resources .card:nth-child(4) p",
+          "source": "Practical guide for members and employers. Pair with membership verification\n              certificates under",
+          "target": ""
+        },
+        {
+          "selector": ".wfh-resources .card:nth-child(4) .text-link",
+          "source": "Download PDF",
+          "target": ""
+        },
+        {
+          "selector": "#join .section-label",
+          "source": "Community",
+          "target": ""
+        },
+        {
+          "selector": "#join-title",
+          "source": "You Are Welcome Here",
+          "target": ""
+        },
+        {
+          "selector": "#join .lead",
+          "source": "Theists, atheists, agnostics — anyone who resonates with the Core Principles.\n          We do not proselytize. If the principles ring true, the rest is optional.",
+          "target": ""
+        },
+        {
+          "selector": "#join .btn-primary",
+          "source": "Community on Facebook",
+          "target": ""
+        },
+        {
+          "selector": "#join .btn-ghost",
+          "source": "Fork on GitHub",
+          "target": ""
+        },
+        {
+          "selector": ".footer-brand span",
+          "source": "The Church of Universal Consciousness",
+          "target": ""
+        },
+        {
+          "selector": ".footer-note",
+          "source": "Founded March 2015 by Theodore R. Smith (HopeSeekr). Leaderless at the core —\n        the Principles are what matter. Continually follow the Truth, wherever it leads.",
+          "target": ""
+        },
+        {
+          "selector": ".footer-copy",
+          "source": "© 2012–2026 Theodore R. Smith. Licensed under CC-BY 3.0 and OSSAL 1.0 simultaneously.",
+          "target": ""
+        }
+      ]
+    }
+  ]
+}

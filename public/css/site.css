@@ -175,7 +175,7 @@ a:hover {
    -------------------------------------------------------------------------- */
 
 .site-header {
-/*  position: sticky; */
+  position: relative;
   top: 0;
   z-index: 100;
   height: var(--header-h);
